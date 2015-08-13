@@ -23,12 +23,12 @@ var template = '\
 <td style="background-color:#77ffff; vertical-align: top; min-width:100px;"><br> \
 <a href="/index.html">Home</a><br><br> \
 <a href="/projects.html">Projects</a><br><br> \
-<a href="http://h6nry.github.io/repo/">Cydia repo</a><br><br> \
+<a href="http://BannerBomb.github.io/repo/">Cydia repo</a><br><br> \
 <a href="/tutorial-cydia-repo.html">Tutorial: How to host your own Cydia repo</a><br><br> \
 <a href="/c-autoreleasepool.html">C-Autoreleasepool project</a><br><br> \
 <a href="/surutcra.html">Surutcra - A Twitter client</a><br><br> \
 <a href="/ncforward.html">NCForward - Forward your notifications</a><br><br> \
-<a href="http://github.com/H6nry/" target="_blank">Github</a><br><br> \
+<a href="http://github.com/BannerBomb/" target="_blank">Github</a><br><br> \
 </td> \
 <td> \
 <div style="text-align: justify; font-size:110%; background-color:#FFFFFF; min-width: 300px; max-width: 700px; vertical-align: top;"><br> \
