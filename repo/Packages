@@ -1,7 +1,7 @@
 Package: org.h6nry.bytafontlegacytm
 Version: 0.0.1-127
 Section: Tweaks
-Maintainer: H6nry <henry.anonym@gmail.com>
+Maintainer: BannerBomb <bannerbomb55@gmail.com>
 Depends: mobilesubstrate, preferenceloader
 Provides: com.bytafont.bytafonttm
 Architecture: iphoneos-arm
@@ -11,7 +11,7 @@ Installed-Size: 40
 MD5sum: ced0d3a70d452b19db8d6860b14ddf39
 Description: BytaFont Tweak Mode for old iOS versions
 Name: BytaFontLegacyTM
-Author: H6nry <henry.anonym@gmail.com>
+Author: BannerBomb <henry.anonym@gmail.com>
 Depiction: http://h6nry.github.io/repo/Files/bytafontlegacytm/index.html
 
 Package: org.h6nry.classiclockcydget
