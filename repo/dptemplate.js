@@ -13,7 +13,7 @@ var template = ' \
 <body text="#000000" link="#404040" alink="#404040" vlink="#404040" style="background:none;"> \
  \
 <div align="center" style="background-color:#77ffff"> \
-<h1>H6nry\'s Repo</h1> \
+<h1>BannerBomb\'s Repo</h1> \
 </div> \
  \
 <div align="center" style="background-color:#FFFFFF;"> \
@@ -25,7 +25,7 @@ var template = ' \
 </div> \
 <h3><a href="https://twitter.com/BannerBomb_/" target="_blank">Me on Twitter: BannerBomb_</a><br> \
 <a href="https://github.com/BannerBomb/" target="_blank">Me on Github: BannerBomb</a><br> \
-<a href="http://BannerBomb.github.io/" target="_blank">My Website</a></h3> \
+<a href="http://bannerbomb.github.io/" target="_blank">My Website</a></h3> \
 </td> \
 \
 </tr> \
