@@ -14,7 +14,7 @@ var template = '\
 <body text="#000000" bgcolor="#FFFFFF" link="#404040" alink="#404040" vlink="#404040" style="font-family: sans-serif;"> \
 \
 <div align="center" style="background-color:#77ffff; font-family: serif; width:100%;"> \
-<h1>H6nry\'s Page</h1> \
+<h1>BannerBomb\'s Page</h1> \
 "Doing the magic." \
 </div> \
  \
