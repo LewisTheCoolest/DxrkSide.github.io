@@ -8,7 +8,7 @@ var template = ' \
 <link rel="shortcut icon" href=""> \
 <meta name="robots" content="index,follow"> \
 <!--<meta http-equiv="cache-control" content="no-cache">--> \
-<title>H6nry\'s Cydia repo</title> \
+<title>BannerBomb\'s Cydia repo</title> \
 </head> \
 <body text="#000000" link="#404040" alink="#404040" vlink="#404040" style="background:none;"> \
  \
@@ -23,9 +23,9 @@ var template = ' \
 <div style="text-align: justify; font-size:110%; background-color:#FFFFFF; min-width: 300px; max-width: 700px; vertical-align: top;"><br> \
 ' + content + '\
 </div> \
-<h3><a href="https://twitter.com/H6nry_/" target="_blank">Me on Twitter: H6nry_</a><br> \
-<a href="https://github.com/H6nry/" target="_blank">Me on Github: H6nry</a><br> \
-<a href="http://h6nry.github.io/" target="_blank">My Website</a></h3> \
+<h3><a href="https://twitter.com/BannerBomb_/" target="_blank">Me on Twitter: BannerBomb_</a><br> \
+<a href="https://github.com/BannerBomb/" target="_blank">Me on Github: BannerBomb</a><br> \
+<a href="http://BannerBomb.github.io/" target="_blank">My Website</a></h3> \
 </td> \
 \
 </tr> \
