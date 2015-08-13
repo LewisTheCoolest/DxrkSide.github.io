@@ -31,4 +31,4 @@ var template = ' \
 </tr> \
 </table> \
 ';
-document.documentElement.innerHTML = template;h
+document.documentElement.innerHTML = template;
