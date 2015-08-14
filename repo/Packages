@@ -12,7 +12,7 @@ MD5sum: ced0d3a70d452b19db8d6860b14ddf39
 Description: BytaFont Tweak Mode for old iOS versions
 Name: BytaFontLegacyTM
 Author: BannerBomb <henry.anonym@gmail.com>
-Depiction: http://h6nry.github.io/repo/Files/bytafontlegacytm/index.html
+Depiction: http://bannerbomb.github.io/repo/Files/bytafontlegacytm/index.html
 
 Package: org.h6nry.classiclockcydget
 Version: 4.0
@@ -27,7 +27,7 @@ MD5sum: 70042021b08e2d5753ded6726c8c7323
 Description: iOS 6 style lockscreen on iOS 7 and 8
 Name: Classic Lock Cydget
 Author: H6nry <henry.anonym@gmail.com>
-Depiction: http://h6nry.github.io/repo/Files/classiclockcydget/index.html
+Depiction: http://bannerbomb.github.io/repo/Files/classiclockcydget/index.html
 
 Package: org.h6nry.classiclockextension
 Version: 2.4
@@ -40,7 +40,7 @@ Description: Extensions for ClassicLock Cydget
 Name: ClassicLock Extension
 Author: H6nry <henry.anonym@gmail.com>
 Maintainer: H6nry <henry.anonym@gmail.com>
-Depiction: http://h6nry.github.io/repo/Files/classiclockextension/index.html
+Depiction: http://bannerbomb.github.io/repo/Files/classiclockextension/index.html
 
 Package: org.h6nry.quickact
 Version: 0.0.1-1
@@ -55,7 +55,7 @@ MD5sum: 7ff0cb6c03f6aec3f1c28546cac3d7e5
 Description: Quickly toggle WiFi on iOS 6!
 Name: QuickAct
 Author: H6nry <henry.anonym@gmail.com>
-Depiction: http://h6nry.github.io/repo/Files/quickact/index.html
+Depiction: http://bannerbomb.github.io/repo/Files/quickact/index.html
 
 Package: org.h6nry.swipeswitcher6
 Version: 0.0.1-87
@@ -70,7 +70,7 @@ MD5sum: 694352902cc4665ced2326e3afbc008d
 Description: Swipe to switcher! (on iOS 6)
 Name: SwipeSwitcher6
 Author: H6nry <henry.anonym@gmail.com>
-Depiction: http://h6nry.github.io/repo/Files/swipeswitcher6/index.html
+Depiction: http://bannerbomb.github.io/repo/Files/swipeswitcher6/index.html
 
 Package: org.h6nry.ncforward
 Version: 1.0-3
@@ -85,7 +85,7 @@ MD5sum: 490f67e4ab92758fac2ba999a6e02139
 Description: Forward iOS notfications to any other device. Or: Continuity feature for everyone!
 Name: NCForward
 Author: H6nry <henry.anonym@gmail.com>
-Depiction: http://h6nry.github.io/repo/Files/ncforward/index.html
+Depiction: http://bannerbomb.github.io/repo/Files/ncforward/index.html
 
 Package: org.h6nry.peaceswitcher
 Version: 0.0.1-12
@@ -100,5 +100,19 @@ MD5sum: 6957468fae12707d6e1c7681aa947f21
 Description: An awesome MobileSubstrate tweak!
 Name: PeaceSwitcher
 Author: H6nry <henry.anonym@gmail.com>
-Depiction: http://h6nry.github.io/repo/Files/peaceswitcher/index.html
+Depiction: http://bannerbomb.github.io/repo/Files/peaceswitcher/index.html
 
+Package: org.h6nry.bootup
+Version: 0.1-60
+Section: Tweaks
+Maintainer: BannerBomb <bannerbomb55@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: Files/bootup/org.h6nry.bootup_0.1-60_iphoneos-arm.deb
+Size: 338098
+Installed-Size: 330170
+MD5sum: 599aa3f89def6e593640e7392835af52
+Description: settings menu for respring/reboot/shutdown.
+Name: Bootup
+Author: BannerBomb <bannerbomb55@gmail.com>
+Depiction: http://bannerbomb.github.io/repo/Files/bootup/index.html
