@@ -711,6 +711,19 @@ Description: The ultimate iPhone, iPod and iPad system cleaner & optimizer
 Name: iCleaner Pro
 Author: Ivano Bilenchi
 
+Package: com.yourepo.bannerbomb.icone
+Version: 1.0
+Section: System
+Essential: yes
+Architecture: iphoneos-arm
+Filename: Files/bannerbombsiconfoodsandhacks/com.bannerbomb.icone_1.0_iphoneos-arm.deb
+Size: 7844
+MD5sum: ce428b3b7b7c3b6dffee78ca08602732
+Description: Officials BannerBomb Repo Icons
+Name: BannerBomb Repo Icons
+Author: BannerBomb
+Depiction: https://www.yourepo.com/repo/bannerbomb/pack/icone
+
 Package: com.yourepo.bannerbomb.iconpasscode
 Version: 2.0
 Section: Tweaks
