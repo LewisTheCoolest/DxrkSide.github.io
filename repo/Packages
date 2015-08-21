@@ -1,3 +1,21 @@
+Package: com.aaronash.barrel
+Version: 1.7.5.1-1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware(>= 3.1), mobilesubstrate, gsc.armv7, preferenceloader
+Conflicts: net.limneos.sbrotator (<= 2.1.5)
+Architecture: iphoneos-arm
+Filename: Files/barrel/com.bannerbomb.barrel_1.7.5.1-1_iphoneos-arm.deb
+Size: 757122
+Installed-Size: 4223
+MD5sum: 84cad306e9745b2460a6f1ec972b5d4a
+Description: 3D and other effects on icon pages!
+Name: Barrel
+Author: Aaron Ash (Charybdis) <support@multifl0w.com>
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=barrelData
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=barrelData
+Icon: file:///Applications/BarrelSettings.app/Barrel_AppIcon57x57.png
+
 Package: com.yourepo.bannerbomb.actionboard
 Version: 1.2.0-1
 Section: Tweaks
