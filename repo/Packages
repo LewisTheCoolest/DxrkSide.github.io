@@ -1,7 +1,1366 @@
+Package: com.yourepo.bannerbomb.actionboard
+Version: 1.2.0-1
+Section: Tweaks
+Pre-Depends: firmware (>= 5.0)
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: Files/actionboard/com.yourepo.bannerbomb.actionboard_1.2.0-1_iphoneos-arm.deb
+Size: 1338754
+MD5sum: faa5e90e8114b6eab8571f8b2e423c95
+Description: Add useful system functions to the AppSwitcher!
+Name: ActionBoard
+Author: SBCoders
+
+Package: com.yourepo.bannerbomb.allroundprogram
+Version: 1.0
+Section: System
+Architecture: iphoneos-arm
+Filename: Files/allroundprogram/com.yourepo.bannerbomb.allroundprogram_1.0_iphoneos-arm.deb
+Size: 6702
+MD5sum: d87fcdc269911bcb2142ad3904946681
+Description: Deb maker and more
+Name: Allround Program
+Author: HackJack
+
+Package: com.yourepo.bannerbomb.aloud
+Version: 1.2.2
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, applist, libactivator, firmware (>= 7.0)
+Architecture: iphoneos-arm
+Filename: Files/aloud/com.yourepo.bannerbomb.aloud_1.2.2_iphoneos-arm.deb
+Size: 88578
+MD5sum: 7f28da2c0e5d22b34560bfe8c8d5e70f
+Description: Aloud is a very feature rich tweak that makes your notifications speak!
+Name: Aloud
+Author: cjori
+
+Package: com.yourepo.bannerbomb.androiddelete
+Version: 1.2.1
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, firmware (>= 4.0)
+Architecture: iphoneos-arm
+Filename: Files/androiddelete/com.yourepo.bannerbomb.androiddelete_1.2.1_iphoneos-arm.deb
+Size: 45286
+MD5sum: 08a64e8f67b6865c6a1a500c1148c7e6
+Description: drag wiggling icons to the trash to delete
+Name: Android Delete
+Author: Fr0zen Sun
+
+Package: com.yourepo.bannerbomb.androidloader
+Version: 1.2.1
+Section: Tweaks
+Depends: mobilesubstrate, libhide
+Architecture: iphoneos-arm
+Filename: Files/androidloader/com.yourepo.bannerbomb.androidloader_1.2.1_iphoneos-arm.deb
+Size: 80258
+MD5sum: 81c0c908b54a95cf2812ae24c3a1c708
+Description: With a single tap or slide gesture, you are able to launch and view all your applications in one place, Android style, on your iOS device!
+Name: AndroidLoader
+Author: Surenix
+
+Package: com.yourepo.bannerbomb.androidrecentapps
+Version: 1.1.1
+Section: Tweaks
+Depends: mobilesubstrate, libactivator, firmware (>= 4.0)
+Architecture: iphoneos-arm
+Filename: Files/androidrecentapps/com.yourepo.bannerbomb.androidrecentapps_1.1.1_iphoneos-arm.deb
+Size: 45416
+MD5sum: 2538111fda5331a11b8dbbc03ccabf8a
+Description: show & launch recent apps like Android
+Name: Android Recent Apps
+Author: Fr0zen Sun
+
+Package: com.yourepo.bannerbomb.anemo
+Version: 0.8
+Section: Tweaks
+Depends: firmware (>= 5.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: Files/anemo/com.yourepo.bannerbomb.anemo_0.8_iphoneos-arm.deb
+Size: 154318
+MD5sum: 54259e5aeb4acfac0fd00b40b525017f
+Description: Quick Reply like it was meant to be.
+Name: Anemo
+Author: A3tweaks
+
+Package: com.yourepo.bannerbomb.anicons
+Version: 0.7-5
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, firmware(>= 4.0)
+Conflicts: com.thezimm.AirPlaneIcon, com.thezimm.WifiIcon
+Architecture: iphoneos-arm
+Filename: Files/anicons/com.yourepo.bannerbomb.anicons_0.7-5_iphoneos-arm.deb
+Size: 585568
+MD5sum: deb1e742fbe221e35f07850975d5d600
+Description: useful system toggles on the homescreen
+Name: Anicons
+Author: Dan Zimmerman
+
+Package: com.yourepo.bannerbomb.ap2ipa
+Version: 1.1
+Section: System
+Depends: com.sull.installous4 | com.hackulo.us.installous | com.sull.installous3, coreutils, findutils, grep, sed
+Architecture: iphoneos-arm
+Filename: Files/ap2ipa/com.yourepo.bannerbomb.ap2ipa_1.1_iphoneos-arm.deb
+Size: 1880
+MD5sum: 85e93a98ed1398c2314a9b03b1a1db9d
+Description: converts system apps to ipa's to be installed through installous and then synced to itunes for easy saving.. run 'ap2ipa' from terminal. only apps that can function as mobile will work.. more info in terminal
+Name: ap2ipa
+Author: brc0703
+
+Package: com.yourepo.bannerbomb.applefileconduit
+Version: 1.2
+Section: System
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: firmware (<< 8.0) | mobilesubstrate
+Conflicts: us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Architecture: iphoneos-arm
+Filename: Files/applefileconduit/com.yourepo.bannerbomb.applefileconduit_1.2_iphoneos-arm.deb
+Size: 18166
+MD5sum: eba0513f82a41dac2c2f0eaeee6497c8
+Description: allow full file-system access over USB
+Name: Apple File Conduit
+Author: Jay Freeman (saurik)
+
+Package: com.yourepo.bannerbomb.applicationduplication
+Version: 1.7.1
+Section: Utilities
+Depends: coreutils-bin, coreutils, findutils, sed, com.ericasadun.utilities, gawk, com.innoying.sbutils, zip
+Architecture: iphoneos-arm
+Filename: Files/applicationduplication/com.yourepo.bannerbomb.applicationduplication_1.7.1_iphoneos-arm.deb
+Size: 2684
+MD5sum: 457f7157fcaf17e6e9dc002c8d40014f
+Description: Application Duplication lets you have 2 of the same app on your springboard.. builds from installed apps and puts ipa with artwork in Installous Downloads for install. Now some apps will be created and install but will crash on launch. sorry i dont have a solution yet. Usage run 'appdub' [ AppFolder.app ] or option [ -l ] lists all App Folders ex. appdub DoodleJump.app or 'appdub -l'
+Name: Application Duplication
+Author: brc0703
+
+Package: com.yourepo.bannerbomb.applist
+Version: 1.5.9
+Section: System
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), com.rpetrich.rocketbootstrap (>= 1.0) | firmware (<< 7.0)
+Architecture: iphoneos-arm
+Filename: Files/applist/com.yourepo.bannerbomb.applist_1.5.9_iphoneos-arm.deb
+Size: 136660
+MD5sum: 14b227513803fef2b68daba5349449b0
+Description: Allow extensions to read the list of installed apps
+Name: AppList
+Author: Ryan Petrich
+
+Package: com.yourepo.bannerbomb.appro
+Version: 2.1.8-2k
+Section: Tweaks
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5000), libhide, com.rpetrich.rocketbootstrap
+Architecture: iphoneos-arm
+Filename: Files/appro/com.yourepo.bannerbomb.appro_2.1.8-2k_iphoneos-arm.deb
+Size: 1159058
+MD5sum: 36e0ac1b73c1a93e88633bae0eb3d554
+Description: Most powerful protect Privacy and App
+Name: Appro
+Author: ioodo
+
+Package: com.yourepo.bannerbomb.assistant
+Version: 1.2.0-1
+Section: Tweaks
+Depends: firmware (>= 7.0), libactivator (>= 1.8.3), mobilesubstrate, gsc.assistant
+Architecture: iphoneos-arm
+Filename: Files/assistant/com.yourepo.bannerbomb.assistant_1.2.0-1_iphoneos-arm.deb
+Size: 139272
+MD5sum: 9bc799cc5ed7641b31ecb84cd0b74ec2
+Description: Assign commands for Siri to trigger Activator events
+Name: Assistant+
+Author: Zaid Elkurdi
+
+Package: com.yourepo.bannerbomb.assistantextensions
+Version: 1.0.2-184-1
+Section: Tweaks
+Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader, openssl, pcre, gsc.assistant, com.zimm.libdisplaystack, me.k3a.libaiml
+Architecture: iphoneos-arm
+Filename: Files/assistantextensions/com.yourepo.bannerbomb.assistantextensions_1.0.2-184-1_iphoneos-arm.deb
+Size: 1182874
+MD5sum: c1c0994f5f864a92acf4efe4689b9c7b
+Description: plugin system for new Siri functionality. Several commands and snippets are built-in, including a chat bot for talking to Siri about anything you like.
+Name: AssistantExtensions
+Author: K3A
+
+Package: com.yourepo.bannerbomb.autoprotect
+Version: 1.1.1
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: Files/autoprotect/com.yourepo.bannerbomb.autoprotect_1.1.1_iphoneos-arm.deb
+Size: 21640
+MD5sum: 9c0a7650be4fff1f8678621d21e4dfc4
+Description: AutoProtect detects if you are at home or not by checking for the Name of the WiFi Network the Device
+Name: AutoProtect
+Author: Fllotouch
+
+Package: com.yourepo.bannerbomb.ayna
+Version: 1.0
+Section: Tweaks
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: Files/ayna/com.yourepo.bannerbomb.ayna_1.0_iphoneos-arm.deb
+Size: 7546
+MD5sum: 3df9285f0621679d933b46a447358e1b
+Description: Your pocket mirror.
+Name: ayna
+Author: ravirajm
+
+Package: com.yourepo.bannerbomb.batterypercentageforipod
+Version: 1.1
+Section: Tweaks
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Architecture: iphoneos-arm
+Filename: Files/batterypercentageforipod/com.yourepo.bannerbomb.batterypercentageforipod_1.1_iphoneos-arm.deb
+Size: 10658
+MD5sum: b475aa4a49e7952701f6f44536a1dbaf
+Description: Battery Percentage for iPod 4 & 5
+Name: Battery Percentage for iPod
+Author: Adamyaish
+
+Package: com.yourepo.bannerbomb.betterfolders
+Version: 0.0.1-1
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0)
+Architecture: iphoneos-arm
+Filename: Files/betterfolders/com.yourepo.bannerbomb.betterfolders_0.0.1-1_iphoneos-arm.deb
+Size: 3666
+MD5sum: 977652fb092dcf8cea56988d7f439c04
+Description: pinch-to-close, nested folders, ipad 4x4 layout
+Name: BetterFolders
+Author: MPow
+
+Package: com.yourepo.bannerbomb.betterpasscodekeypad
+Version: 0.2.1-1
+Section: Tweaks
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Architecture: iphoneos-arm
+Filename: Files/betterpasscodekeypad/com.yourepo.bannerbomb.betterpasscodekeypad_0.2.1-1_iphoneos-arm.deb
+Size: 13200
+MD5sum: e453f78bd5d87e4623fa5df84cfdc905
+Description: Enhance security by customizing the passcode keypad.
+Name: BetterPasscodeKeypad
+Author: Oliver Kuckertz
+
+Package: com.yourepo.bannerbomb.betterpowerdown
+Version: 1.1.0-6
+Section: Tweaks
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), firmware(<< 8.0) | org.coolstar.libclassictelephonyui
+Architecture: iphoneos-arm
+Filename: Files/betterpowerdown/com.yourepo.bannerbomb.betterpowerdown_1.1.0-6_iphoneos-arm.deb
+Size: 59784
+MD5sum: 54253ad4acd14397ff1b72356bf7814b
+Description: classic iOS 6 style power sliders
+Name: BetterPowerDown
+Author: CoolStar
+
+Package: com.yourepo.bannerbomb.bigbossrecommendedtools
+Version: 1.3.2
+Section: Theos
+Depends: syslogcmdline, adv-cmds, apt, basic-cmds, bootstrap-cmds, bzip2, class-dump, coreutils, developer-cmds, diskdev-cmds, file-cmds, gawk, gdb, git, gzip, iokittools, less, make, nano, network-cmds, ldid, openssh, rsync, shell-cmds, system-cmds, com.ericasadun.utilities, top, uikittools, findutils, inetutils, diffutils, lsof, subversion, vim, xar, tar, patch, unrar, unzip, wget, whois, xml2, zip, p7zip
+Architecture: iphoneos-arm
+Filename: Files/bigbossrecommendedtools/com.yourepo.bannerbomb.bigbossrecommendedtools_1.3.2_iphoneos-arm.deb
+Size: 2680
+MD5sum: 9249104d3c83e0a14c7fb9647745ffe5
+Description: Combined list of hacker tools. Cydia no longer comes preinstalled with most useful command line apps. This package installs most the missing ones in one swoop. There is no real package provided here. It is only a set of depends on other various tools so that your command line can become useful again.
+Name: BigBoss Recommended Tools
+Author: BigBoss
+
+Package: com.yourepo.bannerbomb.bio
+Version: 1.3.1-85
+Section: Tweaks
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Conflicts: com.vedboon.biolite
+Architecture: iphoneos-arm
+Filename: Files/bio/com.yourepo.bannerbomb.bio_1.3.1-85_iphoneos-arm.deb
+Size: 92268
+MD5sum: b9c275035b31488520c40541452a404d
+Description: virtual fingerprint scanner unlocker
+Name: Bio
+Author: Javier (VedBoon) Brito
+
+Package: com.yourepo.bannerbomb.bootup
+Version: 0.1-60
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), preferenceloader
+Architecture: iphoneos-arm
+Filename: Files/bootup/org.h6nry.bootup_0.1-60_iphoneos-arm.deb
+Size: 338098
+MD5sum: 599aa3f89def6e593640e7392835af52
+Description: settings menu for respring/reboot/shutdown
+Name: BootUp
+Author: $n1per
+
+Package: com.yourepo.bannerbomb.ccflashlightlevel
+Version: 1.1-3
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 7.0), gsc.camera-flash, preferenceloader
+Architecture: iphoneos-arm
+Filename: Files/ccflashlightlevel/com.yourepo.bannerbomb.ccflashlightlevel_1.1-3_iphoneos-arm.deb
+Size: 23818
+MD5sum: 1a7484ba83618cf2fa50a1ff1c88a250
+Description: adjustable torch level using Control Center's torch button.
+Name: CCFlashLightLevel
+Author: PoomSmart
+
+Package: com.yourepo.bannerbomb.clap
+Version: 0.3-3
+Section: Tweaks
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Conflicts: com.fl00d.locksmoother, com.sull.locksmoother
+Architecture: iphoneos-arm
+Filename: Files/clap/com.yourepo.bannerbomb.clap_0.3-3_iphoneos-arm.deb
+Size: 53266
+MD5sum: c12837d1f97d9debac13083a285190eb
+Description: Clap your hands to find your phone!
+Name: Clap
+Author: fl00d
+
+Package: com.yourepo.bannerbomb.classicapps
+Version: 0.0.1-24
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: Files/classicapps/com.yourepo.bannerbomb.classicapps_0.0.1-24_iphoneos-arm.deb
+Size: 4136
+MD5sum: 40afa8d3d29a2e44c925212333d2a668
+Description: An awesome MobileSubstrate tweak!
+Name: Classic Apps
+Author: CoolStar
+
+Package: com.yourepo.bannerbomb.classicbadges1
+Version: 2.1
+Section: Tweaks
+Depends: org.coolstar.themelib, winterboard
+Architecture: iphoneos-arm
+Filename: Files/classicbadges1/com.yourepo.bannerbomb.classicbadges1_2.1_iphoneos-arm.deb
+Size: 424004
+MD5sum: da1195ba0f53d6140bbb9750b9122c31
+Description: Bring back the iOS 6 badges to iOS 7+!
+Name: Classic Badges
+Author: CoolStar
+
+Package: com.yourepo.bannerbomb.classicfonts
+Version: 0.0.1-9
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: Files/classicfonts/com.yourepo.bannerbomb.classicfonts_0.0.1-9_iphoneos-arm.deb
+Size: 4146
+MD5sum: 4c2cad07168a3760f2c745a7219240bd
+Description: An awesome MobileSubstrate tweak!
+Name: Classic Fonts
+Author: CoolStar
+
+Package: com.yourepo.bannerbomb.codescrambler
+Version: 2.0.0-4
+Section: Tweaks
+Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: Files/codescrambler/com.yourepo.bannerbomb.codescrambler_2.0.0-4_iphoneos-arm.deb
+Size: 8650050
+MD5sum: 53f491bf017ac1b47999e872078ff8f3
+Description: random ordered unlock passcode buttons
+Name: CodeScrambler
+Author: Jordan Koch
+
+Package: com.yourepo.bannerbomb.colorpass
+Version: 1.1-55
+Section: Tweaks
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Filename: Files/colorpass/com.yourepo.bannerbomb.colorpass_1.1-55_iphoneos-arm.deb
+Size: 162486
+MD5sum: 0b15353eab0b67759cc288aa115ea6f7
+Description: Change color of the passcode keys!
+Name: ColorPass
+Author: Caetano Melone
+
+Package: com.yourepo.bannerbomb.crackme2
+Version: 0.0.1-1
+Section: Utilities
+Architecture: iphoneos-arm
+Filename: Files/crackme2/com.yourepo.bannerbomb.crackme2_0.0.1-1_iphoneos-arm.deb
+Size: 6200
+MD5sum: 03a0bebf70a2db8e8d13aa0b793d552b
+Description: An awesome application!
+Name: crackMe2
+Author: xhan
+
+Package: com.yourepo.bannerbomb.cydown
+Version: 5.9.5
+Section: Tweaks
+Depends: cydia (>= 1.1.22), coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Architecture: iphoneos-arm
+Filename: Files/cydown/com.yourepo.bannerbomb.cydown_5.9.5_iphoneos-arm.deb
+Size: 339122
+MD5sum: a6e4d39c09eb765acb214a508686d48e
+Description: Install paid packages for Free in Cydia!
+Name: CyDown
+Author: julioverne
+
+Package: com.yourepo.bannerbomb.cyfix
+Version: 1.7.7
+Section: Terminal Support
+Depends: apt7
+Architecture: iphoneos-arm
+Filename: Files/cyfix/com.yourepo.bannerbomb.cyfix_1.7.7_iphoneos-arm.deb
+Size: 3518
+MD5sum: 19df1600a11e8b1123b0941a16744c7e
+Description: Cyfix fully removes troublesome repositories that were incorrectly entered (typo), inappropriately added (restricted access), have gone corruped, or have closed down. Also can add repo to cydia
+Name: Cyfix
+Author: Secretss, brc0703
+
+Package: com.yourepo.bannerbomb.cytask
+Version: 2.1-9
+Section: Tweaks
+Depends: cydia (= 1.1.12)
+Conflicts: com.winterserve.cytask
+Architecture: iphoneos-arm
+Filename: Files/cytask/com.yourepo.bannerbomb.cytask_2.1-9_iphoneos-arm.deb
+Size: 2704
+MD5sum: 20d4d59b22cdc905c86429b3d8826f01
+Description: Allows Cydia to work with iOS multitasking. mobile cannot kill root, thus Cydia will always be running, if your a geek and want this great, if you have no idea what this does or why please don't install, this does not make your device better, faster, cooler or prettier :) Suggest using KillCydia.
+Name: CyTask
+Author: Matthew/Sull
+
+Package: com.yourepo.bannerbomb.dater
+Version: 2.0.0-6
+Section: Tweaks
+Depends: firmware (>= 4.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: Files/dater/com.yourepo.bannerbomb.dater_2.0.0-6_iphoneos-arm.deb
+Size: 22244
+MD5sum: be76f60a3b950e589c982f51a9cfbd62
+Description: timestamps & image info in Photos app
+Name: Dater
+Author: IanP
+
+Package: com.yourepo.bannerbomb.deletemail
+Version: 1.1-1
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 4.0), preferenceloader
+Architecture: iphoneos-arm
+Filename: Files/deletemail/com.yourepo.bannerbomb.deletemail_1.1-1_iphoneos-arm.deb
+Size: 5908
+MD5sum: 4cbd8a1491af90d1603672d920bcc054
+Description: Delete/archive all your email with one tap
+Name: DeleteMail
+Author: Andrea Oliva
+
+Package: com.yourepo.bannerbomb.devicespeedtest
+Version: 1.0
+Section: Utilities
+Architecture: iphoneos-arm
+Filename: Files/devicespeedtest/com.yourepo.bannerbomb.devicespeedtest_1.0_iphoneos-arm.deb
+Size: 259934
+MD5sum: 83d2bf82939008a2341a41c0eb8f9fc6
+Description: runs several tests with indicators.
+Name: Device Speed Test
+Author: Kenneth Ackerson
+
+Package: com.yourepo.bannerbomb.dim
+Version: 1.3.7
+Section: Tweaks
+Depends: firmware(>= 6.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Architecture: iphoneos-arm
+Filename: Files/dim/com.yourepo.bannerbomb.dim_1.3.7_iphoneos-arm.deb
+Size: 353704
+MD5sum: 4c2c270f8ff89927ff36600a5662a160
+Description: Dim your screen even further!
+Name: Dim
+Author: Thomas Finch
+
+Package: com.yourepo.bannerbomb.disablecam
+Version: 0.0.2-1
+Section: Tweaks
+Depends: firmware (>= 4.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Architecture: iphoneos-arm
+Filename: Files/disablecam/com.yourepo.bannerbomb.disablecam_0.0.2-1_iphoneos-arm.deb
+Size: 4742
+MD5sum: eedd5ac4a92ab729492d121c7d5c43af
+Description: disable either front or rear camera
+Name: DisableCam
+Author: RiDan
+
+Package: com.yourepo.bannerbomb.disabled
+Version: 1.0.2-2
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 4.0), preferenceloader (>= 2.2.2)
+Architecture: iphoneos-arm
+Filename: Files/disabled/com.yourepo.bannerbomb.disabled_1.0.2-2_iphoneos-arm.deb
+Size: 16466
+MD5sum: 77429d5e91f5d9a5c4ddfb0effff3688
+Description: no lock-out period for wrong password
+Name: disabled
+Author: Javier (VedBoon) Brito
+
+Package: com.yourepo.bannerbomb.disablemute
+Version: 1.1-3
+Section: Tweaks
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), gsc.telephony, preferenceloader (>= 2.2.2)
+Architecture: iphoneos-arm
+Filename: Files/disablemute/com.yourepo.bannerbomb.disablemute_1.1-3_iphoneos-arm.deb
+Size: 1204812
+MD5sum: bcf3aa08db979a8787ef0768bc5f2596
+Description: disables the phone mute button
+Name: Disablemute
+Author: Burt
+
+Package: com.yourepo.bannerbomb.epicentre
+Version: 1.0.1-7
+Section: Tweaks
+Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: Files/epicentre/com.yourepo.bannerbomb.epicentre_1.0.1-7_iphoneos-arm.deb
+Size: 397616
+MD5sum: 0e1cb81c05fb2b37919b344f52c53c20
+Description: A gorgeous passcode replacement
+Name: Epicentre
+Author: Phillip Tennen
+
+Package: com.yourepo.bannerbomb.evasi0ncydiaicon
+Version: 1.0
+Section: Themes
+Depends: winterboard
+Architecture: iphoneos-arm
+Filename: Files/evasi0ncydiaicon/com.yourepo.bannerbomb.evasi0ncydiaicon_1.0_iphoneos-arm.deb
+Size: 12992
+MD5sum: a8af8af3bcdf0f66de1c2b5cbce9ba20
+Description: This is a Cydia Icon of the Evasi0n Jailbreak hope you like it.
+Name: Evasi0n Cydia Icon
+Author: Lee Hornby
+
+Package: com.yourepo.bannerbomb.f-youwrongpasscodetheme
+Version: 1.1
+Section: Themes
+Depends: winterboard, firmware (>= 4.0)
+Architecture: iphoneos-arm
+Filename: Files/fyouwrongpasscodetheme/com.yourepo.bannerbomb.f-youwrongpasscodetheme_1.1_iphoneos-arm.deb
+Size: 1486
+MD5sum: 29bda387a835642cf7b0910d559b40be
+Description: everyone's favorite swear for wrong passcode
+Name: F-You (Wrong Passcode) Theme
+Author: Hal Nesbitt
+
+Package: com.yourepo.bannerbomb.faces
+Version: 0.0.3-13
+Section: Tweaks
+Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: Files/faces/com.yourepo.bannerbomb.faces_0.0.3-13_iphoneos-arm.deb
+Size: 737340
+MD5sum: 6e9a1ebf1614f3a3e54e8831cc85b6a9
+Description: Add images to the passcode buttons.
+Name: Faces
+Author: Ben Rosen & CPDigitalDarkroom
+
+Package: com.yourepo.bannerbomb.failsafe
+Version: 1.0.2-12
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: Files/failsafe/com.yourepo.bannerbomb.failsafe_1.0.2-12_iphoneos-arm.deb
+Size: 15624
+MD5sum: 56e815c547affbec19b1caab08a25d12
+Description: Disable Airplane Mode and enable Wi-Fi, Data and Location Services when an incorrect passcode is entered.
+Name: FailSafe
+Author: evilgoldfish
+
+Package: com.yourepo.bannerbomb.fakecarrier
+Version: 1.5
+Section: Utilities
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: Files/fakecarrier/com.yourepo.bannerbomb.fakecarrier_1.5_iphoneos-arm.deb
+Size: 34484
+MD5sum: ea7413af9bc213fb8eb3f3a66492cbcf
+Description: Can easily change the carrier name and time string on status bar. Also can show batterylevel. (iPhone 3.0 required)
+Name: FakeCarrier
+Author: Mirror Dev
+
+Package: com.yourepo.bannerbomb.fakehistory
+Version: 1.0
+Section: Utilities
+Depends: firmware (>= 4.0)
+Architecture: iphoneos-arm
+Filename: Files/fakehistory/com.yourepo.bannerbomb.fakehistory_1.0_iphoneos-arm.deb
+Size: 194832
+MD5sum: 46379b7af5fcb3e6abbe2ea727de4290
+Description: Add or modify your phone call history
+Name: FakeHistory
+Author: cluries
+
+Package: com.yourepo.bannerbomb.fakepasscode
+Version: 1.2-1
+Section: Tweaks
+Depends: firmware (>= 4.0), mobilesubstrate, libactivator, preferenceloader
+Architecture: iphoneos-arm
+Filename: Files/fakepasscode/com.yourepo.bannerbomb.fakepasscode_1.2-1_iphoneos-arm.deb
+Size: 11292
+MD5sum: 86c0ae5dac5b7593bccf0a54f899d440
+Description: Input fake passcode as an Activator event
+Name: FakePasscode
+Author: gviridis
+
+Package: com.yourepo.bannerbomb.fakepercent
+Version: 0.9
+Section: Tweaks
+Depends: mobilesubstrate, sbsettings
+Architecture: iphoneos-arm
+Filename: Files/fakepercent/com.yourepo.bannerbomb.fakepercent_0.9_iphoneos-arm.deb
+Size: 5392
+MD5sum: 85f01c9c32c62fc77881a80fbd2183cb
+Description: toggle to enable fake battery % indicator
+Name: FakePercent
+Author: Itay
+
+Package: com.yourepo.bannerbomb.fbphotosave
+Version: 1.1
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: Files/fbphotosave/com.yourepo.bannerbomb.fbphotosave_1.1_iphoneos-arm.deb
+Size: 29264
+MD5sum: ba045edd17cd93266ac03d7226fb4fd0
+Description: Save photos from the Facebook.app directly in your camera roll!
+Name: FBphotoSave
+Author: Filippo_Biga
+
+Package: com.yourepo.bannerbomb.folderpasscode
+Version: 2.0
+Section: Tweaks
+Depends: winterboard
+Architecture: iphoneos-arm
+Filename: Files/folderpasscode/com.yourepo.bannerbomb.folderpasscode_2.0_iphoneos-arm.deb
+Size: 86652
+MD5sum: 655fc0b1f20317e6ad04a6b5a723fb8f
+Description: Folder Passcode lets you lock any folder you like,
+Name: Folder Passcode
+Author: greensnow
+
+Package: com.yourepo.bannerbomb.fourje
+Version: 0.0.1-2-1
+Section: Tweaks
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: Files/fourje/com.yourepo.bannerbomb.fourje_0.0.1-2-1_iphoneos-arm.deb
+Size: 3040
+MD5sum: 543d0c3f97c652e6ed269a83f9631c92
+Description: Bypass Channel 4 jailbreak detection.
+Name: Fourje
+Author: Calvin Hill
+
+Package: com.yourepo.bannerbomb.freefall
+Version: 1.2-1
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: Files/freefall/com.yourepo.bannerbomb.freefall_1.2-1_iphoneos-arm.deb
+Size: 233022
+MD5sum: 65fc23fd2056c2b762e037a305c8feb7
+Description: Phone screams when dropped, Really Works If it dont work then respring your device and keep dropping it till it does but i promise that it does work.
+Name: FreeFall
+Author: BannerBomb
+
+Package: com.yourepo.bannerbomb.frontcamunmirror
+Version: 1.0-1
+Section: Tweaks
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Architecture: iphoneos-arm
+Filename: Files/frontcamunmirror/com.yourepo.bannerbomb.frontcamunmirror_1.0-1_iphoneos-arm.deb
+Size: 77050
+MD5sum: b4b354f28bb2d2199b47c406014612f6
+Description: Un-mirror the camera preview for selfies.
+Name: FrontCamUnMirror
+Author: Sticktron
+
+Package: com.yourepo.bannerbomb.gawk
+Version: 3.1.6-2p
+Section: Utilities
+Architecture: iphoneos-arm
+Filename: Files/gawk/com.yourepo.bannerbomb.gawk_3.1.6-2p_iphoneos-arm.deb
+Size: 423972
+MD5sum: 79555206dc25874d8cd4c9788ccc1a7e
+Description: GNU's heavy-weight implementation of awk
+Name: Gawk
+Author: bannerbomb
+
+Package: com.yourepo.bannerbomb.iblacklist
+Version: 8.3
+Section: Utilities
+Pre-Depends: dpkg (>= 1.13.25-5)
+Depends: mobilesubstrate, shell-cmds, firmware(<< 4.0) | libstatusbar
+Architecture: iphoneos-arm
+Filename: Files/icaughtuproios8/com.yourepo.bannerbomb.iblacklist_8.3_iphoneos-arm.deb
+Size: 2457346
+MD5sum: 74f40bed89dd66be06877bb90910bc1d
+Description: iBlacklist is the best firewall for iMessages, calls, facetime, SMS and MMS  available for the iDevices. Now it blocks also FaceTime/iMessages and runs on iPods and iPads.It ables you to select from who you want to receive calls and hide messages. It also removes the sms popup preview protecting your privacy, has parental control mode by blocking outgoing calls, can be fully scheduled and many other features. Try it , you'll love it.  Works on any iPhone model running any firmware version  !!! PLEASE RESTART YOUR DEVICE AFTER INSTALL. REBOOT IF YOU ARE ON IOS4.
+Name: iBlacklist
+Author: spektro and hdsq2
+
+Package: com.yourepo.bannerbomb.icleanerpro
+Version: 7.4.4k
+Section: Utilities
+Pre-Depends: apt, findutils, shell-cmds
+Conflicts: org.altervista.exilecom.icleaner
+Architecture: iphoneos-arm
+Filename: Files/icleanerpro/com.yourepo.bannerbomb.icleanerpro_7.4.4k_iphoneos-arm.deb
+Size: 2550646
+MD5sum: 3439cd43c1307b7a2cca169403c7819f
+Description: The ultimate iPhone, iPod and iPad system cleaner & optimizer
+Name: iCleaner Pro
+Author: Ivano Bilenchi
+
+Package: com.yourepo.bannerbomb.iconpasscode
+Version: 2.0
+Section: Tweaks
+Depends: mobilesubstrate, applist, preferenceloader
+Architecture: iphoneos-arm
+Filename: Files/iconpasscode/com.yourepo.bannerbomb.iconpasscode_2.0_iphoneos-arm.deb
+Size: 159634
+MD5sum: 0e18ea059dc6bcb56803d6843b88b2c7
+Description: Icon Passcode lets you lock any application you like
+Name: Icon Passcode
+Author: greensnow
+
+Package: com.yourepo.bannerbomb.iconrenamer
+Version: 1.2.2
+Section: Tweaks
+Depends: firmware (>= 4.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
+Architecture: iphoneos-arm
+Filename: Files/iconrenamer/com.yourepo.bannerbomb.iconrenamer_1.2.2_iphoneos-arm.deb
+Size: 21636
+MD5sum: 985fa2931c07a586e840ef0f5af3c871
+Description: Rename icons from your SpringBoard
+Name: Icon Renamer
+Author: Ryan Petrich
+
+Package: com.yourepo.bannerbomb.iffoundios8
+Version: 1.0.1-3
+Section: Tweaks
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), libactivator
+Conflicts: com.cpdigitaldarkroom.iffoundlite, com.cpdigitaldarkroom.iffound
+Architecture: iphoneos-arm
+Filename: Files/iffoundios8/com.yourepo.bannerbomb.iffoundios8_1.0.1-3_iphoneos-arm.deb
+Size: 758062
+MD5sum: 473beebdc70c8e4ac70a013be299f7a7
+Description: Make It Easier To Return Lost Device
+Name: IfFound² (iOS 8)
+Author: CP Digital Darkroom
+
+Package: com.yourepo.bannerbomb.ifile
+Version: 2.2.0-1
+Section: Utilities
+Depends: file-cmds, zip, unzip, p7zip, gzip, bzip2, unrar, diskdev-cmds
+Architecture: iphoneos-arm
+Filename: Files/ifile/com.yourepo.bannerbomb.ifile_2.2.0-1_iphoneos-arm.deb
+Size: 9914564
+MD5sum: cb5fff41439695ec546650cc488192a7
+Description: A File Manager and Viewer. iFile is a file manager runnning under user root. It allows fast navigation through the iPhone file system. It allows direct viewing of files of various types, e.g. movies, sound, text, HTML, Microsoft types, PDF, ZIP. For PDF files direct jumping to pages is possible. ZIP packing and unpacking is also supported. Files can be sent as email attachments. Text files and property lists can be edited. Folders and files can be bookmarked. In addition, files can be uploaded and downloaded from iFile's built-in web server.
+Name: iFile
+Author: BYA Repository
+
+Package: com.yourepo.bannerbomb.imemoryenhancer
+Version: 1.0
+Section: Tweaks
+Architecture: iphoneos-arm
+Filename: Files/imemoryenhancer/com.yourepo.bannerbomb.imemoryenhancer_1.0_iphoneos-arm.deb
+Size: 13342
+MD5sum: 59c747e8dbfd210303ae673ea25d6520
+Description: Add virtual memory to your iPhone or iPod Touch to make your apps more stable and perform better. ** PLEASE REBOOT AFTER INSTALLATION. **Tap on
+Name: iMemory Enhancer
+Author: GBTech
+
+Package: com.yourepo.bannerbomb.infinifolders
+Version: 2.1.2-1
+Section: Tweaks
+Pre-Depends: firmware (>= 5.0)
+Depends: mobilesubstrate, preferenceloader (>= 1.1), com.chpwn.iconsupport
+Architecture: iphoneos-arm
+Filename: Files/infinifolders/com.yourepo.bannerbomb.infinifolders_2.1.2-1_iphoneos-arm.deb
+Size: 49064
+MD5sum: 9d047acdfc4cf0dc2184e98f677fffe5
+Description: Scroll your folders: break the icon barrier!
+Name: Infinifolders
+Author: chpwn
+
+Package: com.yourepo.bannerbomb.iostoolchain
+Version: 6.1-1
+Section: Theos
+Depends: org.coolstar.llvm-clang, org.coolstar.ld64, org.coolstar.cctools, make, ldid
+Architecture: iphoneos-arm
+Filename: Files/iostoolchain/com.yourepo.bannerbomb.iostoolchain_6.1-1_iphoneos-arm.deb
+Size: 620
+MD5sum: 9cac6e1771959946aa131e13e82e32e8
+Description: LLVM+Clang, ld64, CC tools, Make, ldid
+Name: iOS Toolchain
+Author: CoolStar
+
+Package: com.yourepo.bannerbomb.ismyflash
+Version: 1.1
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, firmware (>= 4.0)
+Architecture: iphoneos-arm
+Filename: Files/ismyflash/com.yourepo.bannerbomb.ismyflash_1.1_iphoneos-arm.deb
+Size: 7386
+MD5sum: 0d00f46ecbe913c8ce2ee5daa0a51126
+Description: custom screenshot flash color & alert
+Name: IsMyFlash
+Author: AuzKenneth
+
+Package: com.yourepo.bannerbomb.lockscreentool
+Version: 2.0-1
+Section: Tweaks
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Architecture: iphoneos-arm
+Filename: Files/lockscreentool/com.yourepo.bannerbomb.lockscreentool_2.0-1_iphoneos-arm.deb
+Size: 23332
+MD5sum: 00a1da0e34da51dc7a837e43492ccde0
+Description: adjust lock slider text on iOS 7
+Name: Lock Screen Tool
+Author: Youssef Eid
+
+Package: com.yourepo.bannerbomb.minecraftpemods1
+Version: 1.0
+Section: Hacks & Mods
+Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: Files/minecraftpemods1/com.yourepo.bannerbomb.minecraftpemods1_1.0_iphoneos-arm.deb
+Size: 32642
+MD5sum: aaa31b3272b66d2d25c3f39a9abaaf09
+Description: suite of mods for Minecraft Pocket Edition
+Name: Minecraft PE Mods
+Author: PsychicDonkey09
+
+Package: com.yourepo.bannerbomb.mobileterminal
+Version: 521-karen-1
+Section: Terminal Support
+Pre-Depends: firmware (>= 3.2), dpkg (>= 1.14.25-8)
+Depends: bash, coreutils, ncurses, system-cmds
+Architecture: iphoneos-arm
+Filename: Files/mobileterminal/com.yourepo.bannerbomb.mobileterminal_521-karen-1_iphoneos-arm.deb
+Size: 247814
+MD5sum: cc74caf72b7827359992edc27d559f83
+Description: A Terminal emulator
+Name: MobileTerminal
+Author: MobileTerminal
+
+Package: com.yourepo.bannerbomb.mterminal
+Version: 1.3-2
+Section: Utilities
+Depends: firmware (>= 4.0), system-cmds
+Architecture: iphoneos-arm
+Filename: Files/mterminal/com.yourepo.bannerbomb.mterminal_1.3-2_iphoneos-arm.deb
+Size: 79162
+MD5sum: 61cdd3662f42d84c83f8b39122f486a4
+Description: A MobileTerminal fork
+Name: MTerminal
+Author: lordscotland
+
+Package: com.yourepo.bannerbomb.multipass
+Version: 1.0.0-4
+Section: Tweaks
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Architecture: iphoneos-arm
+Filename: Files/multipass/com.yourepo.bannerbomb.multipass_1.0.0-4_iphoneos-arm.deb
+Size: 35764
+MD5sum: c77ccc0df13dd069a8bc8d1c88f33859
+Description: set multiple, different unlock passcodes
+Name: MultiPass
+Author: xsahoo
+
+Package: com.yourepo.bannerbomb.myothercydiarepo
+Version: 1.0
+Section: Repositories
+Architecture: iphoneos-arm
+Filename: Files/myothercydiarepo/com.yourepo.bannerbomb.myothercydiarepo_1.0_iphoneos-arm.deb
+Size: 722
+MD5sum: ee1ad6ad0e83bd2a46e54fc5964bb301
+Description: This is my older cydia repo
+Name: My Other Cydia Repo
+Author: BannerBomb
+
+Package: com.yourepo.bannerbomb.myzeppelinlogopack
+Version: 10.0-1
+Section: Addons
+Depends: com.yourepo.bannerbomb.zeppelin
+Architecture: iphoneos-arm
+Filename: Files/myzeppelinlogopack/com.yourepo.bannerbomb.myzeppelinlogopack_10.0-1_iphoneos-arm.deb
+Size: 5517088
+MD5sum: 7bca21fadfc507b4b43b90e96bedd9ab
+Description: This is my zeppelin logo pack for Zeppelin
+Name: My Zeppelin Logo Pack
+Author: BannerBomb
+
+Package: com.yourepo.bannerbomb.nestedfoldersios8
+Version: 1.1.1-1
+Section: Tweaks
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: Files/nestedfoldersios8/com.yourepo.bannerbomb.nestedfoldersios8_1.1.1-1_iphoneos-arm.deb
+Size: 2864
+MD5sum: 4a671c1ccee6c5c938115355cff13855
+Description: put folders inside folders/iOS 8
+Name: Nested Folders (iOS 8)
+Author: Alltim3h4ckers
+
+Package: com.yourepo.bannerbomb.networklist
+Version: 0.3
+Section: Tweaks
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: Files/networklist/com.yourepo.bannerbomb.networklist_0.3_iphoneos-arm.deb
+Size: 24492
+MD5sum: 79ca856395c7f8827fc903a55344c039
+Description: view saved WiFi passwords in Settings
+Name: NetworkList
+Author: Qusic
+
+Package: com.yourepo.bannerbomb.nopasscodeblock
+Version: 1.2-1
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: Files/nopasscodeblock/com.yourepo.bannerbomb.nopasscodeblock_1.2-1_iphoneos-arm.deb
+Size: 2254
+MD5sum: add48abf1081d39f420513f34d465b85
+Description: Prevent permanent passcode locking!
+Name: No Passcode Block
+Author: Conrad Kramer
+
+Package: com.yourepo.bannerbomb.nopasscodelockout
+Version: 2.2b-1
+Section: Tweaks
+Depends: firmware (>= 7.1), mobilesubstrate (>= 0.9.5000), preferenceloader, libactivator
+Architecture: iphoneos-arm
+Filename: Files/nopasscodelockout/com.yourepo.bannerbomb.nopasscodelockout_2.2b-1_iphoneos-arm.deb
+Size: 21320
+MD5sum: 32facd7204d03ab69ad5917a872f8f82
+Description: disable the passcode retry limits
+Name: No Passcode LockOut
+Author: Alltim3h4ckers
+
+Package: com.yourepo.bannerbomb.officer
+Version: 0.0.1-2
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: Files/officer/com.yourepo.bannerbomb.officer_0.0.1-2_iphoneos-arm.deb
+Size: 5064
+MD5sum: cde6e5cfc65846cfea9bd664fd3764ee
+Description: Bypass jailbreak detection
+Name: Officer
+Author: Stan Hutcheon
+
+Package: com.yourepo.bannerbomb.parentalcontrolsforios
+Version: 0.0.9
+Section: Tweaks
+Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: Files/parentalcontrolsforios/com.yourepo.bannerbomb.parentalcontrolsforios_0.0.9_iphoneos-arm.deb
+Size: 1735180
+MD5sum: 4014093e8bee669b88660053df58b01c
+Description: Time Limit for apps, passcode protection
+Name: Parental Controls For iOS
+Author: Ge0rges
+
+Package: com.yourepo.bannerbomb.passtime
+Version: 1.1.1-1
+Section: Tweaks
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.2)
+Architecture: iphoneos-arm
+Filename: Files/passtime/com.yourepo.bannerbomb.passtime_1.1.1-1_iphoneos-arm.deb
+Size: 33148
+MD5sum: 9c72a34f56e7a7445ed7ef9831b6ad2d
+Description: Customizable Passcode durations.
+Name: PassTime
+Author: Julian (insanj) Weiss
+
+Package: com.yourepo.bannerbomb.patternunlock
+Version: 1.0.1
+Section: Tweaks
+Depends: firmware(>= 6.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: Files/patternunlock/com.yourepo.bannerbomb.patternunlock_1.0.1_iphoneos-arm.deb
+Size: 691846
+MD5sum: b553aaa2b90e722b519876610d913cc9
+Description: a new way to passcode protect your device!
+Name: PatternUnlock
+Author: Jonas Gessner
+
+Package: com.yourepo.bannerbomb.phototag
+Version: 1.0-2
+Section: Tweaks
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: Files/phototag/com.yourepo.bannerbomb.phototag_1.0-2_iphoneos-arm.deb
+Size: 55684
+MD5sum: acd73847eb01bc03eec1c5bb04124c7b
+Description: add descriptions to your Photos
+Name: PhotoTag
+Author: Cunstuck
+
+Package: com.yourepo.bannerbomb.picturepasscode
+Version: 1.0
+Section: Tweaks
+Depends: firmware (>= 7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: Files/picturepasscode/com.yourepo.bannerbomb.picturepasscode_1.0_iphoneos-arm.deb
+Size: 109986
+MD5sum: 1083853a1ca4c9b701f1571a11d31e0c
+Description: Unlock by tapping areas of a picture!
+Name: Picture Passcode
+Author: Daniel Turner
+
+Package: com.yourepo.bannerbomb.planb
+Version: 1.1
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: Files/planb/com.yourepo.bannerbomb.planb_1.1_iphoneos-arm.deb
+Size: 149734
+MD5sum: f1d1229b12fa335c228565c4da19bdee
+Description: Always forget your passcode?? Don't worry we have got a planB for you!
+Name: Plan B
+Author: gilbenmoshe95
+
+Package: com.yourepo.bannerbomb.powersaver
+Version: 2.1-5
+Section: Tweaks
+Depends: firmware(>= 4.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Architecture: iphoneos-arm
+Filename: Files/powersaver/com.yourepo.bannerbomb.powersaver_2.1-5_iphoneos-arm.deb
+Size: 11432
+MD5sum: 66bff1dbeccc8f48be45bdf14a64bf5f
+Description: perform useful actions at battery % levels
+Name: PowerSaver
+Author: Akhil Tolani
+
+Package: com.yourepo.bannerbomb.quickpass
+Version: 1.3b
+Section: Tweaks
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Architecture: iphoneos-arm
+Filename: Files/quickpass/com.yourepo.bannerbomb.quickpass_1.3b_iphoneos-arm.deb
+Size: 56730
+MD5sum: 56e69c4ee64bacd9722d687bbf94d21d
+Description: Quickly enable/disable passcode lock!
+Name: QuickPass
+Author: Noeliel
+
+Package: com.yourepo.bannerbomb.rateblocker
+Version: 0.0.2
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: Files/rateblocker/com.yourepo.bannerbomb.rateblocker_0.0.2_iphoneos-arm.deb
+Size: 2660
+MD5sum: cbde9ac568abd95d0389dab5471b93e8
+Description: block
+Name: RateBlocker
+Author: n00neimp0rtant
+
+Package: com.yourepo.bannerbomb.requiredreposfortheos
+Version: 1.0
+Section: Theos
+Architecture: iphoneos-arm
+Filename: Files/requiredreposfortheos/com.yourepo.bannerbomb.requiredreposfortheos_1.0_iphoneos-arm.deb
+Size: 726
+MD5sum: cfa8dd26d1bf029c5c32a32c6e97b132
+Description: These repos you have to have for Theos
+Name: Required Repos For Theos
+Author: BannerBomb
+
+Package: com.yourepo.bannerbomb.respring
+Version: 1.0-4
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: Files/respring/com.yourepo.bannerbomb.respring_1.0-4_iphoneos-arm.deb
+Size: 682060
+MD5sum: f5da57f44ebac34580f3e29ab98376da
+Description: adds a Respring, reboot, Safemode buttons to your settings.app
+Name: Respring
+Author: BannerBomb
+
+Package: com.yourepo.bannerbomb.respringcommand
+Version: 1.0-1
+Section: System
+Architecture: iphoneos-arm
+Filename: Files/respringcommand/com.yourepo.bannerbomb.respringcommand_1.0-1_iphoneos-arm.deb
+Size: 3604
+MD5sum: bff77082913c0160bc0d33312dfdb882
+Description: The famous respring command from SBSettings.
+Name: Respring command
+Author: BannerBomb
+
+Package: com.yourepo.bannerbomb.safariipainstaller
+Version: 1.1
+Section: Addons
+Conflicts: com.sull.ihomebrewplugin
+Architecture: iphoneos-arm
+Filename: Files/safariipainstaller/com.yourepo.bannerbomb.safariipainstaller_1.1_iphoneos-arm.deb
+Size: 3434
+MD5sum: 042171e6ac8c31e6dd44881077aa0759
+Description: Install IPA directly from Safari
+Name: Safari IPA Installer
+Author: DJPOE
+
+Package: com.yourepo.bannerbomb.safariuploader8
+Version: 1.1-2
+Section: Tweaks
+Depends: firmware (>= 8.0), mobilesubstrate, libfinder
+Architecture: iphoneos-arm
+Filename: Files/safariuploader8/com.yourepo.bannerbomb.safariuploader8_1.1-2_iphoneos-arm.deb
+Size: 6920
+MD5sum: b4a75473914d158dfbd76bddcd4b9ec7
+Description: Upload files through Safari
+Name: Safari Uploader 8
+Author: lordscotland
+
+Package: com.yourepo.bannerbomb.simplepasscodebuttons
+Version: 0.0.4
+Section: Tweaks
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Architecture: iphoneos-arm
+Filename: Files/simplepasscodebuttons/com.yourepo.bannerbomb.simplepasscodebuttons_0.0.4_iphoneos-arm.deb
+Size: 15684
+MD5sum: 5023512c424bcf25fb98701a0f856d9a
+Description: hides letters/numbers on passcode buttons
+Name: SimplePasscodeButtons
+Author: Adam Spindler
+
+Package: com.yourepo.bannerbomb.sourcesaver
+Version: 1.0-8
+Section: System
+Depends: aptitude
+Architecture: iphoneos-arm
+Filename: Files/sourcesaver/com.yourepo.bannerbomb.sourcesaver_1.0-8_iphoneos-arm.deb
+Size: 1112
+MD5sum: 9a5cefed97a2cd5ac0fbdaa719a27659
+Description: This is a script that backs up your Cydia Sources
+Name: Source Saver
+Author: joeg1ff
+
+Package: com.yourepo.bannerbomb.streakerrunhack
+Version: 1.3
+Section: Hacks & Mods
+Architecture: iphoneos-arm
+Filename: Files/streakerrunhack/com.yourepo.bannerbomb.streakerrunhack_1.3_iphoneos-arm.deb
+Size: 14320
+MD5sum: 27861aeeea1971907c593bf1bf105109
+Description: This hack gives you 999999 Cash, Coins, Resurrections.etc. This Hack works on any version of the game.
+Name: Streaker Run Hack
+Author: BannerBomb
+
+Package: com.yourepo.bannerbomb.surprise
+Version: 0.0.1-1
+Section: Utilities
+Architecture: iphoneos-arm
+Filename: Files/surprise/com.yourepo.bannerbomb.surprise_0.0.1-1_iphoneos-arm.deb
+Size: 149134
+MD5sum: 3cfbaab772bee1a3bb753a49b59caa91
+Description: A birthday app for my dad
+Name: Surprise
+Author: BannerBomb
+
+Package: com.yourepo.bannerbomb.tappedoutcorehackfreeandvipmod1
+Version: 4.16.4.2
+Section: Hacks & Mods
+Depends: wget, unrar, com.ericasadun.utilities, darwintools
+Architecture: iphoneos-arm
+Filename: Files/tappedoutcorehackfreeandvipmod1/com.yourepo.bannerbomb.tappedoutcorehackfreeandvipmod1_4.16.4.2_iphoneos-arm.deb
+Size: 1280
+MD5sum: edf17e4e6e09f99ba684c9d1183ed3f0
+Description: The Simpsons Tapped Out Hack everything for free
+Name: Tapped Out CORE Hack FREE and VIP MOD
+Author: damar1st
+
+Package: com.yourepo.bannerbomb.theos
+Version: 1:0.9.639-1
+Section: Theos
+Depends: bash, grep, dpkg, coreutils, ldid, rsync, make
+Architecture: iphoneos-arm
+Filename: Files/theos/com.yourepo.bannerbomb.theos_0.9.639-1_iphoneos-arm.deb
+Size: 60382
+MD5sum: 0c6b8b75382ecd52f03bc9ac7a7ec971
+Description: iphoneos build system
+Name: Theos
+Author: Dustin Howett
+
+Package: com.yourepo.bannerbomb.theosinstaller1
+Version: 1.1-3
+Section: Theos
+Pre-Depends: repo.coolstar.org
+Depends: wget, git, make, ldid, less, com.ericasadun.utilities, nano, adv-cmds, top, rsync, iphone-gcc, perl, libgcc, org.coolstar.cctools, org.coolstar.iostoolchain, org.coolstar.ld64, libactivator
+Architecture: iphoneos-arm
+Filename: Files/theosinstaller1/com.yourepo.bannerbomb.theosinstaller1_1.1-3_iphoneos-arm.deb
+Size: 1616
+MD5sum: 359980bdd18fa6dbf1357a996fe83c27
+Description: Automated Installer for Theos, the iPhone SDK
+Name: Theos Installer
+Author: bannerbomb
+
+Package: com.yourepo.bannerbomb.theosinstallhelp
+Version: 5.1-3
+Section: Theos
+Architecture: iphoneos-arm
+Filename: Files/theosinstallhelp/com.yourepo.bannerbomb.theosinstallhelp_5.1-3_iphoneos-arm.deb
+Size: 2822
+MD5sum: 267ac5b0a1fc200a9c02eee8bc673e25
+Description: Helps you with installing & Setting up Theos on iOS.
+Name: Theos Install Help
+Author: BannerBomb
+
+Package: com.yourepo.bannerbomb.theostutorials
+Version: 6.2
+Section: Theos
+Architecture: iphoneos-arm
+Filename: Files/theostutorials/com.yourepo.bannerbomb.theostutorials_6.2_iphoneos-arm.deb
+Size: 169102
+MD5sum: 186796d56dbdc8202ff44c24c9728aa2
+Description: Learn how to make native iPhone apps in Obj-C with Theos without the need for a Mac!
+Name: Theos Tutorials
+Author: ReverseEffect
+
+Package: com.yourepo.bannerbomb.timedisarm
+Version: 1.0-2
+Section: Tweaks
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Architecture: iphoneos-arm
+Filename: Files/timedisarm/com.yourepo.bannerbomb.timedisarm_1.0-2_iphoneos-arm.deb
+Size: 67868
+MD5sum: c89213388798045d89da88264b5c4406
+Description: Disable passcode on custom schedule
+Name: TimeDisarm
+Author: xsahoo
+
+Package: com.yourepo.bannerbomb.timepasscodepro
+Version: 0.0.4
+Section: Tweaks
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Conflicts: com.expetelek.timepasscode, org.thebigboss.timepasscode
+Architecture: iphoneos-arm
+Filename: Files/timepasscodepro/com.yourepo.bannerbomb.timepasscodepro_0.0.4_iphoneos-arm.deb
+Size: 64808
+MD5sum: be2ea4356bbfcc0b0351e8bf1ef45dde
+Description: set passcode to current device time
+Name: TimePasscode Pro
+Author: Stevie Hetelekides
+
+Package: com.yourepo.bannerbomb.tuicheckpoint
+Version: 1.1.1
+Section: Tweaks
+Depends: mobilesubstrate, firmware(>= 4.0)
+Architecture: iphoneos-arm
+Filename: Files/tuicheckpoint/com.yourepo.bannerbomb.tuicheckpoint_1.1.1_iphoneos-arm.deb
+Size: 872682
+MD5sum: 97c6fb83f655936c492fb10f632dfd48
+Description: prevent drunk texting, lock Messages.app
+Name: TUI Checkpoint
+Author: Rawad Hilal
+
+Package: com.yourepo.bannerbomb.untetheredheysiri
+Version: 1.1
+Section: Tweaks
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), gsc.assistant, com.a3tweaks.flipswitch
+Architecture: iphoneos-arm
+Filename: Files/untetheredheysiri/com.yourepo.bannerbomb.untetheredheysiri_1.1_iphoneos-arm.deb
+Size: 16490
+MD5sum: 44e052dd5e3b44955da9d0ffc3265504
+Description: use
+Name: UntetheredHeySiri
+Author: Hamza Sood
+
+Package: com.yourepo.bannerbomb.urma
+Version: 1.3
+Section: Utilities
+Depends: firmware (>= 4.0), wget, unzip
+Architecture: iphoneos-arm
+Filename: Files/urma/com.yourepo.bannerbomb.urma_1.3_iphoneos-arm.deb
+Size: 224352
+MD5sum: 1883a59c21d4d2287448429bc26839e3
+Description: Download & unpack Minecraft PE maps
+Name: URMA
+Author: slugrail
+
+Package: com.yourepo.bannerbomb.virtualmemory
+Version: 1.0-2
+Section: System
+Architecture: iphoneos-arm
+Filename: Files/virtualmemory/com.yourepo.bannerbomb.virtualmemory_1.0-2_iphoneos-arm.deb
+Size: 1296
+MD5sum: 43fe70c45bf9402d975ce931e871f574
+Description: Adds 256 MB Virtual Memory. You may know this as swap from linux systems. BE CAREFUL, this might reduce your NAND's lifetime :/
+Name: Virtual Memory
+Author: J41LBR34KXP
+
+Package: com.yourepo.bannerbomb.volumeboostx3
+Version: 1.5
+Section: Tweaks
+Architecture: iphoneos-arm
+Filename: Files/volumeboostx3/com.yourepo.bannerbomb.volumeboostx3_1.5_iphoneos-arm.deb
+Size: 1728
+MD5sum: bf450bd1a4067b0732a7682be2e3cb09
+Description: Hey guys this makes your volume louder. Thanks for all the downloads, and please consider donating to my paypal at matthewrmmiller1111@gmail.com. People have always emailed me about louder, and so this is an update that makes my tweak louder. Hope you enjoy it!
+Name: Volume Boost X3
+Author: Matthew Miller
+
+Package: com.yourepo.bannerbomb.wave
+Version: 1.0.1-1
+Section: Tweaks
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Architecture: iphoneos-arm
+Filename: Files/wave/com.yourepo.bannerbomb.wave_1.0.1-1_iphoneos-arm.deb
+Size: 9712
+MD5sum: dea87b3556863d10ae86c716978e4b53
+Description: wake device with ambient light sensor
+Name: Wave
+Author: Brogan Miner
+
+Package: com.yourepo.bannerbomb.winterboard
+Version: 0.9.3918
+Section: System
+Pre-Depends: dpkg (>= 1.13.25-5)
+Depends: mobilesubstrate (>= 0.9.3225-1), killall, preferenceloader, findutils, net.howett.pincrush (>= 0.0.1-23) | pincrush
+Conflicts: com.modmyifone.winterboardicon, winterboardsettings, themesettings, com.iphonerepocenter.transparentdockfor3xtheme
+Architecture: iphoneos-arm
+Filename: Files/winterboard/com.yourepo.bannerbomb.winterboard_0.9.3918_iphoneos-arm.deb
+Size: 110196
+MD5sum: 1501c20905e9980840a20b39bb48de95
+Description: theme manager, used by most themes
+Name: WinterBoard
+Author: Jay Freeman (saurik)
+
+Package: com.yourepo.bannerbomb.xcon
+Version: 40~beta5
+Section: Tweaks
+Depends: mobilesubstrate
+Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
+Architecture: iphoneos-arm
+Filename: Files/xcon/com.yourepo.bannerbomb.xcon_40~beta5_iphoneos-arm.deb
+Size: 85152
+MD5sum: b26a5d347b4c1ae9171d5fd0a6612144
+Description: bypass anti-jailbreak protection
+Name: xCon
+Author: Lunatik
+
+Package: com.yourepo.bannerbomb.zeppelin
+Version: 2.1.0-12
+Section: Tweaks
+Depends: firmware (>= 4.2), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: Files/zeppelin/com.yourepo.bannerbomb.zeppelin_2.1.0-12_iphoneos-arm.deb
+Size: 954186
+MD5sum: 40c80fcc961b297e34816eb79157f18f
+Description: Replaces carrier text with an image!
+Name: Zeppelin
+Author: BannerBomb
+
 Package: org.h6nry.bytafontlegacytm
 Version: 0.0.1-127
 Section: Tweaks
-Maintainer: BannerBomb <bannerbomb55@gmail.com>
+Maintainer: H6nry <henry.anonym@gmail.com>
 Depends: mobilesubstrate, preferenceloader
 Provides: com.bytafont.bytafonttm
 Architecture: iphoneos-arm
@@ -11,14 +1370,13 @@ Installed-Size: 40
 MD5sum: ced0d3a70d452b19db8d6860b14ddf39
 Description: BytaFont Tweak Mode for old iOS versions
 Name: BytaFontLegacyTM
-Author: BannerBomb <henry.anonym@gmail.com>
-Depiction: http://bannerbomb.github.io/repo/Files/bytafontlegacytm/index.html
+Author: H6nry <henry.anonym@gmail.com>
 
 Package: org.h6nry.classiclockcydget
 Version: 4.0
 Priority: optional
 Section: Addons (Cydget)
-Maintainer: H6nry <henry.anonym@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: cydget, firmware (>= 7.0), curl
 Architecture: iphoneos-arm
 Filename: Files/classiclockcydget/CLC_4_final.deb
@@ -27,7 +1385,8 @@ MD5sum: 70042021b08e2d5753ded6726c8c7323
 Description: iOS 6 style lockscreen on iOS 7 and 8
 Name: Classic Lock Cydget
 Author: H6nry <henry.anonym@gmail.com>
-Depiction: http://bannerbomb.github.io/repo/Files/classiclockcydget/index.html
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=classiclockcydgetDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=classiclockcydgetDp
 
 Package: org.h6nry.classiclockextension
 Version: 2.4
@@ -39,38 +1398,6 @@ MD5sum: fc58e94083584c74fa61e5d285e69e11
 Description: Extensions for ClassicLock Cydget
 Name: ClassicLock Extension
 Author: H6nry <henry.anonym@gmail.com>
-Maintainer: H6nry <henry.anonym@gmail.com>
-Depiction: http://bannerbomb.github.io/repo/Files/classiclockextension/index.html
-
-Package: org.h6nry.quickact
-Version: 0.0.1-1
-Section: Tweaks
-Maintainer: H6nry <henry.anonym@gmail.com>
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: Files/quickact/org.h6nry.quickact_0.0.1-1_iphoneos-arm.deb
-Size: 2868
-Installed-Size: 16
-MD5sum: 7ff0cb6c03f6aec3f1c28546cac3d7e5
-Description: Quickly toggle WiFi on iOS 6!
-Name: QuickAct
-Author: H6nry <henry.anonym@gmail.com>
-Depiction: http://bannerbomb.github.io/repo/Files/quickact/index.html
-
-Package: org.h6nry.swipeswitcher6
-Version: 0.0.1-87
-Section: Tweaks
-Maintainer: H6nry <henry.anonym@gmail.com>
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: Files/swipeswitcher6/org.h6nry.swipeswitcher6_0.0.1-87_iphoneos-arm.deb
-Size: 3088
-Installed-Size: 16
-MD5sum: 694352902cc4665ced2326e3afbc008d
-Description: Swipe to switcher! (on iOS 6)
-Name: SwipeSwitcher6
-Author: H6nry <henry.anonym@gmail.com>
-Depiction: http://bannerbomb.github.io/repo/Files/swipeswitcher6/index.html
 
 Package: org.h6nry.ncforward
 Version: 1.0-3
@@ -85,7 +1412,6 @@ MD5sum: 490f67e4ab92758fac2ba999a6e02139
 Description: Forward iOS notfications to any other device. Or: Continuity feature for everyone!
 Name: NCForward
 Author: H6nry <henry.anonym@gmail.com>
-Depiction: http://bannerbomb.github.io/repo/Files/ncforward/index.html
 
 Package: org.h6nry.peaceswitcher
 Version: 0.0.1-12
@@ -100,18 +1426,32 @@ MD5sum: 6957468fae12707d6e1c7681aa947f21
 Description: An awesome MobileSubstrate tweak!
 Name: PeaceSwitcher
 Author: H6nry <henry.anonym@gmail.com>
-Depiction: http://bannerbomb.github.io/repo/Files/peaceswitcher/index.html
 
-Package: org.h6nry.bootup
-Version: 0.1-60
+Package: org.h6nry.quickact
+Version: 0.0.1-1
 Section: Tweaks
-Maintainer: BannerBomb <bannerbomb55@gmail.com>
+Maintainer: H6nry
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: Files/bootup/org.h6nry.bootup_0.1-60_iphoneos-arm.deb
-Size: 338098
-MD5sum: 599aa3f89def6e593640e7392835af52
-Description: settings menu for respring/reboot/shutdown.
-Name: Bootup
-Author: BannerBomb <bannerbomb55@gmail.com>
-Depiction: http://bannerbomb.github.io/repo/Files/bootup/index.html
+Filename: Files/quickact/org.h6nry.quickact_0.0.1-1_iphoneos-arm.deb
+Size: 2868
+Installed-Size: 16
+MD5sum: 7ff0cb6c03f6aec3f1c28546cac3d7e5
+Description: An awesome MobileSubstrate tweak!
+Name: QuickAct
+Author: H6nry
+
+Package: org.h6nry.swipeswitcher6
+Version: 0.0.1-87
+Section: Tweaks
+Maintainer: System Administrator
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: Files/swipeswitcher6/org.h6nry.swipeswitcher6_0.0.1-87_iphoneos-arm.deb
+Size: 3088
+Installed-Size: 16
+MD5sum: 694352902cc4665ced2326e3afbc008d
+Description: An awesome MobileSubstrate tweak!
+Name: SwipeSwitcher6
+Author: System Administrator
+
