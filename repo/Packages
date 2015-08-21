@@ -4,7 +4,7 @@ Section: Tweaks
 Pre-Depends: firmware (>= 5.0)
 Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
-Filename: Files/actionboard/com.yourepo.bannerbomb.actionboard_1.2.0-1_iphoneos-arm.deb
+Filename: Files/actionboard/com.bannerbomb.actionboard_1.2.0-1_iphoneos-arm.deb
 Size: 1338754
 MD5sum: faa5e90e8114b6eab8571f8b2e423c95
 Description: Add useful system functions to the AppSwitcher!
@@ -15,7 +15,7 @@ Package: com.yourepo.bannerbomb.allroundprogram
 Version: 1.0
 Section: System
 Architecture: iphoneos-arm
-Filename: Files/allroundprogram/com.yourepo.bannerbomb.allroundprogram_1.0_iphoneos-arm.deb
+Filename: Files/allroundprogram/com.bannerbomb.allroundprogram_1.0_iphoneos-arm.deb
 Size: 6702
 MD5sum: d87fcdc269911bcb2142ad3904946681
 Description: Deb maker and more
@@ -27,7 +27,7 @@ Version: 1.2.2
 Section: Tweaks
 Depends: mobilesubstrate, preferenceloader, applist, libactivator, firmware (>= 7.0)
 Architecture: iphoneos-arm
-Filename: Files/aloud/com.yourepo.bannerbomb.aloud_1.2.2_iphoneos-arm.deb
+Filename: Files/aloud/com.bannerbomb.aloud_1.2.2_iphoneos-arm.deb
 Size: 88578
 MD5sum: 7f28da2c0e5d22b34560bfe8c8d5e70f
 Description: Aloud is a very feature rich tweak that makes your notifications speak!
@@ -39,7 +39,7 @@ Version: 1.2.1
 Section: Tweaks
 Depends: mobilesubstrate, preferenceloader, firmware (>= 4.0)
 Architecture: iphoneos-arm
-Filename: Files/androiddelete/com.yourepo.bannerbomb.androiddelete_1.2.1_iphoneos-arm.deb
+Filename: Files/androiddelete/com.bannerbomb.androiddelete_1.2.1_iphoneos-arm.deb
 Size: 45286
 MD5sum: 08a64e8f67b6865c6a1a500c1148c7e6
 Description: drag wiggling icons to the trash to delete
@@ -51,7 +51,7 @@ Version: 1.2.1
 Section: Tweaks
 Depends: mobilesubstrate, libhide
 Architecture: iphoneos-arm
-Filename: Files/androidloader/com.yourepo.bannerbomb.androidloader_1.2.1_iphoneos-arm.deb
+Filename: Files/androidloader/com.bannerbomb.androidloader_1.2.1_iphoneos-arm.deb
 Size: 80258
 MD5sum: 81c0c908b54a95cf2812ae24c3a1c708
 Description: With a single tap or slide gesture, you are able to launch and view all your applications in one place, Android style, on your iOS device!
@@ -63,7 +63,7 @@ Version: 1.1.1
 Section: Tweaks
 Depends: mobilesubstrate, libactivator, firmware (>= 4.0)
 Architecture: iphoneos-arm
-Filename: Files/androidrecentapps/com.yourepo.bannerbomb.androidrecentapps_1.1.1_iphoneos-arm.deb
+Filename: Files/androidrecentapps/com.bannerbomb.androidrecentapps_1.1.1_iphoneos-arm.deb
 Size: 45416
 MD5sum: 2538111fda5331a11b8dbbc03ccabf8a
 Description: show & launch recent apps like Android
@@ -75,7 +75,7 @@ Version: 0.8
 Section: Tweaks
 Depends: firmware (>= 5.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: Files/anemo/com.yourepo.bannerbomb.anemo_0.8_iphoneos-arm.deb
+Filename: Files/anemo/com.bannerbomb.anemo_0.8_iphoneos-arm.deb
 Size: 154318
 MD5sum: 54259e5aeb4acfac0fd00b40b525017f
 Description: Quick Reply like it was meant to be.
@@ -88,7 +88,7 @@ Section: Tweaks
 Depends: mobilesubstrate, preferenceloader, firmware(>= 4.0)
 Conflicts: com.thezimm.AirPlaneIcon, com.thezimm.WifiIcon
 Architecture: iphoneos-arm
-Filename: Files/anicons/com.yourepo.bannerbomb.anicons_0.7-5_iphoneos-arm.deb
+Filename: Files/anicons/com.bannerbomb.anicons_0.7-5_iphoneos-arm.deb
 Size: 585568
 MD5sum: deb1e742fbe221e35f07850975d5d600
 Description: useful system toggles on the homescreen
@@ -100,7 +100,7 @@ Version: 1.1
 Section: System
 Depends: com.sull.installous4 | com.hackulo.us.installous | com.sull.installous3, coreutils, findutils, grep, sed
 Architecture: iphoneos-arm
-Filename: Files/ap2ipa/com.yourepo.bannerbomb.ap2ipa_1.1_iphoneos-arm.deb
+Filename: Files/ap2ipa/com.bannerbomb.ap2ipa_1.1_iphoneos-arm.deb
 Size: 1880
 MD5sum: 85e93a98ed1398c2314a9b03b1a1db9d
 Description: converts system apps to ipa's to be installed through installous and then synced to itunes for easy saving.. run 'ap2ipa' from terminal. only apps that can function as mobile will work.. more info in terminal
@@ -114,7 +114,7 @@ Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: firmware (<< 8.0) | mobilesubstrate
 Conflicts: us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
 Architecture: iphoneos-arm
-Filename: Files/applefileconduit/com.yourepo.bannerbomb.applefileconduit_1.2_iphoneos-arm.deb
+Filename: Files/applefileconduit/com.bannerbomb.applefileconduit_1.2_iphoneos-arm.deb
 Size: 18166
 MD5sum: eba0513f82a41dac2c2f0eaeee6497c8
 Description: allow full file-system access over USB
@@ -126,7 +126,7 @@ Version: 1.7.1
 Section: Utilities
 Depends: coreutils-bin, coreutils, findutils, sed, com.ericasadun.utilities, gawk, com.innoying.sbutils, zip
 Architecture: iphoneos-arm
-Filename: Files/applicationduplication/com.yourepo.bannerbomb.applicationduplication_1.7.1_iphoneos-arm.deb
+Filename: Files/applicationduplication/com.bannerbomb.applicationduplication_1.7.1_iphoneos-arm.deb
 Size: 2684
 MD5sum: 457f7157fcaf17e6e9dc002c8d40014f
 Description: Application Duplication lets you have 2 of the same app on your springboard.. builds from installed apps and puts ipa with artwork in Installous Downloads for install. Now some apps will be created and install but will crash on launch. sorry i dont have a solution yet. Usage run 'appdub' [ AppFolder.app ] or option [ -l ] lists all App Folders ex. appdub DoodleJump.app or 'appdub -l'
@@ -138,7 +138,7 @@ Version: 1.5.9
 Section: System
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), com.rpetrich.rocketbootstrap (>= 1.0) | firmware (<< 7.0)
 Architecture: iphoneos-arm
-Filename: Files/applist/com.yourepo.bannerbomb.applist_1.5.9_iphoneos-arm.deb
+Filename: Files/applist/com.bannerbomb.applist_1.5.9_iphoneos-arm.deb
 Size: 136660
 MD5sum: 14b227513803fef2b68daba5349449b0
 Description: Allow extensions to read the list of installed apps
@@ -150,7 +150,7 @@ Version: 2.1.8-2k
 Section: Tweaks
 Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5000), libhide, com.rpetrich.rocketbootstrap
 Architecture: iphoneos-arm
-Filename: Files/appro/com.yourepo.bannerbomb.appro_2.1.8-2k_iphoneos-arm.deb
+Filename: Files/appro/com.bannerbomb.appro_2.1.8-2k_iphoneos-arm.deb
 Size: 1159058
 MD5sum: 36e0ac1b73c1a93e88633bae0eb3d554
 Description: Most powerful protect Privacy and App
@@ -162,7 +162,7 @@ Version: 1.2.0-1
 Section: Tweaks
 Depends: firmware (>= 7.0), libactivator (>= 1.8.3), mobilesubstrate, gsc.assistant
 Architecture: iphoneos-arm
-Filename: Files/assistant/com.yourepo.bannerbomb.assistant_1.2.0-1_iphoneos-arm.deb
+Filename: Files/assistant/com.bannerbomb.assistant_1.2.0-1_iphoneos-arm.deb
 Size: 139272
 MD5sum: 9bc799cc5ed7641b31ecb84cd0b74ec2
 Description: Assign commands for Siri to trigger Activator events
@@ -174,7 +174,7 @@ Version: 1.0.2-184-1
 Section: Tweaks
 Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader, openssl, pcre, gsc.assistant, com.zimm.libdisplaystack, me.k3a.libaiml
 Architecture: iphoneos-arm
-Filename: Files/assistantextensions/com.yourepo.bannerbomb.assistantextensions_1.0.2-184-1_iphoneos-arm.deb
+Filename: Files/assistantextensions/com.bannerbomb.assistantextensions_1.0.2-184-1_iphoneos-arm.deb
 Size: 1182874
 MD5sum: c1c0994f5f864a92acf4efe4689b9c7b
 Description: plugin system for new Siri functionality. Several commands and snippets are built-in, including a chat bot for talking to Siri about anything you like.
@@ -186,7 +186,7 @@ Version: 1.1.1
 Section: Tweaks
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: Files/autoprotect/com.yourepo.bannerbomb.autoprotect_1.1.1_iphoneos-arm.deb
+Filename: Files/autoprotect/com.bannerbomb.autoprotect_1.1.1_iphoneos-arm.deb
 Size: 21640
 MD5sum: 9c0a7650be4fff1f8678621d21e4dfc4
 Description: AutoProtect detects if you are at home or not by checking for the Name of the WiFi Network the Device
@@ -198,7 +198,7 @@ Version: 1.0
 Section: Tweaks
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm
-Filename: Files/ayna/com.yourepo.bannerbomb.ayna_1.0_iphoneos-arm.deb
+Filename: Files/ayna/com.bannerbomb.ayna_1.0_iphoneos-arm.deb
 Size: 7546
 MD5sum: 3df9285f0621679d933b46a447358e1b
 Description: Your pocket mirror.
@@ -210,7 +210,7 @@ Version: 1.1
 Section: Tweaks
 Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Architecture: iphoneos-arm
-Filename: Files/batterypercentageforipod/com.yourepo.bannerbomb.batterypercentageforipod_1.1_iphoneos-arm.deb
+Filename: Files/batterypercentageforipod/com.bannerbomb.batterypercentageforipod_1.1_iphoneos-arm.deb
 Size: 10658
 MD5sum: b475aa4a49e7952701f6f44536a1dbaf
 Description: Battery Percentage for iPod 4 & 5
@@ -222,7 +222,7 @@ Version: 0.0.1-1
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0)
 Architecture: iphoneos-arm
-Filename: Files/betterfolders/com.yourepo.bannerbomb.betterfolders_0.0.1-1_iphoneos-arm.deb
+Filename: Files/betterfolders/com.bannerbomb.betterfolders_0.0.1-1_iphoneos-arm.deb
 Size: 3666
 MD5sum: 977652fb092dcf8cea56988d7f439c04
 Description: pinch-to-close, nested folders, ipad 4x4 layout
@@ -234,7 +234,7 @@ Version: 0.2.1-1
 Section: Tweaks
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
 Architecture: iphoneos-arm
-Filename: Files/betterpasscodekeypad/com.yourepo.bannerbomb.betterpasscodekeypad_0.2.1-1_iphoneos-arm.deb
+Filename: Files/betterpasscodekeypad/com.bannerbomb.betterpasscodekeypad_0.2.1-1_iphoneos-arm.deb
 Size: 13200
 MD5sum: e453f78bd5d87e4623fa5df84cfdc905
 Description: Enhance security by customizing the passcode keypad.
@@ -246,7 +246,7 @@ Version: 1.1.0-6
 Section: Tweaks
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), firmware(<< 8.0) | org.coolstar.libclassictelephonyui
 Architecture: iphoneos-arm
-Filename: Files/betterpowerdown/com.yourepo.bannerbomb.betterpowerdown_1.1.0-6_iphoneos-arm.deb
+Filename: Files/betterpowerdown/com.bannerbomb.betterpowerdown_1.1.0-6_iphoneos-arm.deb
 Size: 59784
 MD5sum: 54253ad4acd14397ff1b72356bf7814b
 Description: classic iOS 6 style power sliders
@@ -258,7 +258,7 @@ Version: 1.3.2
 Section: Theos
 Depends: syslogcmdline, adv-cmds, apt, basic-cmds, bootstrap-cmds, bzip2, class-dump, coreutils, developer-cmds, diskdev-cmds, file-cmds, gawk, gdb, git, gzip, iokittools, less, make, nano, network-cmds, ldid, openssh, rsync, shell-cmds, system-cmds, com.ericasadun.utilities, top, uikittools, findutils, inetutils, diffutils, lsof, subversion, vim, xar, tar, patch, unrar, unzip, wget, whois, xml2, zip, p7zip
 Architecture: iphoneos-arm
-Filename: Files/bigbossrecommendedtools/com.yourepo.bannerbomb.bigbossrecommendedtools_1.3.2_iphoneos-arm.deb
+Filename: Files/bigbossrecommendedtools/com.bannerbomb.bigbossrecommendedtools_1.3.2_iphoneos-arm.deb
 Size: 2680
 MD5sum: 9249104d3c83e0a14c7fb9647745ffe5
 Description: Combined list of hacker tools. Cydia no longer comes preinstalled with most useful command line apps. This package installs most the missing ones in one swoop. There is no real package provided here. It is only a set of depends on other various tools so that your command line can become useful again.
@@ -271,7 +271,7 @@ Section: Tweaks
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
 Conflicts: com.vedboon.biolite
 Architecture: iphoneos-arm
-Filename: Files/bio/com.yourepo.bannerbomb.bio_1.3.1-85_iphoneos-arm.deb
+Filename: Files/bio/com.bannerbomb.bio_1.3.1-85_iphoneos-arm.deb
 Size: 92268
 MD5sum: b9c275035b31488520c40541452a404d
 Description: virtual fingerprint scanner unlocker
@@ -283,7 +283,7 @@ Version: 0.1-60
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), preferenceloader
 Architecture: iphoneos-arm
-Filename: Files/bootup/org.h6nry.bootup_0.1-60_iphoneos-arm.deb
+Filename: Files/bootup/com.bannerbomb.bootup_0.1-60_iphoneos-arm.deb
 Size: 338098
 MD5sum: 599aa3f89def6e593640e7392835af52
 Description: settings menu for respring/reboot/shutdown
@@ -295,7 +295,7 @@ Version: 1.1-3
 Section: Tweaks
 Depends: mobilesubstrate, firmware (>= 7.0), gsc.camera-flash, preferenceloader
 Architecture: iphoneos-arm
-Filename: Files/ccflashlightlevel/com.yourepo.bannerbomb.ccflashlightlevel_1.1-3_iphoneos-arm.deb
+Filename: Files/ccflashlightlevel/com.bannerbomb.ccflashlightlevel_1.1-3_iphoneos-arm.deb
 Size: 23818
 MD5sum: 1a7484ba83618cf2fa50a1ff1c88a250
 Description: adjustable torch level using Control Center's torch button.
@@ -308,7 +308,7 @@ Section: Tweaks
 Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
 Conflicts: com.fl00d.locksmoother, com.sull.locksmoother
 Architecture: iphoneos-arm
-Filename: Files/clap/com.yourepo.bannerbomb.clap_0.3-3_iphoneos-arm.deb
+Filename: Files/clap/com.bannerbomb.clap_0.3-3_iphoneos-arm.deb
 Size: 53266
 MD5sum: c12837d1f97d9debac13083a285190eb
 Description: Clap your hands to find your phone!
@@ -320,7 +320,7 @@ Version: 0.0.1-24
 Section: Tweaks
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: Files/classicapps/com.yourepo.bannerbomb.classicapps_0.0.1-24_iphoneos-arm.deb
+Filename: Files/classicapps/com.bannerbomb.classicapps_0.0.1-24_iphoneos-arm.deb
 Size: 4136
 MD5sum: 40afa8d3d29a2e44c925212333d2a668
 Description: An awesome MobileSubstrate tweak!
@@ -332,7 +332,7 @@ Version: 2.1
 Section: Tweaks
 Depends: org.coolstar.themelib, winterboard
 Architecture: iphoneos-arm
-Filename: Files/classicbadges1/com.yourepo.bannerbomb.classicbadges1_2.1_iphoneos-arm.deb
+Filename: Files/classicbadges1/com.bannerbomb.classicbadges1_2.1_iphoneos-arm.deb
 Size: 424004
 MD5sum: da1195ba0f53d6140bbb9750b9122c31
 Description: Bring back the iOS 6 badges to iOS 7+!
@@ -344,7 +344,7 @@ Version: 0.0.1-9
 Section: Tweaks
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: Files/classicfonts/com.yourepo.bannerbomb.classicfonts_0.0.1-9_iphoneos-arm.deb
+Filename: Files/classicfonts/com.bannerbomb.classicfonts_0.0.1-9_iphoneos-arm.deb
 Size: 4146
 MD5sum: 4c2cad07168a3760f2c745a7219240bd
 Description: An awesome MobileSubstrate tweak!
@@ -1390,7 +1390,7 @@ Maintainer: H6nry <henry.anonym@gmail.com>
 Depends: mobilesubstrate, preferenceloader
 Provides: com.bytafont.bytafonttm
 Architecture: iphoneos-arm
-Filename: Files/bytafontlegacytm/org.h6nry.bytafontlegacytm_0.0.1-127_iphoneos-arm.deb
+Filename: Files/bytafontlegacytm/com.bannerbomb.bytafontlegacytm_0.0.1-127_iphoneos-arm.deb
 Size: 6040
 Installed-Size: 40
 MD5sum: ced0d3a70d452b19db8d6860b14ddf39
