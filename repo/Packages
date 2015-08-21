@@ -1398,16 +1398,21 @@ Description: BytaFont Tweak Mode for old iOS versions
 Name: BytaFontLegacyTM
 Author: H6nry <henry.anonym@gmail.com>
 
-Package: org.h6nry.classiclockextension
-Version: 2.4
-Depends: firmware (>= 7.0), org.h6nry.classiclockcydget
+Package: org.h6nry.classiclockcydget
+Version: 4.0
+Priority: optional
+Section: Addons (Cydget)
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: cydget, firmware (>= 7.0), curl
 Architecture: iphoneos-arm
-Filename: Files/classiclockextension/CLE_2-4_final.deb
-Size: 5020
-MD5sum: fc58e94083584c74fa61e5d285e69e11
-Description: Extensions for ClassicLock Cydget
-Name: ClassicLock Extension
+Filename: Files/classiclockcydget/CLC_4_final.deb
+Size: 13382
+MD5sum: 70042021b08e2d5753ded6726c8c7323
+Description: iOS 6 style lockscreen on iOS 7 and 8
+Name: Classic Lock Cydget
 Author: H6nry <henry.anonym@gmail.com>
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=classiclockcydgetDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=classiclockcydgetDp
 
 Package: org.h6nry.ncforward
 Version: 1.0-3
