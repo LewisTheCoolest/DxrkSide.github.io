@@ -725,17 +725,17 @@ Name: iCleaner Pro
 Author: Ivano Bilenchi
 
 Package: com.yourepo.bannerbomb.icone
-Version: 1.0
+Version: 1.2
 Section: System
 Essential: yes
 Architecture: iphoneos-arm
-Filename: Files/bannerbombsiconfoodsandhacks/com.bannerbomb.icone_1.0_iphoneos-arm.deb
-Size: 7844
-MD5sum: ce428b3b7b7c3b6dffee78ca08602732
+Filename: Files/bannerbombssectionicons/com.bannerbomb.icone_iphoneos-arm.deb
+Size: 17652
+MD5sum: 406873e5691d7fa6c754bcc8fa7f3c34
 Description: Officials BannerBomb Repo Icons
 Name: BannerBomb Repo Icons
 Author: BannerBomb
-Depiction: https://www.yourepo.com/repo/bannerbomb/pack/icone
+Depiction: http://www.yourepo.com/repo/bannerbomb/pack/icone
 
 Package: com.yourepo.bannerbomb.iconpasscode
 Version: 2.0
