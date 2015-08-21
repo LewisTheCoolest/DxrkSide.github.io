@@ -691,12 +691,25 @@ Section: Utilities
 Pre-Depends: dpkg (>= 1.13.25-5)
 Depends: mobilesubstrate, shell-cmds, firmware(<< 4.0) | libstatusbar
 Architecture: iphoneos-arm
-Filename: Files/icaughtuproios8/com.yourepo.bannerbomb.iblacklist_8.3_iphoneos-arm.deb
+Filename: Files/iblacklist/com.yourepo.bannerbomb.iblacklist_8.3_iphoneos-arm.deb
 Size: 2457346
 MD5sum: 74f40bed89dd66be06877bb90910bc1d
 Description: iBlacklist is the best firewall for iMessages, calls, facetime, SMS and MMS  available for the iDevices. Now it blocks also FaceTime/iMessages and runs on iPods and iPads.It ables you to select from who you want to receive calls and hide messages. It also removes the sms popup preview protecting your privacy, has parental control mode by blocking outgoing calls, can be fully scheduled and many other features. Try it , you'll love it.  Works on any iPhone model running any firmware version  !!! PLEASE RESTART YOUR DEVICE AFTER INSTALL. REBOOT IF YOU ARE ON IOS4.
 Name: iBlacklist
 Author: spektro and hdsq2
+
+Package: com.yourepo.bannerbomb.icaughtuproios8
+Version: 8.4-3
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), firmware (>= 8.0), applist, curl, gzip
+Conflicts: com.itaysoft.icaughtupro, com.itaysoft.icaughtu
+Architecture: iphoneos-arm
+Filename: Files/icaughtuproios8/com.bannerbomb.icaughtuproios8_8.4-3_iphoneos-arm.deb
+Size: 2025132
+MD5sum: bc12509ee8b2139653a353f213d22717
+Description: location & photo sent for wrong passcode entered
+Name: iCaughtU Pro (iOS 8)
+Author: Itay
 
 Package: com.yourepo.bannerbomb.icleanerpro
 Version: 7.4.4k
