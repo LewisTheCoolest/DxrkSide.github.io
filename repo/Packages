@@ -110,7 +110,6 @@ Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: Files/bootup/org.h6nry.bootup_0.1-60_iphoneos-arm.deb
 Size: 338098
-Installed-Size: 330170
 MD5sum: 599aa3f89def6e593640e7392835af52
 Description: settings menu for respring/reboot/shutdown.
 Name: Bootup
