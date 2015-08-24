@@ -1409,6 +1409,23 @@ Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=betterpower
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=betterpowerdownDp
 Icon: file:///Library/PreferenceBundles/BetterPowerDownSettings.bundle/BetterPowerDownSettings@2x.png
 
+Package: org.coolstar.libghost
+Version: 1.1-2
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: Files/libghost/org.coolstar.libghost_1.1-2_iphoneos-arm.deb
+Size: 7642
+Installed-Size: 67
+MD5sum: 7d7b808a01f95c5d6346915b1e8f6e2a
+Description: iOS 6 icon ghosting APIs to iOS 7
+Name: libghost
+Author: CoolStar <coolstarorganization@gmail.com>
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libghostDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libghostDp
+
 Package: org.h6nry.bytafontlegacytm
 Version: 0.0.1-127
 Section: Tweaks
@@ -1495,6 +1512,37 @@ MD5sum: 694352902cc4665ced2326e3afbc008d
 Description: An awesome MobileSubstrate tweak!
 Name: SwipeSwitcher6
 Author: System Administrator
+
+Package: repo.biteyourapple.net.aircrack
+Version: 1.0
+Priority: optional
+Section: BYA Apps
+Essential: no
+Maintainer: Redenfire <redenfire@gmail.com>
+Replaces: com.myrepospace.iPS4HACK.aircrack
+Architecture: iphoneos-arm
+Filename: Files/aircrack/repo.biteyourapple.net.aircrack_1.0_iphoneos-arm.deb
+Size: 3542268
+MD5sum: 08e2b56f262934be66cd54aa27c1c3a4
+Description: Get the pass for WiFi Network.
+Name: Aircrack
+Author: BYA Repository
+Depiction: http://www.biteyourapple.net/depiction/dep.php?name=aircrack
+
+Package: repo.biteyourapple.net.classicswitcher
+Version: 2.0-1
+Section: BYA Apps
+Maintainer: Redenfire <redenfire@gmail.com>
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), org.coolstar.libghost, curl
+Architecture: iphoneos-arm
+Filename: Files/classicswitcher/repo.biteyourapple.net.classicswitcher_2.0-1_iphoneos-arm.deb
+Size: 2085552
+MD5sum: 4cc102efcd78ec2fd4999d10b5f7e149
+Description: Brings the classic app switcher to iOS 7
+Name: ClassicSwitcher
+Author: BYA Repository
+Homepage: http://www.biteyourapple.net
+Depiction: http://repo.biteyourapple.net/depiction/dep.php?name=classicswitcher
 
 Package: repo.biteyourapple.net.clutchrc
 Version: 2.0~RC4
