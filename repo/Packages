@@ -16,6 +16,20 @@ Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=barrelData
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=barrelData
 Icon: file:///Applications/BarrelSettings.app/Barrel_AppIcon57x57.png
 
+Package: com.repo.xarold.com.iweppro5
+Version: 8.8.1-109
+Section: Networking
+Depends: firmware (>= 5.0)
+Architecture: iphoneos-arm
+Filename: Files/iweppro/com.repo.xarold.com.iweppro5_8.8.1-109_iphoneos-arm.deb
+Size: 2779632
+MD5sum: db27772756af04c88ce5e2dc06038427
+Description: First iOS WiFi Auditor Application. iWazowski© Since 2010.
+Name: iWep PRO 8
+Author: Waz
+Depiction: http://repo.xarold.com/depiction.php?id=iweppro5
+Icon: file:///Applications/iweppro5.app/icon-58.png
+
 Package: com.yourepo.bannerbomb.actionboard
 Version: 1.2.0-1
 Section: Tweaks
