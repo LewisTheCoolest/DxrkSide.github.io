@@ -1271,12 +1271,12 @@ Author: Stevie Hetelekides
 Package: com.yourepo.bannerbomb.trailmix
 Version: 10.0-1
 Section: Addons
-Depends: Zeppelin
+Depends: com.yourepo.bannerbomb.zeppelin
 Architecture: iphoneos-arm
 Filename: Files/TrailMix/com.yourepo.bannerbomb.trailmix_10.0-1_iphoneos-arm.deb
-Size: 5517102
+Size: 5517110
 Installed-Size: 14332
-MD5sum: c3fb97af76abbcf061125c524a27d5a5
+MD5sum: 7739572bb051f85427edf1e58769e598
 Description: This is my zeppelin logo pack for Zeppelin mix
 Name: TrailMix
 Author: BannerBomb
