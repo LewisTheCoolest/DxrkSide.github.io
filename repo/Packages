@@ -22,7 +22,7 @@ Section: Theos
 Maintainer: BannerBomb
 Depends: 
 Architecture: iphoneos-arm
-Filename: Files/theosinstallhelp/com.bannerbomb.theosinstallhelp_5.2-1_iphoneos-arm.deb
+Filename: Files/theosinstallhelp5.2/com.bannerbomb.theosinstallhelp_5.2-1_iphoneos-arm.deb
 Size: 119784
 Installed-Size: 256
 MD5sum: 3c46191c3e5edf6719d892a9682261e7
