@@ -17,14 +17,14 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=barrelData
 Icon: file:///Applications/BarrelSettings.app/Barrel_AppIcon57x57.png
 
 Package: com.bannerbomb.theosinstallhelp
-Version: 5.4-1
+Version: 5.5-1
 Section: Theos
 Maintainer: BannerBomb
 Architecture: iphoneos-arm
-Filename: Files/theosinstallhelp/com.bannerbomb.theosinstallhelp_5.4-1_iphoneos-arm.deb
-Size: 119954
+Filename: Files/theosinstallhelp/com.bannerbomb.theosinstallhelp_5.5-1_iphoneos-arm.deb
+Size: 119958
 Installed-Size: 256
-MD5sum: 6e2e34316c8f00483a9ab6920bd5d039
+MD5sum: 87a88cf687f65fa4b6a13b0773678367
 Description: Helps you with installing & Setting up Theos on iOS. Officially Fixed The Settings.
 Name: Theos Install Help
 Author: BannerBomb
