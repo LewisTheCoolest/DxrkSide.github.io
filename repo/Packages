@@ -1236,15 +1236,15 @@ Name: Theos Installer
 Author: bannerbomb
 
 Package: com.yourepo.bannerbomb.theosinstallhelp
-Version: 5.0-1
+Version: 6.0-1
 Section: Theos
 Maintainer: BannerBomb
 Depends: 
 Architecture: iphoneos-arm
-Filename: Files/theosinstallhelp/com.yourepo.bannerbomb.theosinstallhelp_5.1-3_iphoneos-arm.deb
+Filename: Files/theosinstallhelp/com.yourepo.bannerbomb.theosinstallhelp_6.0-1_iphoneos-arm.deb
 Size: 119790
 Installed-Size: 256
-MD5sum: ff2124a4888325077a7ccd77adcfdad7
+MD5sum: 54ec227ad8ec5ef0cb045ec2d2d8f33f
 Description: Helps you with installing & Setting up Theos on iOS.
 Name: Theos Install Help
 Author: BannerBomb
