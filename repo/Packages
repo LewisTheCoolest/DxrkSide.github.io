@@ -16,6 +16,20 @@ Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=barrelData
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=barrelData
 Icon: file:///Applications/BarrelSettings.app/Barrel_AppIcon57x57.png
 
+Package: com.bannerbomb.theosinstallhelp
+Version: 5.2-1
+Section: Theos
+Maintainer: BannerBomb
+Depends: 
+Architecture: iphoneos-arm
+Filename: Files/theosinstallhelp/com.bannerbomb.theosinstallhelp_5.2-1_iphoneos-arm.deb
+Size: 119784
+Installed-Size: 256
+MD5sum: 3c46191c3e5edf6719d892a9682261e7
+Description: Helps you with installing & Setting up Theos on iOS.
+Name: Theos Install Help
+Author: BannerBomb
+
 Package: com.repo.xarold.com.iweppro5
 Version: 8.8.1-109
 Section: Networking
@@ -1234,20 +1248,6 @@ MD5sum: 359980bdd18fa6dbf1357a996fe83c27
 Description: Automated Installer for Theos, the iPhone SDK
 Name: Theos Installer
 Author: bannerbomb
-
-Package: com.yourepo.bannerbomb.theosinstallhelp
-Version: 6.0-1
-Section: Theos
-Maintainer: BannerBomb
-Depends: 
-Architecture: iphoneos-arm
-Filename: Files/theosinstallhelp/com.yourepo.bannerbomb.theosinstallhelp_6.0-1_iphoneos-arm.deb
-Size: 119790
-Installed-Size: 256
-MD5sum: 54ec227ad8ec5ef0cb045ec2d2d8f33f
-Description: Helps you with installing & Setting up Theos on iOS.
-Name: Theos Install Help
-Author: BannerBomb
 
 Package: com.yourepo.bannerbomb.theostutorials
 Version: 6.2
