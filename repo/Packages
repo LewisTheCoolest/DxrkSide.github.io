@@ -17,27 +17,27 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=barrelData
 Icon: file:///Applications/BarrelSettings.app/Barrel_AppIcon57x57.png
 
 Package: com.bannerbomb.spongebobmovesinhack
-Version: 0.0.1-1
+Version: 0.0.2-1
 Section: Hacks & Mods
 Maintainer: BannerBomb
 Architecture: iphoneos-arm
-Filename: Files/spongebobmovesinhack/com.bannerbomb.spongebobmovesinhack_0.0.1-1_iphoneos-arm.deb
-Size: 23620
+Filename: Files/spongebobmovesinhack/com.bannerbomb.spongebobmovesinhack_0.0.2-1_iphoneos-arm.deb
+Size: 23622
 Installed-Size: 160
-MD5sum: 7008198237a5997fdc3aa9e91fccce44
+MD5sum: 7a0ac8f3fcd5d29dfa5673042d7840f8
 Description: Gives u unlimited cash for Moves In Any Version.
 Name: Spongebob Moves In Hack
 Author: BannerBomb
 
 Package: com.bannerbomb.theosinstallhelp
-Version: 6.2-1
+Version: 6.4-1
 Section: Theos
 Maintainer: BannerBomb
 Architecture: iphoneos-arm
-Filename: Files/theosinstallhelp/com.bannerbomb.theosinstallhelp_6.2-1_iphoneos-arm.deb
+Filename: Files/theosinstallhelp/com.bannerbomb.theosinstallhelp_6.4-1_iphoneos-arm.deb
 Size: 592306
 Installed-Size: 1680
-MD5sum: 664628ca979abb4f507557281af1238d
+MD5sum: 4a0d0c66e51868d8b2bf48c13af02c20
 Description: Helps you with installing & Setting up Theos on iOS. Added more settings.
 Name: Theos Install Help
 Author: BannerBomb
