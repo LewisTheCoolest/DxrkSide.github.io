@@ -16,6 +16,20 @@ Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=barrelData
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=barrelData
 Icon: file:///Applications/BarrelSettings.app/Barrel_AppIcon57x57.png
 
+Package: com.bannerbomb.spongebobmovesinhack
+Version: 0.0.1-1
+Section: Hacks & Mods
+Maintainer: BannerBomb
+Depends: 
+Architecture: iphoneos-arm
+Filename: Files/spongebobmovesinhack/com.bannerbomb.spongebobmovesinhack_0.0.1-1_iphoneos-arm.deb
+Size: 23624
+Installed-Size: 160
+MD5sum: 9ddb6745bc97e9751747ea5c6c79773d
+Description: Gives u unlimited cash for Moves In Any Version.
+Name: Spongebob Moves In Hack
+Author: BannerBomb
+
 Package: com.bannerbomb.theosinstallhelp
 Version: 6.2-1
 Section: Theos
@@ -28,6 +42,20 @@ MD5sum: 664628ca979abb4f507557281af1238d
 Description: Helps you with installing & Setting up Theos on iOS. Added more settings.
 Name: Theos Install Help
 Author: BannerBomb
+
+Package: com.damar1st.simpsonscorehackios8
+Version: 4.16.5.4
+Section: hacks
+Maintainer: damar1st <info@damarist.de>
+Depends: wget, unrar, com.ericasadun.utilities, darwintools
+Architecture: iphoneos-arm
+Filename: Files/tappedoutcorehackfreeandvipmod1/com.damar1st.simpsonscorehackios8_4.16.5.4_iphoneos-arm.deb
+Size: 1266
+MD5sum: c7873870abe640ec63dffe2aa153bf6b
+Description: The Simpsons Tapped Out Hack everything for free
+Name: Tapped Out CORE Hack FREE and VIP MOD
+Author: damar1st <info@damarist.de>
+Website: http://damarist.de
 
 Package: com.repo.xarold.com.iweppro5
 Version: 8.8.1-109
@@ -1210,18 +1238,6 @@ MD5sum: 3cfbaab772bee1a3bb753a49b59caa91
 Description: A birthday app for my dad
 Name: Surprise
 Author: BannerBomb
-
-Package: com.yourepo.bannerbomb.tappedoutcorehackfreeandvipmod1
-Version: 4.16.4.2
-Section: Hacks & Mods
-Depends: wget, unrar, com.ericasadun.utilities, darwintools
-Architecture: iphoneos-arm
-Filename: Files/tappedoutcorehackfreeandvipmod1/com.yourepo.bannerbomb.tappedoutcorehackfreeandvipmod1_4.16.4.2_iphoneos-arm.deb
-Size: 1280
-MD5sum: edf17e4e6e09f99ba684c9d1183ed3f0
-Description: The Simpsons Tapped Out Hack everything for free
-Name: Tapped Out CORE Hack FREE and VIP MOD
-Author: damar1st
 
 Package: com.yourepo.bannerbomb.theos
 Version: 1:0.9.639-1
