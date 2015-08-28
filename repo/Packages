@@ -17,14 +17,14 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=barrelData
 Icon: file:///Applications/BarrelSettings.app/Barrel_AppIcon57x57.png
 
 Package: com.bannerbomb.spongebobmovesinhack
-Version: 4.12.0-1
+Version: 0.0.2-1
 Section: Hacks & Mods
 Maintainer: BannerBomb
 Architecture: iphoneos-arm
-Filename: Files/tappedoutcorehackfreeandvipmod1/com.bannerbomb.spongebobmovesinhack_4.12.0-1_iphoneos-arm.deb
-Size: 24080
+Filename: Files/spongebobmovesinhack/com.bannerbomb.spongebobmovesinhack_0.0.2-1_iphoneos-arm.deb
+Size: 23622
 Installed-Size: 160
-MD5sum: 35fa7c3ede352d076304b589c2153f5a
+MD5sum: 7a0ac8f3fcd5d29dfa5673042d7840f8
 Description: Gives u unlimited cash for Moves In Any Version.
 Name: Spongebob Moves In Hack
 Author: BannerBomb
@@ -55,6 +55,20 @@ MD5sum: 4a0d0c66e51868d8b2bf48c13af02c20
 Description: Helps you with installing & Setting up Theos on iOS. Added more settings.
 Name: Theos Install Help
 Author: BannerBomb
+
+Package: com.damar1st.simpsonscorehackios8
+Version: 4.16.5.5
+Section: hacks
+Maintainer: damar1st <info@damarist.de>
+Depends: wget, unrar, com.ericasadun.utilities, darwintools
+Architecture: iphoneos-arm
+Filename: Files/tappedoutcorehackfreeandvipmod1/com.damar1st.simpsonscorehackios8_4.16.5.5_iphoneos-arm.deb
+Size: 1268
+MD5sum: a75047102a5c8207aa4bad9e349d322d
+Description: The Simpsons Tapped Out Hack everything for free
+Name: Tapped Out CORE Hack FREE and VIP MOD
+Author: damar1st <info@damarist.de>
+Website: http://damarist.de
 
 Package: com.repo.xarold.com.iweppro5
 Version: 8.8.1-109
