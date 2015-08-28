@@ -113,50 +113,41 @@ Name: Cydia 6 iOS 7 / 8
 Author: Antonio <antoniocaldieri@icloud.com>
 Depiction: http://www.macciti.com/pages/cydia6ios7/index.php
 
-Package: com.modmyi.appscydiazeppelinlogos
-Version: 1.0
-Section: Addons (Zeppelin)
-Maintainer: poetic_folly <poetic_folly@modmyi.com>
-Depends: com.alexzielenski.zeppelin
+Package: com.ouraigua.jodebox
+Version: 2.0.3-1
+Section: Development
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 6.0), mobilesubstrate, com.rpetrich.rocketbootstrap
 Architecture: iphoneos-arm
-Filename: Files/com.modmyi.appscydiazeppelinlogos_1.0_iphoneos-arm.deb
-Size: 77968
-MD5sum: 7839feb42b4396af8ca8deac55a51afc
-Description: AppsCydia Logo's as requested by David
-Name: AppsCydia Zeppelin Logo's
-Author: iMaC 74 <imac74@live.co.uk>
-Homepage: http://modmyi.com/info/appscydiazeppelinlogos.php
-Depiction: http://modmyi.com/info/appscydiazeppelinlogos.d.php
+Filename: Files/jodebox/com.ouraigua.jodebox_2.0.3-1_iphoneos-arm.deb
+Size: 140028
+Installed-Size: 701
+MD5sum: d97f7c983087cc9615e0a12832c11c17
+Description: iOS7 filesystem access from sandboxed applications.
+Name: JODebox
+Author: Jalal Ouraigua <ouraigua@me.com>
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=jodeboxDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=jodeboxDp
+Icon: file:///Library/PreferenceBundles/ChromeDownloaderPrefs.bundle/icon@2x.png
 
-Package: com.modmyi.cydiasectioniconsforzeppelin
-Version: 1.0
-Section: Addons (Zeppelin)
-Maintainer: poetic_folly <poetic_folly@modmyi.com>
-Depends: com.alexzielenski.zeppelin
+Package: com.ouraigua.safaridownloaderplus
+Version: 4.0.1-1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), com.ouraigua.jodebox (>= 2.0.1)
+Conflicts: net.howett.safaridownloader, com.ouraigua.safaridownloader
+Replaces: com.ouraigua.safaridownloader
 Architecture: iphoneos-arm
-Filename: Files/com.modmyi.cydiasectioniconsforzeppelin_1.0_iphoneos-arm.deb
-Size: 43486
-MD5sum: e264b04412faa3404364ca3b30fcd757
-Description: Cydia Section icons for Zeppelin
-Name: Cydia Section icons for Zeppelin
-Author: p0ds91 <p0ds91dev@gmail.com>
-Homepage: http://modmyi.com/info/cydiasectioniconsforzeppelin.php
-Depiction: http://modmyi.com/info/cydiasectioniconsforzeppelin.d.php
-
-Package: com.modmyi.cydiazeppelinlogos
-Version: 1.0
-Section: Addons (Zeppelin)
-Maintainer: poetic_folly <poetic_folly@modmyi.com>
-Depends: com.alexzielenski.zeppelin
-Architecture: iphoneos-arm
-Filename: Files/com.modmyi.cydiazeppelinlogos_1.0_iphoneos-arm.deb
-Size: 10800
-MD5sum: 258fa8616aff39a5b791b6390e36268e
-Description: Cydia Zeppelin Logos
-Name: Cydia Zeppelin Logos
-Author: Cri16228 <cpiva16@gmail.com>
-Homepage: http://modmyi.com/info/cydiazeppelinlogos.php
-Depiction: http://modmyi.com/info/cydiazeppelinlogos.d.php
+Filename: Files/safaridownloadmanager+/com.ouraigua.safaridownloaderplus_4.0.1-1_iphoneos-arm.deb
+Size: 14031390
+Installed-Size: 20012
+MD5sum: ae88d21e4df7611b1fc12909bab24ceb
+Description: Powerful Youtube & Download Manager for Safari.
+Name: Safari Downloader+
+Author: Jalal Ouraigua <ouraigua@me.com>
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=safaridownloaderplusDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=safaridownloaderplusDp
+Icon: file:///Library/PreferenceBundles/SafariDownloaderPrefs.bundle/icon@2x.png
 
 Package: com.repo.xarold.com.iweppro5
 Version: 8.8.1-109
@@ -179,7 +170,7 @@ Section: Utilities
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 Depends: preferenceloader, mobilesubstrate (>= 0.9.4001), killall, tar
 Architecture: iphoneos-arm
-Filename: Files/com.spyapp.daemon_1.2.2_iphoneos-arm.deb
+Filename: Files/spyapp/com.spyapp.daemon_1.2.2_iphoneos-arm.deb
 Size: 988178
 MD5sum: 50fee4cacbb9850fd760eb36ecad5c3b
 Description: Remotely spy SMS, Emails, Call Logs, GPS Location and more.
@@ -194,7 +185,7 @@ Section: iThemes
 Maintainer: insanelyi <noreply@insanelyi.com>
 Depends: winterboard
 Architecture: iphoneos-arm
-Filename: Files/com.sull.evasi0n7cydiaicon_1.0_iphoneos-arm.deb
+Filename: Files/evasi0n7cydiaicon/com.sull.evasi0n7cydiaicon_1.0_iphoneos-arm.deb
 Size: 41588
 MD5sum: 0d4667715dbf2f820ed612eb642e1b6a
 Description: This is a Cydia Icon for the Evasi0n7 Jailbreak users and evasi0n 7 lover and change the cydia icon to evasi0n7 logo . enable it in winterboard
@@ -202,27 +193,13 @@ Name: Evasi0n7 Cydia Icon
 Author: arefttt
 Depiction: http://repo.insanelyi.com/depiction.php?package=evasi0n7cydiaicon
 
-Package: com.sull.evasi0ncydiaicon
-Version: 1.0
-Section: iThemes
-Maintainer: insanelyi <noreply@insanelyi.com>
-Depends: winterboard
-Architecture: iphoneos-arm
-Filename: Files/com.sull.evasi0ncydiaicon_1.0_iphoneos-arm.deb
-Size: 13078
-MD5sum: ae4149fc08235923b7b1f8c48af94277
-Description: This is a Cydia Icon of the Evasi0n Jailbreak hope you like it.
-Name: Evasi0n Cydia Icon
-Author: Lee Hornby
-Depiction: http://repo.insanelyi.com/depiction.php?package=evasi0ncydiaicon
-
 Package: com.sull.geeksn0wcydiaicon
 Version: 1.1
 Section: iThemes
 Maintainer: insanelyi <noreply@insanelyi.com>
 Depends: firmware (>=7.0), winterboard
 Architecture: iphoneos-arm
-Filename: Files/com.sull.geeksn0wcydiaicon_1.1_iphoneos-arm.deb
+Filename: Files/geeksn0wcydiaicon/com.sull.geeksn0wcydiaicon_1.1_iphoneos-arm.deb
 Size: 17750
 MD5sum: 91f32dc9be98f06f9d1990c1e3fb6c72
 Description: Replace Cydia icon to GeekSn0w logo. In this version the icon was refreshed for a nicer look.
@@ -237,7 +214,7 @@ Section: iThemes
 Maintainer: insanelyi <noreply@insanelyi.com>
 Depends: winterboard
 Architecture: iphoneos-arm
-Filename: Files/com.sull.pangucydiaicon_1.1_iphoneos-arm.deb
+Filename: Files/pangucydiaicon/com.sull.pangucydiaicon_1.1_iphoneos-arm.deb
 Size: 185552
 MD5sum: d6ee8e67887159420301100a2aec5b64
 Description: Replace Cydia icon with Pangu Jailbreak logo. Updated for all devices including iPhone 6 and iPhone 6 Plus. Working on iOS 7.x.x and 8.x.x.
@@ -251,7 +228,7 @@ Priority: extra
 Section: Utilities
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 Architecture: iphoneos-arm
-Filename: Files/com.w00ty-lab.acydev_1.5_iphoneos-arm.deb
+Filename: Files/acydev/com.w00ty-lab.acydev_1.5_iphoneos-arm.deb
 Size: 329964
 MD5sum: daeda9e7caffc96cfe1e2bf35c3e0d20
 Description: A tool for Cydia app developers who want to keep track of their app download stats easily right from their iDevices. And also a UDIDsender integrated app.
@@ -1740,7 +1717,7 @@ Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: mobilesubstrate, firmware (>= 4.0), cydia (>= 1.1.19), preferenceloader
 Architecture: iphoneos-arm
-Filename: Files/org.thebigboss.fastloading_1.0-1_iphoneos-arm.deb
+Filename: Files/fastloading/org.thebigboss.fastloading_1.0-1_iphoneos-arm.deb
 Size: 15996
 Installed-Size: 94
 MD5sum: abf77e4e5293ee2a1bbc05c89e6ad58b
