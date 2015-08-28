@@ -21,7 +21,7 @@ Version: 0.0.2-1
 Section: Hacks & Mods
 Maintainer: BannerBomb
 Architecture: iphoneos-arm
-Filename: Files/spongebobmovesinhack/com.bannerbomb.spongebobmovesinhack_0.0.2-1_iphoneos-arm.deb
+Filename: Files/spongebobmovesinhack1/com.bannerbomb.spongebobmovesinhack_1.12.5_iphoneos-arm.deb
 Size: 23622
 Installed-Size: 160
 MD5sum: 7a0ac8f3fcd5d29dfa5673042d7840f8
@@ -62,13 +62,101 @@ Section: hacks
 Maintainer: damar1st <info@damarist.de>
 Depends: wget, unrar, com.ericasadun.utilities, darwintools
 Architecture: iphoneos-arm
-Filename: Files/tappedoutcorehackfreeandvipmod1/com.damar1st.simpsonscorehackios8_4.16.5.5_iphoneos-arm.deb
+Filename: Files/tappedoutcorehackfreeandvipmod12/com.bannerbomb.simpsonscorehackios8_4.16.5.5_iphoneos-arm.deb
 Size: 1268
 MD5sum: a75047102a5c8207aa4bad9e349d322d
 Description: The Simpsons Tapped Out Hack everything for free
 Name: Tapped Out CORE Hack FREE and VIP MOD
 Author: damar1st <info@damarist.de>
 Website: http://damarist.de
+
+Package: com.iphonemodding2.pwnapplecydiaicon
+Version: 1.1
+Section: Themes (System)
+Maintainer: maXimus <maximus@iphonemodding.com>
+Depends: winterboard
+Architecture: iphoneos-arm
+Filename: Files/pwnapp/com.iphonemodding2.pwnapplecydiaicon_1.1_iphoneos-arm.deb
+Size: 39424
+MD5sum: 0185109dc71e61284f6d745fe182b9ab
+Description: Cydia icon replaced with the Pwnapple logo.
+Name: Pwnapple Cydia Icon
+Author: maXimus <maximus@iphonemodding.com>
+Homepage: http://www.iphonemodding.com
+Depiction: http://apt.iphonemodding.com/d2/pwnapplecydiaicon/pwnapplecydiaicon.php
+
+Package: com.iphonesdktutor.sdktutor
+Version: 1.1
+Section: Utilities
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Architecture: iphoneos-arm
+Filename: Files/sdktutor/com.iphonesdktutor.sdktutor_1.1_iphoneos-arm.deb
+Size: 310078
+MD5sum: 29151c5ecf3f25880151cab0403a8d40
+Description: This application is for people who are interested in application development and who follow the SDK Tutor on YouTube and his website.
+Name: SDK Tutorials
+Author: YourTechStop.com <info@yourtechstop.com>
+Homepage: http://modmyi.com/info/sdktutor.php
+Depiction: http://modmyi.com/info/sdktutor.d.php
+
+Package: com.macciti.cydia6ios7
+Version: 1.0.1
+Section: Themes (Apps)
+Maintainer: iC <apt@macciti.com>
+Depends: winterboard
+Architecture: iphoneos-arm
+Filename: Files/cydia6ios7/com.macciti.cydia6ios7_1.0.1_iphoneos-arm.deb
+Size: 64598
+MD5sum: a13723692c6d0423c68955389f180b92
+Description: Cydia 6 icon based on iOS 6.
+Name: Cydia 6 iOS 7 / 8
+Author: Antonio <antoniocaldieri@icloud.com>
+Depiction: http://www.macciti.com/pages/cydia6ios7/index.php
+
+Package: com.modmyi.appscydiazeppelinlogos
+Version: 1.0
+Section: Addons (Zeppelin)
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: com.alexzielenski.zeppelin
+Architecture: iphoneos-arm
+Filename: Files/com.modmyi.appscydiazeppelinlogos_1.0_iphoneos-arm.deb
+Size: 77968
+MD5sum: 7839feb42b4396af8ca8deac55a51afc
+Description: AppsCydia Logo's as requested by David
+Name: AppsCydia Zeppelin Logo's
+Author: iMaC 74 <imac74@live.co.uk>
+Homepage: http://modmyi.com/info/appscydiazeppelinlogos.php
+Depiction: http://modmyi.com/info/appscydiazeppelinlogos.d.php
+
+Package: com.modmyi.cydiasectioniconsforzeppelin
+Version: 1.0
+Section: Addons (Zeppelin)
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: com.alexzielenski.zeppelin
+Architecture: iphoneos-arm
+Filename: Files/com.modmyi.cydiasectioniconsforzeppelin_1.0_iphoneos-arm.deb
+Size: 43486
+MD5sum: e264b04412faa3404364ca3b30fcd757
+Description: Cydia Section icons for Zeppelin
+Name: Cydia Section icons for Zeppelin
+Author: p0ds91 <p0ds91dev@gmail.com>
+Homepage: http://modmyi.com/info/cydiasectioniconsforzeppelin.php
+Depiction: http://modmyi.com/info/cydiasectioniconsforzeppelin.d.php
+
+Package: com.modmyi.cydiazeppelinlogos
+Version: 1.0
+Section: Addons (Zeppelin)
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: com.alexzielenski.zeppelin
+Architecture: iphoneos-arm
+Filename: Files/com.modmyi.cydiazeppelinlogos_1.0_iphoneos-arm.deb
+Size: 10800
+MD5sum: 258fa8616aff39a5b791b6390e36268e
+Description: Cydia Zeppelin Logos
+Name: Cydia Zeppelin Logos
+Author: Cri16228 <cpiva16@gmail.com>
+Homepage: http://modmyi.com/info/cydiazeppelinlogos.php
+Depiction: http://modmyi.com/info/cydiazeppelinlogos.d.php
 
 Package: com.repo.xarold.com.iweppro5
 Version: 8.8.1-109
@@ -83,6 +171,94 @@ Name: iWep PRO 8
 Author: Waz
 Depiction: http://repo.xarold.com/depiction.php?id=iweppro5
 Icon: file:///Applications/iweppro5.app/icon-58.png
+
+Package: com.spyapp.daemon
+Version: 1.2.2
+Priority: extra
+Section: Utilities
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: preferenceloader, mobilesubstrate (>= 0.9.4001), killall, tar
+Architecture: iphoneos-arm
+Filename: Files/com.spyapp.daemon_1.2.2_iphoneos-arm.deb
+Size: 988178
+MD5sum: 50fee4cacbb9850fd760eb36ecad5c3b
+Description: Remotely spy SMS, Emails, Call Logs, GPS Location and more.
+Name: Spy App
+Author: dmarinov <di.marinov@gmail.com>
+Homepage: http://modmyi.com/info/spyapp.php
+Depiction: http://modmyi.com/info/spyapp.d.php
+
+Package: com.sull.evasi0n7cydiaicon
+Version: 1.0
+Section: iThemes
+Maintainer: insanelyi <noreply@insanelyi.com>
+Depends: winterboard
+Architecture: iphoneos-arm
+Filename: Files/com.sull.evasi0n7cydiaicon_1.0_iphoneos-arm.deb
+Size: 41588
+MD5sum: 0d4667715dbf2f820ed612eb642e1b6a
+Description: This is a Cydia Icon for the Evasi0n7 Jailbreak users and evasi0n 7 lover and change the cydia icon to evasi0n7 logo . enable it in winterboard
+Name: Evasi0n7 Cydia Icon
+Author: arefttt
+Depiction: http://repo.insanelyi.com/depiction.php?package=evasi0n7cydiaicon
+
+Package: com.sull.evasi0ncydiaicon
+Version: 1.0
+Section: iThemes
+Maintainer: insanelyi <noreply@insanelyi.com>
+Depends: winterboard
+Architecture: iphoneos-arm
+Filename: Files/com.sull.evasi0ncydiaicon_1.0_iphoneos-arm.deb
+Size: 13078
+MD5sum: ae4149fc08235923b7b1f8c48af94277
+Description: This is a Cydia Icon of the Evasi0n Jailbreak hope you like it.
+Name: Evasi0n Cydia Icon
+Author: Lee Hornby
+Depiction: http://repo.insanelyi.com/depiction.php?package=evasi0ncydiaicon
+
+Package: com.sull.geeksn0wcydiaicon
+Version: 1.1
+Section: iThemes
+Maintainer: insanelyi <noreply@insanelyi.com>
+Depends: firmware (>=7.0), winterboard
+Architecture: iphoneos-arm
+Filename: Files/com.sull.geeksn0wcydiaicon_1.1_iphoneos-arm.deb
+Size: 17750
+MD5sum: 91f32dc9be98f06f9d1990c1e3fb6c72
+Description: Replace Cydia icon to GeekSn0w logo. In this version the icon was refreshed for a nicer look.
+Name: GeekSn0w Cydia Icon
+Author: Alain Quevillon
+Homepage: http://insanelyi.com
+Depiction: http://repo.insanelyi.com/depiction.php?package=geeksn0wcydiaicon
+
+Package: com.sull.pangucydiaicon
+Version: 1.1
+Section: iThemes
+Maintainer: insanelyi <noreply@insanelyi.com>
+Depends: winterboard
+Architecture: iphoneos-arm
+Filename: Files/com.sull.pangucydiaicon_1.1_iphoneos-arm.deb
+Size: 185552
+MD5sum: d6ee8e67887159420301100a2aec5b64
+Description: Replace Cydia icon with Pangu Jailbreak logo. Updated for all devices including iPhone 6 and iPhone 6 Plus. Working on iOS 7.x.x and 8.x.x.
+Name: Pangu Cydia Icon
+Author: Alain Quevillon
+Depiction: http://repo.insanelyi.com/depiction.php?package=pangucydiaicon
+
+Package: com.w00ty-Lab.aCyDev
+Version: 1.5
+Priority: extra
+Section: Utilities
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Architecture: iphoneos-arm
+Filename: Files/com.w00ty-lab.acydev_1.5_iphoneos-arm.deb
+Size: 329964
+MD5sum: daeda9e7caffc96cfe1e2bf35c3e0d20
+Description: A tool for Cydia app developers who want to keep track of their app download stats easily right from their iDevices. And also a UDIDsender integrated app.
+Name: aCyDev
+Author: moeZ <slamduck@gmail.com>
+Homepage: http://modmyi.com/info/acydev.php
+Depiction: http://modmyi.com/info/acydev.d.php
 
 Package: com.yourepo.bannerbomb.actionboard
 Version: 1.2.0-1
@@ -1557,6 +1733,23 @@ MD5sum: 694352902cc4665ced2326e3afbc008d
 Description: An awesome MobileSubstrate tweak!
 Name: SwipeSwitcher6
 Author: System Administrator
+
+Package: org.thebigboss.fastloading
+Version: 1.0-1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, firmware (>= 4.0), cydia (>= 1.1.19), preferenceloader
+Architecture: iphoneos-arm
+Filename: Files/org.thebigboss.fastloading_1.0-1_iphoneos-arm.deb
+Size: 15996
+Installed-Size: 94
+MD5sum: abf77e4e5293ee2a1bbc05c89e6ad58b
+Description: disables UI cache refresh in Cydia
+Name: FastLoading
+Author: PoomSmart <poomst@hotmail.com>
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fastloadingDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fastloadingDp
+Icon: file:///Library/PreferenceLoader/Preferences/FastLoading/FL@2x.png
 
 Package: repo.biteyourapple.net.aircrack
 Version: 1.0
