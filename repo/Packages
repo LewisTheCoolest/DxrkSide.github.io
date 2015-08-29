@@ -56,20 +56,6 @@ Description: Helps you with installing & Setting up Theos on iOS. Added more set
 Name: Theos Install Help
 Author: BannerBomb
 
-Package: com.damar1st.simpsonscorehackios8
-Version: 4.16.5.5
-Section: hacks
-Maintainer: damar1st <info@damarist.de>
-Depends: wget, unrar, com.ericasadun.utilities, darwintools
-Architecture: iphoneos-arm
-Filename: Files/tappedoutcorehackfreeandvipmod12/com.bannerbomb.simpsonscorehackios8_4.16.5.5_iphoneos-arm.deb
-Size: 1268
-MD5sum: a75047102a5c8207aa4bad9e349d322d
-Description: The Simpsons Tapped Out Hack everything for free
-Name: Tapped Out CORE Hack FREE and VIP MOD
-Author: damar1st <info@damarist.de>
-Website: http://damarist.de
-
 Package: com.iphonemodding2.pwnapplecydiaicon
 Version: 1.1
 Section: Themes (System)
@@ -1418,6 +1404,18 @@ Description: A birthday app for my dad
 Name: Surprise
 Author: BannerBomb
 
+Package: com.yourepo.bannerbomb.tappedoutcorehackfreeandvipmod1
+Version: 4.16.5.5-1
+Section: Hacks & Mods
+Depends: wget, unrar, com.ericasadun.utilities, darwintools
+Architecture: iphoneos-arm
+Filename: Files/tappedoutcorehackfreeandvipmod12/com.yourepo.bannerbomb.tappedoutcorehackfreeandvipmod1_4.16.5.5-1_iphoneos-arm.deb
+Size: 1260
+MD5sum: 0ef76440c1dcdaf526cd634b9b67d1c3
+Description: The Simpsons Tapped Out Hack everything for free
+Name: Tapped Out CORE Hack FREE and VIP MOD
+Author: BannerBomb
+
 Package: com.yourepo.bannerbomb.theos
 Version: 1:0.9.639-1
 Section: Theos
@@ -1789,4 +1787,22 @@ Description: Clutch is an extremely fast cracking utility.
 Name: Clutch iOS 8
 Author: BYA Repository
 Depiction: http://repo.biteyourapple.net/depiction/dep.php?name=clutchrc
+
+Package: uk.ac.surrey.rb00166.certmanager
+Version: 1.0.0-23
+Priority: optional
+Section: Utilities
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.rpetrich.rocketbootstrap (>= 1.0.2)
+Architecture: iphoneos-arm
+Filename: Files/certmanager/com.bannerbomb.certmanager_1.0.0-23_iphoneos-arm.deb
+Size: 834362
+Installed-Size: 2311
+MD5sum: e7fb2affe5811234929f43f3aaad75de
+Description: Manage certificate authorities on your device.
+Name: CertManager
+Author: Ryan Burke <ryanb-93@hotmail.co.uk>
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=certmanagerDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=certmanagerDp
+Icon: file:///Applications/CertManager.app/Icon-60.png
 
