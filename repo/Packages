@@ -1090,6 +1090,17 @@ Description: LLVM+Clang, ld64, CC tools, Make, ldid
 Name: iOS Toolchain
 Author: CoolStar
 
+Package: com.yourepo.bannerbomb.iret
+Version: 5.0.0
+Section: Utilities
+Architecture: iphoneos-arm
+Filename: Files/iret/com.yourepo.bannerbomb.iret_iphoneos-arm.deb
+Size: 65794
+MD5sum: e8ef42ce345ebf43514eabdb8b962b9a
+Description: A Reverse Engineering Utility for app Developers.
+Name: iRET
+Author: BannerBomb
+
 Package: com.yourepo.bannerbomb.ismyflash
 Version: 1.1
 Section: Tweaks
@@ -1640,18 +1651,6 @@ MD5sum: 40c80fcc961b297e34816eb79157f18f
 Description: Replaces carrier text with an image!
 Name: Zeppelin
 Author: BannerBomb
-
-Package: iRE
-Version: "1.0"
-Maintainer: "Steve Jensen <sjensen@veracode.com>"
-Depends: 
-Architecture: iphoneos-arm
-Filename: Files/iret/iRET.deb
-Size: 65894
-MD5sum: f746c1db9cc8c863afb1b8331b8b2da0
-Name: "iRE"
-Author: "Steve Jensen <sjensen@veracode.com>"
-Homepage: 
 
 Package: org.coolstar.betterpowerdown
 Version: 1.1.0-6
