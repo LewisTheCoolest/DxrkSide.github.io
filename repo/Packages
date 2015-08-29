@@ -99,6 +99,48 @@ Name: Cydia 6 iOS 7 / 8
 Author: Antonio <antoniocaldieri@icloud.com>
 Depiction: http://www.macciti.com/pages/cydia6ios7/index.php
 
+Package: com.macciti.divine
+Version: 1.0
+Section: Themes (SpringBoard)
+Maintainer: iC <apt@macciti.com>
+Depends: winterboard
+Architecture: iphoneos-arm
+Filename: Files/divine/com.macciti.divine_1.0_iphoneos-arm.deb
+Size: 9803842
+MD5sum: 4bbdd1fc4ab5a765293d2da7d47401f4
+Description: - the royal prestige
+Name: DIVINE
+Author: JimmyL <jimmyl8484@gmail.com>
+Depiction: http://www.macciti.com/pages/divine/index.php
+
+Package: com.macciti.golden
+Version: 1.1
+Section: Themes (SpringBoard)
+Maintainer: iC <apt@macciti.com>
+Depends: winterboard
+Architecture: iphoneos-arm
+Filename: Files/golden/com.macciti.golden_1.1_iphoneos-arm.deb
+Size: 15690590
+MD5sum: 30a1eb0d57c49efcda8c54ddc8e285f7
+Description: Golden Theme by S1lex.
+Name: Golden
+Author: S1lex <design@graphics1lex.fr>
+Depiction: http://www.macciti.com/pages/golden/index.php
+
+Package: com.macciti.shirogoldedition
+Version: 1.3.1
+Section: Themes (SpringBoard)
+Maintainer: iC <apt@macciti.com>
+Depends: winterboard
+Architecture: iphoneos-arm
+Filename: Files/shirogoldedition/com.macciti.shirogoldedition_1.3.1_iphoneos-arm.deb
+Size: 11222090
+MD5sum: d6c8bbfff0ee91c09d96cabf868f7628
+Description: Ever wondered how great your Gold colored iPhone could look with an awesome theme on it which matches the colors of it nearly perfectly?
+Name: Shiro Gold Edition
+Author: yuki.o7 <kenzodragon4@hotmail.de>
+Depiction: http://www.macciti.com/pages/shirogoldedition/index.php
+
 Package: com.ouraigua.jodebox
 Version: 2.0.3-1
 Section: Development
