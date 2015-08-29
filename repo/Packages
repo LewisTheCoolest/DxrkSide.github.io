@@ -149,6 +149,19 @@ Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=safaridownl
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=safaridownloaderplusDp
 Icon: file:///Library/PreferenceBundles/SafariDownloaderPrefs.bundle/icon@2x.png
 
+Package: com.repo.xarold.com.displayrecorder
+Version: 1.3.14k
+Section: System
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), libactivator (>= 1.9.1), gdata-objectivec-client | firmware (>= 7.0), firmware (>= 3), openssl, firmware (<< 8.9), com.rpetrich.rocketbootstrap (>= 1.0.1) | firmware (<< 7.0), com.a3tweaks.flipswitch (>= 1.0.5)
+Architecture: iphoneos-arm
+Filename: Files/displayrecorder/com.bannerbomb.displayrecorder_1.3.14k_iphoneos-arm.deb
+Size: 1135964
+MD5sum: e7faff32f8b19097d0c271470be9081d
+Description: Record the display in real-time, send to camera roll, web interface, ProTapper-style touch circles and Activator integration
+Name: Display Recorder
+Author: Ryan Petrich
+Depiction: http://repo.xarold.com/depiction.php?id=displayrecorder
+
 Package: com.repo.xarold.com.iweppro5
 Version: 8.8.1-109
 Section: Networking
