@@ -1245,6 +1245,18 @@ Description: Bypass jailbreak detection
 Name: Officer
 Author: Stan Hutcheon
 
+Package: com.yourepo.bannerbomb.onepiecetreasurecruisecheats
+Version: 2.2.0
+Section: Hacks & Mods
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: Files/treasurecruisehack/com.yourepo.bannerbomb.onepiecetreasurecruisecheats_iphoneos-arm-1.deb
+Size: 26984
+MD5sum: 4a680146ab3dcc9fee6db075d9d491d8
+Description: Godmode (never die), One Hit Kill (kill enemies with one hit), Instant Skill, AI don`t attack, Always your turn, Unlimited Currency.... More Coming Soon.. Configure options from Settings.
+Name: One Piece Treasure Cruise Cheats
+Author: BannerBomb
+
 Package: com.yourepo.bannerbomb.parentalcontrolsforios
 Version: 0.0.9
 Section: Tweaks
