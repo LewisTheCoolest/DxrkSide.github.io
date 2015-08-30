@@ -44,14 +44,14 @@ Name: SysOpt
 Author: BannerBomb
 
 Package: com.bannerbomb.theosinstallhelp
-Version: 7.1-1
+Version: 7.2-1
 Section: Theos
 Maintainer: BannerBomb
 Architecture: iphoneos-arm
-Filename: Files/theosinstallhelp/com.bannerbomb.theosinstallhelp_7.1-1_iphoneos-arm.deb
-Size: 592262
+Filename: Files/theosinstallhelp/com.bannerbomb.theosinstallhelp_7.2-1_iphoneos-arm.deb
+Size: 592644
 Installed-Size: 1680
-MD5sum: 1c35a1b641a09e18d6c3c8587fdcff61
+MD5sum: bcb029ad024d90715d688f39d984e838
 Description: Helps you with installing & Setting up Theos on iOS.
 Name: Theos Install Help
 Author: BannerBomb
