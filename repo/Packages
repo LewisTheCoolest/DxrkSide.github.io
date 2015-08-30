@@ -1,3 +1,17 @@
+Package: class-dump-z
+Version: 2.0-1
+Section: Development
+Maintainer: J41LBR34KXP <j41lbr34kxp@gmail.com>
+Replaces: com.c0deh4cker.class-dump-z
+Architecture: iphoneos-arm
+Filename: Files/class-dump-z/class-dump-z_2.0-1_iphoneos-arm.deb
+Size: 171474
+MD5sum: bac61e5df20a042e56486e300a034988
+Description: Reverse engineer Objective-C headers. Like Class Dump, Class Dump Z is a powerful and useful tool for reverse engineering Objective-C headers. Using Class Dump Z, one can reproduce the headers used in any given Objective-C binary. This tool is useful for MobileSubstrate tweak development. Class Dump Z is a newer, more powerful version of Class Dump. This version has more options and comes closer to getting the correct headers.
+Name: Class Dump Z
+Author: KenneyTM
+Website: http://ininjas.com/forum/index.php?topic=689.0;theme=14
+
 Package: com.aaronash.barrel
 Version: 1.7.5.1-1
 Section: Tweaks
@@ -43,6 +57,19 @@ Description: Adds system tweaks to the settings app.
 Name: SysOpt
 Author: BannerBomb
 
+Package: com.bannerbomb.tes
+Version: 0.0.1-1
+Section: Addons (ControlCenter)
+Depends: de.j-gessner.ccloader, firmware (>= 8.4)
+Architecture: iphoneos-arm
+Filename: Files/tes/com.bannerbomb.tes_0.0.1-1_iphoneos-arm.deb
+Size: 6244
+Installed-Size: 72
+MD5sum: b0fb2adc7f50608d7d22ae4289a20b49
+Description: An awesome Control Center plugin!
+Name: Tes
+Author: BannerBomb
+
 Package: com.bannerbomb.theosinstallhelp
 Version: 7.3-1
 Section: Theos
@@ -55,6 +82,63 @@ MD5sum: 908f5f9a7a9d45db3febc860d111beda
 Description: Helps you with installing & Setting up Theos on iOS.
 Name: Theos Install Help
 Author: BannerBomb
+
+Package: com.bytafont.bytafont2
+Version: 2.6.1
+Section: System
+Maintainer: BytaFont.com <info@bytafont.com>
+Depends: firmware (>= 7),applist,unzip
+Architecture: iphoneos-arm
+Filename: Files/bytafont2/com.bytafont.bytafont2_2.6.1_iphoneos-arm.deb
+Size: 1652152
+MD5sum: d3f93c80a056d674d8e64dbf91525e11
+Description: BytaFont 2 lets you apply fonts to your iDevice in few taps.
+Name: BytaFont 2
+Author: BytaFont.com <info@bytafont.com>
+Depiction: http://repo.bytafont.com/bytafont/261
+
+Package: com.intelliborn.mywi8
+Version: 8.03.02
+Section: Utilities
+Maintainer: Support Above
+Depends: firmware (>= 8.0), firmware (<< 9), mobilesubstrate, com.mywi4 (>= 8.03.02)
+Architecture: iphoneos-arm
+Filename: Files/mywi8/com.intelliborn.mywi8_8.03.02_iphoneos-arm.deb
+Size: 1135396
+MD5sum: 5431f1a352840b34114d26af5bdc93c3
+Description: MyWi 8 - All New Tethering on iPhones + iPad for iOS 8.0! Create a WiFi HotSpot with a press of a finger! Wherever you are - you can connect your laptop or other mobile device to your iPhone easily!  You can also use MyWi 8.0 to enable USB and Bluetooth Tethering!
+ Completely redesigned with improved performance, improved battery life, and more options!
+ Features:
+ - Create WiFi Hotspot to connect mutiple laptops or mobile devices to share your iPhone''s internet connection
+ - 40 bit and 104 bit WEP Security to prevent others from accessing your WiFi Tethering HotSpot
+ - Ability to enable USB and Bluetooth Tethering on your iPhone as well
+ - Uses less battery and much faster then PdaNet due to native routing
+ - Broadcasts the Network Name (SSID) - no need to fuss with creating an adhoc network on your laptop
+ - Enable iPhone USB tethering - even on firmware 3.1!
+ - Shows up and down bandwith usage
+ - Allow viewing of active users
+ - Select network for device and users
+ - Select WiFi transmit power to increase battery performance!
+ - Indicates on with optional status bar icon or blue tethering bar
+Name: MyWi 8.0 (iOS 8 Library)
+Homepage: http://support.intelliborn.com
+Depiction: http://depictions.intelliborn.com/mywi4.php
+Icon: file:///Applications/MyWi.app/Icon@2x.png
+
+Package: com.iphonedesignz.apppack
+Version: 3.0
+Priority: extra
+Section: Utilities
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Architecture: iphoneos-arm
+Filename: Files/apppack/com.iphonedesignz.apppack_3.0_iphoneos-arm.deb
+Size: 14146
+MD5sum: 7a3c6c8127e78c3fe9184bf976571700
+Description: Welcome to appPack! appPack is a hub for useful and entertaining applications.
+Name: appPack
+Author: Chase <revoiphone@gmail.com>
+Homepage: http://modmyi.com/info/apppack.php
+Depiction: http://modmyi.com/info/apppack.d.php
 
 Package: com.iphonemodding2.pwnapplecydiaicon
 Version: 1.1
@@ -203,6 +287,64 @@ Name: iWep PRO 8
 Author: Waz
 Depiction: http://repo.xarold.com/depiction.php?id=iweppro5
 Icon: file:///Applications/iweppro5.app/icon-58.png
+
+Package: com.repo.xarold.com.mcpe
+Version: 0.9.5
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: Files/minecraftpecheats/com.repo.xarold.com.mcpe_0.9.5_iphoneos-arm.deb
+Size: 23514
+MD5sum: eae14de858038537fa8b772cd5e18989
+Description: Minecraft PE v0.9.5 Cheats!
+Name: Minecraft PE Cheats
+Author: Zahir
+Depiction: http://repo.xarold.com/depiction.php?id=mcpe
+
+Package: com.repo.xarold.com.obsbpa
+Version: 1.0-6
+Section: Tweaks
+Pre-Depends: preferenceloader, firmware (>= 7.0), com.repo.xarold.com.sudonopsswd, sudo
+Architecture: iphoneos-arm
+Filename: Files/obsbpa/com.repo.xarold.com.obsbpa_1.0-6_iphoneos-arm.deb
+Size: 35188
+MD5sum: b14a178d4b973169fd21e8a06dfb51e0
+Description: A way to bypass package identifier's in tweaks.
+Name: Crack Package Identifiers
+Author: Orangebananaspy
+Depiction: http://repo.xarold.com/depiction.php?id=obsbpa
+
+Package: com.reverseeffect.pbrogue
+Version: 1.0-22
+Section: Addons (NotificationCenter)
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: firmware (>= 5.0), com.saurik.substrate.safemode, com.chpwn.weeloader, org.thebigboss.customwidgeticons
+Architecture: iphoneos-arm
+Filename: Files/pbrogue/com.reverseeffect.pbrogue_1.0-22_iphoneos-arm.deb
+Size: 22070
+MD5sum: d2bce1b30ccf1a6265e9faa21d96fa93
+Description: Inject, edit, or remove text and other objects from Pasteboard!
+Name: PasteboardRogue
+Author: ReverseEffect <ReverseEffect@live.com>
+Homepage: http://modmyi.com/info/pasteboardrogue.php
+Depiction: http://modmyi.com/info/pasteboardrogue.d.php
+
+Package: com.samstone.gotappa
+Version: 1.1.0-1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, firmware (>= 7.0), preferenceloader
+Architecture: iphoneos-arm
+Filename: Files/gotappa/com.samstone.gotappa_1.1.0-1_iphoneos-arm.deb
+Size: 53416
+Installed-Size: 439
+MD5sum: 142633aa8a909e8908c3ca46dbf03587
+Description: Display a 'puck' under your touches.
+Name: GoTappa
+Author: Sam Stone <stonesam92@gmail.com>
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gotappaDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gotappaDp
+Icon: file:///Library/PreferenceBundles/GoTappaPrefs.bundle/GoTappaSettings@2x.png
 
 Package: com.spyapp.daemon
 Version: 1.2.2
@@ -1664,6 +1806,20 @@ Description: Replaces carrier text with an image!
 Name: Zeppelin
 Author: BannerBomb
 
+Package: mobi.macciti.apptag
+Version: 1.1
+Section: Tweaks
+Maintainer: iC <>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: Files/apptag/mobi.macciti.apptag_1.1_iphoneos-arm.deb
+Size: 10278
+MD5sum: 16b9c7a60bf53a575435534c284113ed
+Description: This tweak will allow you to create badges on your iPod Touch or iPhone with no computer! Instructions are located in Settings > AppTag.
+Name: AppTag
+Author: 0njai <>
+Depiction: http://www.macciti.com/pages/apptag/index.php
+
 Package: org.coolstar.betterpowerdown
 Version: 1.1.0-6
 Section: Tweaks
@@ -1803,6 +1959,23 @@ Author: PoomSmart <poomst@hotmail.com>
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fastloadingDp
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fastloadingDp
 Icon: file:///Library/PreferenceLoader/Preferences/FastLoading/FL@2x.png
+
+Package: org.thebigboss.iretinergui
+Version: 3.0-3
+Section: Utilities
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 4.0)
+Architecture: iphoneos-arm
+Filename: Files/iretinergui/org.thebigboss.iretinergui_3.0-3_iphoneos-arm.deb
+Size: 2994714
+Installed-Size: 6624
+MD5sum: 080216c25e7ca1d2f28eab764347adcb
+Description: makes retina icons for unoptimized apps
+Name: iRetiner GUI
+Author: Philippe <philippemail1@gmail.com>
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iretinerguiData
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iretinerguiData
+Icon: file:///Applications/iRetiner.app/icon.png
 
 Package: repo.biteyourapple.net.aircrack
 Version: 1.0
