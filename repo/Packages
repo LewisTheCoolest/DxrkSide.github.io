@@ -30,15 +30,15 @@ Name: Spongebob Moves In Hack
 Author: BannerBomb
 
 Package: com.bannerbomb.sysopt
-Version: 0.0.1-1
+Version: 1.0.0-1
 Section: Tweaks
 Maintainer: BannerBomb
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: Files/sysopt/com.bannerbomb.sysopt_0.0.1-1_iphoneos-arm.deb
-Size: 79318
-Installed-Size: 308
-MD5sum: 2a62f57729ab5f6938f3afc3b772b2c1
+Filename: Files/sysopt/com.bannerbomb.sysopt_1.0.0-1_iphoneos-arm.deb
+Size: 7592
+Installed-Size: 48
+MD5sum: cccd06cb2969c4a38febc7832ba371a7
 Description: Adds system tweaks to the settings app.
 Name: SysOpt
 Author: BannerBomb
