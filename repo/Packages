@@ -57,19 +57,6 @@ Description: Adds system tweaks to the settings app.
 Name: SysOpt
 Author: BannerBomb
 
-Package: com.bannerbomb.tes
-Version: 0.0.1-1
-Section: Addons (ControlCenter)
-Depends: de.j-gessner.ccloader, firmware (>= 8.4)
-Architecture: iphoneos-arm
-Filename: Files/tes/com.bannerbomb.tes_0.0.1-1_iphoneos-arm.deb
-Size: 6244
-Installed-Size: 72
-MD5sum: b0fb2adc7f50608d7d22ae4289a20b49
-Description: An awesome Control Center plugin!
-Name: Tes
-Author: BannerBomb
-
 Package: com.bannerbomb.theosinstallhelp
 Version: 7.3-1
 Section: Theos
@@ -300,19 +287,6 @@ Description: Minecraft PE v0.9.5 Cheats!
 Name: Minecraft PE Cheats
 Author: Zahir
 Depiction: http://repo.xarold.com/depiction.php?id=mcpe
-
-Package: com.repo.xarold.com.obsbpa
-Version: 1.0-6
-Section: Tweaks
-Pre-Depends: preferenceloader, firmware (>= 7.0), com.repo.xarold.com.sudonopsswd, sudo
-Architecture: iphoneos-arm
-Filename: Files/obsbpa/com.repo.xarold.com.obsbpa_1.0-6_iphoneos-arm.deb
-Size: 35188
-MD5sum: b14a178d4b973169fd21e8a06dfb51e0
-Description: A way to bypass package identifier's in tweaks.
-Name: Crack Package Identifiers
-Author: Orangebananaspy
-Depiction: http://repo.xarold.com/depiction.php?id=obsbpa
 
 Package: com.reverseeffect.pbrogue
 Version: 1.0-22
