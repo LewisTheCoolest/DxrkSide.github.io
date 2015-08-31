@@ -1586,16 +1586,16 @@ Name: Surprise
 Author: BannerBomb
 
 Package: com.yourepo.bannerbomb.tappedoutcorehackfreeandvipmod1
-Version: 4.16.5.5-1
+Version: 4.16.5.5
 Section: Hacks & Mods
 Depends: wget, unrar, com.ericasadun.utilities, darwintools
 Architecture: iphoneos-arm
-Filename: Files/tappedoutcorehackfreeandvipmod12/com.yourepo.bannerbomb.tappedoutcorehackfreeandvipmod1_4.16.5.5-1_iphoneos-arm.deb
-Size: 1260
-MD5sum: 0ef76440c1dcdaf526cd634b9b67d1c3
+Filename: Files/tappedoutcorehackfreeandvipmod12/com.yourepo.bannerbomb.tappedoutcorehackfreeandvipmod1_iphoneos-arm.deb
+Size: 1262
+MD5sum: d091d5b9f8fb2e315530829d0a93f7e1
 Description: The Simpsons Tapped Out Hack everything for free
 Name: Tapped Out CORE Hack FREE and VIP MOD
-Author: BannerBomb
+Author: damar1st, BannerBomb
 
 Package: com.yourepo.bannerbomb.theos
 Version: 1:0.9.639-1
