@@ -112,6 +112,20 @@ Homepage: http://support.intelliborn.com
 Depiction: http://depictions.intelliborn.com/mywi4.php
 Icon: file:///Applications/MyWi.app/Icon@2x.png
 
+Package: com.iphonecake.clutch
+Version: 1.4.7-3
+Section: Tweaks
+Maintainer: iPhoneCake.com
+Depends: zip
+Architecture: iphoneos-arm
+Filename: Files/clutch/clutch.deb
+Size: 360730
+MD5sum: 3572bb42e8f059bcea97272412324f09
+Description: Clutch, the fastest and most advanced cracking utility for the iPhone, iPod Touch, and iPad. Works with all devices, iOS versions, architecture types, with most binaries..
+Name: Clutch
+Author: ttwj <terencetanwj@gmail.com>
+Homepage: https://github.com/KJCracks/Clutch
+
 Package: com.iphonedesignz.apppack
 Version: 3.0
 Priority: extra
