@@ -1585,6 +1585,18 @@ Description: A birthday app for my dad
 Name: Surprise
 Author: BannerBomb
 
+Package: com.yourepo.bannerbomb.tappedoutcorehackfreeandvipmod1
+Version: 4.16.5.5
+Section: Hacks & Mods
+Depends: wget, unrar, com.ericasadun.utilities, darwintools
+Architecture: iphoneos-arm
+Filename: Files/tappedoutcorehackfreeandvipmod12/com.yourepo.bannerbomb.tappedoutcorehackfreeandvipmod1_iphoneos-arm.deb
+Size: 1262
+MD5sum: d091d5b9f8fb2e315530829d0a93f7e1
+Description: The Simpsons Tapped Out Hack everything for free
+Name: Tapped Out CORE Hack FREE and VIP MOD
+Author: damar1st, BannerBomb
+
 Package: com.yourepo.bannerbomb.theos
 Version: 1:0.9.639-1
 Section: Theos
