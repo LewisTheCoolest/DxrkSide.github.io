@@ -243,25 +243,6 @@ Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=jodeboxDp
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=jodeboxDp
 Icon: file:///Library/PreferenceBundles/ChromeDownloaderPrefs.bundle/icon@2x.png
 
-Package: com.ouraigua.safaridownloaderplus
-Version: 4.0.1-1
-Section: Tweaks
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), com.ouraigua.jodebox (>= 2.0.1)
-Conflicts: net.howett.safaridownloader, com.ouraigua.safaridownloader
-Replaces: com.ouraigua.safaridownloader
-Architecture: iphoneos-arm
-Filename: Files/safaridownloadmanager+/com.ouraigua.safaridownloaderplus_4.0.1-1_iphoneos-arm.deb
-Size: 14031390
-Installed-Size: 20012
-MD5sum: ae88d21e4df7611b1fc12909bab24ceb
-Description: Powerful Youtube & Download Manager for Safari.
-Name: Safari Downloader+
-Author: Jalal Ouraigua <ouraigua@me.com>
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=safaridownloaderplusDp
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=safaridownloaderplusDp
-Icon: file:///Library/PreferenceBundles/SafariDownloaderPrefs.bundle/icon@2x.png
-
 Package: com.repo.xarold.com.displayrecorder
 Version: 1.3.14k
 Section: System
@@ -1995,24 +1976,6 @@ Name: ClassicSwitcher
 Author: BYA Repository
 Homepage: http://www.biteyourapple.net
 Depiction: http://repo.biteyourapple.net/depiction/dep.php?name=classicswitcher
-
-Package: repo.biteyourapple.net.clutchrc
-Version: 2.0~RC4
-Priority: standard
-Section: BYA Apps
-Maintainer: Redenfire <redenfire@gmail.com>
-Pre-Depends: firmware (>= 3.1)
-Depends: zip
-Conflicts: repo.biteyourapple.net.clutch, repo.biteyourapple.net.clutchbeta
-Replaces: repo.biteyourapple.net.clutch, repo.biteyourapple.net.clutchbeta
-Architecture: iphoneos-arm
-Filename: Files/clutch2.0/repo.biteyourapple.net.clutchrc_2.0~RC4_iphoneos-arm.deb
-Size: 305190
-MD5sum: 5ad3c2bad3bce048eadab1ee3a1e28a2
-Description: Clutch is an extremely fast cracking utility.
-Name: Clutch iOS 8
-Author: BYA Repository
-Depiction: http://repo.biteyourapple.net/depiction/dep.php?name=clutchrc
 
 Package: uk.ac.surrey.rb00166.certmanager
 Version: 1.0.0-23
