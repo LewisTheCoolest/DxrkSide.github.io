@@ -118,7 +118,7 @@ Section: Tweaks
 Maintainer: iPhoneCake.com
 Depends: zip
 Architecture: iphoneos-arm
-Filename: Files/clutch/clutch.deb
+Filename: Files/clutch/com.bannerbomb.clutch_1.4.7-3_iphoneos-arm.deb
 Size: 360730
 MD5sum: 3572bb42e8f059bcea97272412324f09
 Description: Clutch, the fastest and most advanced cracking utility for the iPhone, iPod Touch, and iPad. Works with all devices, iOS versions, architecture types, with most binaries..
@@ -1616,6 +1616,17 @@ MD5sum: 359980bdd18fa6dbf1357a996fe83c27
 Description: Automated Installer for Theos, the iPhone SDK
 Name: Theos Installer
 Author: bannerbomb
+
+Package: com.yourepo.bannerbomb.theostutorials
+Version: 6.2
+Section: Theos
+Architecture: iphoneos-arm
+Filename: Files/theostutorials/com.yourepo.bannerbomb.theostutorials_6.2_iphoneos-arm.deb
+Size: 169102
+MD5sum: 186796d56dbdc8202ff44c24c9728aa2
+Description: Learn how to make native iPhone apps in Obj-C with Theos without the need for a Mac!
+Name: Theos Tutorials
+Author: ReverseEffect
 
 Package: com.yourepo.bannerbomb.timedisarm
 Version: 1.0-2
