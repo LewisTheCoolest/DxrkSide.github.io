@@ -1617,17 +1617,6 @@ Description: Automated Installer for Theos, the iPhone SDK
 Name: Theos Installer
 Author: bannerbomb
 
-Package: com.yourepo.bannerbomb.theostutorials
-Version: 6.2
-Section: Theos
-Architecture: iphoneos-arm
-Filename: Files/theostutorials/com.yourepo.bannerbomb.theostutorials_6.2_iphoneos-arm.deb
-Size: 169102
-MD5sum: 186796d56dbdc8202ff44c24c9728aa2
-Description: Learn how to make native iPhone apps in Obj-C with Theos without the need for a Mac!
-Name: Theos Tutorials
-Author: ReverseEffect
-
 Package: com.yourepo.bannerbomb.timedisarm
 Version: 1.0-2
 Section: Tweaks
