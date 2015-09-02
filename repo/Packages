@@ -30,6 +30,19 @@ Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=barrelData
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=barrelData
 Icon: file:///Applications/BarrelSettings.app/Barrel_AppIcon57x57.png
 
+Package: com.bannerbomb.hello
+Version: 0.0.1-1
+Section: Utilities
+Maintainer: BannerBomb
+Architecture: iphoneos-arm
+Filename: Files/hello/com.bannerbomb.hello_0.0.1-1_iphoneos-arm.deb
+Size: 94518
+Installed-Size: 176
+MD5sum: 9119c9cc52b98c0abe2f77d04e2e69a1
+Description: An awesome application!
+Name: hello
+Author: BannerBomb
+
 Package: com.bannerbomb.spongebobmovesinhack
 Version: 0.0.2-1
 Section: Hacks & Mods
