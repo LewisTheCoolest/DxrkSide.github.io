@@ -30,19 +30,6 @@ Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=barrelData
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=barrelData
 Icon: file:///Applications/BarrelSettings.app/Barrel_AppIcon57x57.png
 
-Package: com.bannerbomb.hello
-Version: 0.0.1-1
-Section: Utilities
-Maintainer: BannerBomb
-Architecture: iphoneos-arm
-Filename: Files/hello/com.bannerbomb.hello_0.0.1-1_iphoneos-arm.deb
-Size: 94518
-Installed-Size: 176
-MD5sum: 9119c9cc52b98c0abe2f77d04e2e69a1
-Description: An awesome application!
-Name: hello
-Author: BannerBomb
-
 Package: com.bannerbomb.spongebobmovesinhack
 Version: 0.0.2-1
 Section: Hacks & Mods
@@ -239,6 +226,20 @@ Name: Shiro Gold Edition
 Author: yuki.o7 <kenzodragon4@hotmail.de>
 Depiction: http://www.macciti.com/pages/shirogoldedition/index.php
 
+Package: com.modmyi.onappstorestatusbar
+Version: 1.0
+Section: App Addons (OpenNotifier)
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: com.n00neimp0rtant.opennotifier
+Architecture: iphoneos-arm
+Filename: Files/onappstorestatusbar/com.modmyi.onappstorestatusbar_1.0_iphoneos-arm.deb
+Size: 6686
+MD5sum: 47229a8056dc8aff93cee78a8b44fca3
+Description: Puts a appstore logo to the status bar with open notifier.  It supports both retina and reg display :)Homepage: http://modmyi.com/info/onappstorestatusbar.php
+Name: [ON] Appstore Status Bar
+Author: Iamaemokid <together_lets_walk@hotmail.com>
+Depiction: http://modmyi.com/info/onappstorestatusbar.d.php
+
 Package: com.ouraigua.jodebox
 Version: 2.0.3-1
 Section: Development
@@ -255,6 +256,19 @@ Author: Jalal Ouraigua <ouraigua@me.com>
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=jodeboxDp
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=jodeboxDp
 Icon: file:///Library/PreferenceBundles/ChromeDownloaderPrefs.bundle/icon@2x.png
+
+Package: com.repo.xarold.com.apptodeb
+Version: 2.0.3
+Section: Utilities
+Depends: firmware (>=6.1)
+Architecture: iphoneos-arm
+Filename: Files/apptodeb/com.repo.xarold.com.apptodeb_2.0.3_iphoneos-arm.deb
+Size: 189490
+MD5sum: 4d1e0efef8b5bb5d2a7a64081f71693a
+Description: Tlchargez et modifiez vos paquets installs!
+Name: AppToDeb v2 (iOS 7)
+Author: Philippe
+Depiction: http://repo.xarold.com/depiction.php?id=apptodeb
 
 Package: com.repo.xarold.com.displayrecorder
 Version: 1.3.14k
@@ -1942,6 +1956,23 @@ Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fastloading
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fastloadingDp
 Icon: file:///Library/PreferenceLoader/Preferences/FastLoading/FL@2x.png
 
+Package: org.thebigboss.ideb
+Version: 1.1.1
+Section: Utilities
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 4.0), dpkg
+Architecture: iphoneos-arm
+Filename: Files/ideb/org.thebigboss.ideb_1.1.1_iphoneos-arm.deb
+Size: 136908
+Installed-Size: 459
+MD5sum: 04768be3295fa23aa48725d0f3894ddb
+Description: easily make debian packages on the go
+Name: iDeb
+Author: Jailpod <nolan.cydia@gmail.com>
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=idebDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=idebDp
+Icon: file:///Applications/iDeb.app/icon.png
+
 Package: org.thebigboss.iretinergui
 Version: 3.0-3
 Section: Utilities
@@ -1959,6 +1990,22 @@ Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iretinergui
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iretinerguiData
 Icon: file:///Applications/iRetiner.app/icon.png
 
+Package: org.torproject.mobiletor
+Version: 0.2.2.35-3
+Section: Networking
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 3.0)
+Architecture: iphoneos-arm
+Filename: Files/mobiletor/org.torproject.mobiletor_0.2.2.35-3_iphoneos-arm.deb
+Size: 2637392
+Installed-Size: 8016
+MD5sum: 54f941483ddb6d8b03886fd6b4dcb722
+Description: Tor anonymity network for iOS
+Name: Mobile Tor
+Author: W00t <jamsport@sbcglobal.net>
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=mobiletorDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=mobiletorDp
+
 Package: repo.biteyourapple.net.aircrack
 Version: 1.0
 Priority: optional
@@ -1974,6 +2021,21 @@ Description: Get the pass for WiFi Network.
 Name: Aircrack
 Author: BYA Repository
 Depiction: http://www.biteyourapple.net/depiction/dep.php?name=aircrack
+
+Package: repo.biteyourapple.net.appstorelous
+Version: 3.0-2
+Section: BYA Apps
+Maintainer: Redenfire <redenfire@gmail.com>
+Pre-Depends: firmware (>= 4.0), firmware (<< 6.0)
+Depends: mobilesubstrate (>= 0.9.3228), preferenceloader (>= 2.0.2.99), repo.biteyourapple.net.installous4
+Replaces: com.marcocristalli.appstorelous, repo.biteyourapple.net.appstorelous, com.marcocristalli.altervista.org.AppStorelous
+Architecture: iphoneos-arm
+Filename: Files/appstorelous/repo.biteyourapple.net.appstorelous_3.0-2_iphoneos-arm.deb
+Size: 703634
+MD5sum: 407b3cde0fd79129dcc1fdc14ed7e0ec
+Description: Add two buttons in AppStore app to easily launch Installous and moreâ€¦
+Name: AppStorelous3
+Depiction: http://www.biteyourapple.net/depiction/dep.php?name=appstorelous
 
 Package: repo.biteyourapple.net.classicswitcher
 Version: 2.0-1
