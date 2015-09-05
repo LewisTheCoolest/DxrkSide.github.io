@@ -30,18 +30,6 @@ Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=barrelData
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=barrelData
 Icon: file:///Applications/BarrelSettings.app/Barrel_AppIcon57x57.png
 
-Package: com.bannerbomb.respring
-Version: 0.0.3-1
-Section: Preferences
-Maintainer: BannerBomb
-Architecture: iphoneos-arm
-Filename: Files/respring/com.bannerbomb.respring_0.0.3-1_iphoneos-arm.deb
-Size: 2894
-Installed-Size: 24
-MD5sum: 2f581b3d2021bbc0cba888f9247a0ab2
-Name: Respring
-Author: BannerBomb
-
 Package: com.bannerbomb.spongebobmovesinhack
 Version: 0.0.2-1
 Section: Hacks & Mods
@@ -1525,6 +1513,18 @@ Size: 726
 MD5sum: cfa8dd26d1bf029c5c32a32c6e97b132
 Description: These repos you have to have for Theos
 Name: Required Repos For Theos
+Author: BannerBomb
+
+Package: com.yourepo.bannerbomb.respring
+Version: 1.0-4
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: Files/respring/com.yourepo.bannerbomb.respring_1.0-4_iphoneos-arm.deb
+Size: 682060
+MD5sum: f5da57f44ebac34580f3e29ab98376da
+Description: adds a Respring, reboot, Safemode buttons to your settings.app
+Name: Respring
 Author: BannerBomb
 
 Package: com.yourepo.bannerbomb.respringcommand
