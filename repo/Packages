@@ -416,6 +416,19 @@ Author: moeZ <slamduck@gmail.com>
 Homepage: http://modmyi.com/info/acydev.php
 Depiction: http://modmyi.com/info/acydev.d.php
 
+Package: com.yourepo.abo1bs.cydownx
+Version: 6.0.6
+Section: ijulioverne
+Depends: cydia (>= 1.1.23), mobilesubstrate, preferenceloader, firmware (<< 8.3) | ldid (>= 1:1.2.1), coreutils-bin, coreutils, apt7
+Conflicts: com.julioverne.cyoption
+Architecture: iphoneos-arm
+Filename: Files/cydown/cydownx.deb
+Size: 439582
+MD5sum: e618c9a101bbdc47155d381f95d5963b
+Description: Install paid packages for Free in Cydia!
+Name: CyDown
+Author: julioverne
+
 Package: com.yourepo.bannerbomb.actionboard
 Version: 1.2.0-1
 Section: Tweaks
@@ -791,18 +804,6 @@ MD5sum: 03a0bebf70a2db8e8d13aa0b793d552b
 Description: An awesome application!
 Name: crackMe2
 Author: xhan
-
-Package: com.yourepo.bannerbomb.cydown
-Version: 5.9.5
-Section: Tweaks
-Depends: cydia (>= 1.1.22), coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
-Architecture: iphoneos-arm
-Filename: Files/cydown/com.yourepo.bannerbomb.cydown_5.9.5_iphoneos-arm.deb
-Size: 339122
-MD5sum: a6e4d39c09eb765acb214a508686d48e
-Description: Install paid packages for Free in Cydia!
-Name: CyDown
-Author: julioverne
 
 Package: com.yourepo.bannerbomb.cyfix
 Version: 1.7.7
