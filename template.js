@@ -15,7 +15,7 @@ var template = '\
 \
 <div align="center" style="background-color:#77ffff; font-family: serif; width:100%;"> \
 <h1>BannerBomb\'s Page</h1> \
-"Doing the magic." \
+"Doing the Unimaginable." \
 </div> \
  \
 <table style="width:100%"> \
@@ -23,7 +23,7 @@ var template = '\
 <td style="background-color:#77ffff; vertical-align: top; min-width:100px;"><br> \
 <a href="/index.html">Home</a><br><br> \
 <a href="/projects.html">Projects</a><br><br> \
-<a href="http://BannerBomb.github.io/repo/">Cydia repo</a><br><br> \
+<a href="http://bannerbomb.github.io/repo/">Cydia repo</a><br><br> \
 <a href="/tutorial-cydia-repo.html">Tutorial: How to host your own Cydia repo</a><br><br> \
 <a href="/c-autoreleasepool.html">C-Autoreleasepool project</a><br><br> \
 <a href="/surutcra.html">Surutcra - A Twitter client</a><br><br> \
