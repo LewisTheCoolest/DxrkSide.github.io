@@ -69,6 +69,7 @@ MD5sum: 908f5f9a7a9d45db3febc860d111beda
 Description: Helps you with installing & Setting up Theos on iOS.
 Name: Theos Install Help
 Author: BannerBomb
+http://bannerbomb.github.io/repo/Files/theosinstallhelp/index.html
 
 Package: com.bytafont.bytafont2
 Version: 2.6.1
