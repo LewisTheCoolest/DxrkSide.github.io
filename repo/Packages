@@ -1515,18 +1515,6 @@ Description: These repos you have to have for Theos
 Name: Required Repos For Theos
 Author: BannerBomb
 
-Package: com.yourepo.bannerbomb.respring
-Version: 1.0-4
-Section: Tweaks
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: Files/respring/com.yourepo.bannerbomb.respring_1.0-4_iphoneos-arm.deb
-Size: 682060
-MD5sum: f5da57f44ebac34580f3e29ab98376da
-Description: adds a Respring, reboot, Safemode buttons to your settings.app
-Name: Respring
-Author: BannerBomb
-
 Package: com.yourepo.bannerbomb.respringcommand
 Version: 1.0-1
 Section: System
