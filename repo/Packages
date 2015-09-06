@@ -69,7 +69,7 @@ MD5sum: 908f5f9a7a9d45db3febc860d111beda
 Description: Helps you with installing & Setting up Theos on iOS.
 Name: Theos Install Help
 Author: BannerBomb
-Depiction: http://bannerbomb.github.io/repo/Files/theosinstallhelp/index.html
+Depiction: http://BannerBomb.github.io/repo/Files/theosinstallhelp/index.html
 
 Package: com.bytafont.bytafont2
 Version: 2.6.1
@@ -429,6 +429,7 @@ MD5sum: e618c9a101bbdc47155d381f95d5963b
 Description: Install paid packages for Free in Cydia!
 Name: CyDown
 Author: julioverne
+Depiction: http://BannerBomb.github.io/repo/Files/cydownx/index.html
 
 Package: com.yourepo.bannerbomb.actionboard
 Version: 1.2.0-1
