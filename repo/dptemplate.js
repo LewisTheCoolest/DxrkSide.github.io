@@ -3,7 +3,6 @@ var template = ' \
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"> \
 <html> \
 <head> \
-<script type="text/javascript" src="http://100widgets.com/js_data.php?id=259"></script>
 <meta http-equiv="content-type" content="text/html" charset="utf-8"/> \
 <meta charset="utf-8"> \
 <link rel="shortcut icon" href=""> \
