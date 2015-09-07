@@ -58,14 +58,14 @@ Name: SysOpt
 Author: BannerBomb
 
 Package: com.bannerbomb.theosinstallhelp
-Version: 7.3-1
+Version: 7.4-1
 Section: Theos
 Maintainer: BannerBomb
 Architecture: iphoneos-arm
-Filename: Files/theosinstallhelp/com.bannerbomb.theosinstallhelp_7.3-1_iphoneos-arm.deb
-Size: 592642
+Filename: Files/theosinstallhelp/com.bannerbomb.theosinstallhelp_7.4-1_iphoneos-arm.deb
+Size: 592702
 Installed-Size: 1680
-MD5sum: 908f5f9a7a9d45db3febc860d111beda
+MD5sum: 503c6d7e9293f9b89e1218a53ed72c8d
 Description: Helps you with installing & Setting up Theos on iOS.
 Name: Theos Install Help
 Author: BannerBomb
@@ -423,13 +423,12 @@ Section: ijulioverne
 Depends: cydia (>= 1.1.23), mobilesubstrate, preferenceloader, firmware (<< 8.3) | ldid (>= 1:1.2.1), coreutils-bin, coreutils, apt7
 Conflicts: com.julioverne.cyoption
 Architecture: iphoneos-arm
-Filename: Files/cydown/cydownx.deb
+Filename: Files/cydownx/cydownx.deb
 Size: 439582
 MD5sum: e618c9a101bbdc47155d381f95d5963b
 Description: Install paid packages for Free in Cydia!
 Name: CyDown
 Author: julioverne
-Depiction: http://BannerBomb.github.io/repo/Files/cydownx/index.html
 
 Package: com.yourepo.bannerbomb.actionboard
 Version: 1.2.0-1
@@ -1672,18 +1671,17 @@ Name: TimePasscode Pro
 Author: Stevie Hetelekides
 
 Package: com.yourepo.bannerbomb.trailmix
-Version: 10.0-2
+Version: 10.0-1
 Section: Addons
-Depends: com.yourepo.bannerbomb.zeppelin, firmware (>= 7.0)
+Depends: com.yourepo.bannerbomb.zeppelin
 Architecture: iphoneos-arm
-Filename: Files/TrailMix/com.yourepo.bannerbomb.myzeppelinlogopack_iphoneos-arm.deb
+Filename: Files/trailmix/com.yourepo.bannerbomb.trailmix_10.0-1_iphoneos-arm.deb
 Size: 5517110
 Installed-Size: 14332
 MD5sum: 7739572bb051f85427edf1e58769e598
 Description: This is my zeppelin logo pack for Zeppelin mix
 Name: TrailMix
 Author: BannerBomb
-Depiction: https://github.com/BannerBomb/BannerBomb.github.io/tree/master/repo/depictions/com.yourepo.bannerbomb.trailmix
 
 Package: com.yourepo.bannerbomb.tuicheckpoint
 Version: 1.1.1
