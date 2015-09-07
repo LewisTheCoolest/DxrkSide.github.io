@@ -1683,6 +1683,7 @@ MD5sum: 7739572bb051f85427edf1e58769e598
 Description: This is my zeppelin logo pack for Zeppelin mix
 Name: TrailMix
 Author: BannerBomb
+Depiction: https://BannerBomb.github.io/repo/depictions/?p=com.yourepo.bannerbomb.trailmix
 
 Package: com.yourepo.bannerbomb.tuicheckpoint
 Version: 1.1.1
