@@ -570,20 +570,6 @@ Name: Pangu Cydia Icon
 Author: Alain Quevillon
 Depiction: http://repo.insanelyi.com/depiction.php?package=pangucydiaicon
 
-Package: com.sull.thesimsfreeplaycheats
-Version: 5.15.2
-Section: iTweaks
-Maintainer: insanelyi <noreply@insanelyi.com>
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: Files/com.sull.thesimsfreeplaycheats_5.15.2_iphoneos-arm.deb
-Size: 176230
-MD5sum: 9fe9f7acc65931a27bc926ece444d818
-Description: Cheats Features: Unlimited Simoleons(earn/spend some), Unlimited Life Points(earn/spend some), , Unlimited Social Points(earn/spend some), , Sim will always be inspired, Get alot of XP, More Coming Soon.... Configure options from Settings.
-Name: The Sims FreePlay Cheats
-Author: IOSCheats
-Depiction: http://repo.insanelyi.com/depiction.php?package=thesimsfreeplaycheats
-
 Package: com.w00ty-Lab.aCyDev
 Version: 1.5
 Priority: extra
