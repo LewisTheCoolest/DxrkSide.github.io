@@ -48,14 +48,14 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gamegemDp
 Icon: file:///Applications/MemSearch.app/AppIcon57x57.png
 
 Package: com.bannerbomb.respring
-Version: 10.1-1
+Version: 4.0beta-1
 Section: Preferences
 Maintainer: BannerBomb
 Architecture: iphoneos-arm
-Filename: Files/respring/com.bannerbomb.respring_10.1-1_iphoneos-arm.deb
-Size: 118428
-Installed-Size: 176
-MD5sum: d5e0c460f33c0e731a8fab4d0bc50de5
+Filename: Files/respring/com.bannerbomb.respring_4.0beta-1_iphoneos-arm.deb
+Size: 123816
+Installed-Size: 184
+MD5sum: b0f32ff22d7e291a5f5c1f163e3ce514
 Description: adds a shutdown, reboot, Respring, and a safemode, killall option to your settings.app
 Name: Respring
 Author: BannerBomb
