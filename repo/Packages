@@ -30,6 +30,36 @@ Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=barrelData
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=barrelData
 Icon: file:///Applications/BarrelSettings.app/Barrel_AppIcon57x57.png
 
+Package: com.aidoo.memsearch
+Version: 0.9
+Section: Utilities
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 5.0)
+Architecture: iphoneos-arm
+Filename: Files/gamegem/com.aidoo.memsearch_0.9_iphoneos-arm.deb
+Size: 1810784
+Installed-Size: 8013
+MD5sum: 1542d2d6708882122dc3c292f56623f6
+Description: Cheat engine for iOS. Change variable values.
+Name: GameGem
+Author: Aidoo.TK <aidoo.tk@gmail.com>
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gamegemDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gamegemDp
+Icon: file:///Applications/MemSearch.app/AppIcon57x57.png
+
+Package: com.bannerbomb.respring
+Version: 0.0.3-1
+Section: Preferences
+Maintainer: BannerBomb
+Architecture: iphoneos-arm
+Filename: Files/respring/com.bannerbomb.respring_0.0.3-1_iphoneos-arm.deb
+Size: 3014
+Installed-Size: 24
+MD5sum: 9c43b6d16b73ad753e2a74866401be01
+Description: adds a shutdown, reboot, Respring, and a safemode option to your settings.app
+Name: Respring
+Author: BannerBomb
+
 Package: com.bannerbomb.spongebobmovesinhack
 Version: 0.0.2-1
 Section: Hacks & Mods
@@ -71,6 +101,23 @@ Name: Theos Install Help
 Author: BannerBomb
 Depiction: http://BannerBomb.github.io/repo/Files/theosinstallhelp/index.html
 
+Package: com.billyellis.earthlockscreen
+Version: 1.0
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Architecture: iphoneos-arm
+Filename: Files/earthlockscreen/com.billyellis.earthlockscreen_1.0_iphoneos-arm.deb
+Size: 1138750
+Installed-Size: 1211
+MD5sum: 8606bb1ad6ad209c24c7f2275f82419d
+Description: rotating globe on your lockscreen
+Name: Earth LockScreen
+Author: Billy Ellis <billyellis2015@icloud.com>
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=earthlockscreenDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=earthlockscreenDp
+Icon: file:///Library/PreferenceBundles/EarthLockScreen.bundle/EarthLockScreen@2x.png
+
 Package: com.bytafont.bytafont2
 Version: 2.6.1
 Section: System
@@ -84,6 +131,22 @@ Description: BytaFont 2 lets you apply fonts to your iDevice in few taps.
 Name: BytaFont 2
 Author: BytaFont.com <info@bytafont.com>
 Depiction: http://repo.bytafont.com/bytafont/261
+
+Package: com.ccdog.imessagespamreporter
+Version: 1.3-1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0)
+Architecture: iphoneos-arm
+Filename: Files/imessagespamreporter/com.ccdog.imessagespamreporter_1.3-1_iphoneos-arm.deb
+Size: 9816
+Installed-Size: 82
+MD5sum: 3f87ae7ef7f4760f40cf78157526ca51
+Description: Report iMessage spam to Apple from Messages app
+Name: iMessageSpamReporter
+Author: CC-Dog <cc941201@gmail.com>
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=imessagespamreporterDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=imessagespamreporterDp
 
 Package: com.intelliborn.mywi8
 Version: 8.03.02
@@ -227,6 +290,69 @@ Name: Shiro Gold Edition
 Author: yuki.o7 <kenzodragon4@hotmail.de>
 Depiction: http://www.macciti.com/pages/shirogoldedition/index.php
 
+Package: com.modmyi.ios6bootlogo
+Version: 1.0
+Section: Addons (BootLogo)
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: org.chronic-dev.animate
+Architecture: iphoneos-arm
+Filename: Files/ios6bootlogo/com.modmyi.ios6bootlogo_1.0_iphoneos-arm.deb
+Size: 833744
+MD5sum: afabe83b206910bc10ff4c9914a621b9
+Description: The original iOS 6 Boot Logo is Back!
+Name: iOS 6 Boot Logo
+Author: IONTechCentral <bartek8991@live.com>
+Homepage: http://modmyi.com/info/ios6bootlogo.php
+Depiction: http://modmyi.com/info/ios6bootlogo.d.php
+
+Package: com.modmyi.ios6statusbar
+Version: 1.3
+Priority: extra
+Section: Themes (System)
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: winterboard
+Architecture: iphoneos-arm
+Filename: Files/ios6statusbar/com.modmyi.ios6statusbar_1.3_iphoneos-arm.deb
+Size: 151440
+MD5sum: 1a3b8857f7a185427bea0042524fed6a
+Description: This package installs the awesome iOS 6 status bar!
+Name: iOS 6 StatusBar
+Author: iJailpod <iJailpod@gmail.com>
+Homepage: http://modmyi.com/info/ios6statusbar.php
+Depiction: http://modmyi.com/info/ios6statusbar.d.php
+
+Package: com.modmyi.ios6theme
+Version: 2.10
+Priority: extra
+Section: Themes (SpringBoard)
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: winterboard
+Architecture: iphoneos-arm
+Filename: Files/ios6theme/com.modmyi.ios6theme_2.10_iphoneos-arm.deb
+Size: 8375122
+MD5sum: bf7d9fd26257594c215117918b4f7676
+Description: Brings iOS 6 UI and Icons to your iPhone
+Name: iOS 6 Theme
+Author: pw5a29 <pw5a29@yahoo.com.hk>
+Homepage: http://modmyi.com/info/ios6theme.php
+Depiction: http://modmyi.com/info/ios6theme.d.php
+
+Package: com.modmyi.oldcydia
+Version: 2.1
+Priority: extra
+Section: Themes (Apps)
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: winterboard
+Architecture: iphoneos-arm
+Filename: Files/oldcydia/com.modmyi.oldcydia_2.1_iphoneos-arm.deb
+Size: 688702
+MD5sum: e9293ff7520837607cff3a9bd96b6182
+Description: Make cydia look like the old iOS6 cydia.
+Name: Cydia iOS6 look
+Author: NameDollars <semirgnod@yahoo.com>
+Homepage: http://modmyi.com/info/oldcydia.php
+Depiction: http://modmyi.com/info/oldcydia.d.php
+
 Package: com.modmyi.onappstorestatusbar
 Version: 1.0
 Section: App Addons (OpenNotifier)
@@ -258,31 +384,44 @@ Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=jodeboxDp
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=jodeboxDp
 Icon: file:///Library/PreferenceBundles/ChromeDownloaderPrefs.bundle/icon@2x.png
 
-Package: com.repo.xarold.com.apptodeb
-Version: 2.0.3
-Section: Utilities
-Depends: firmware (>=6.1)
-Architecture: iphoneos-arm
-Filename: Files/apptodeb/com.repo.xarold.com.apptodeb_2.0.3_iphoneos-arm.deb
-Size: 189490
-MD5sum: 4d1e0efef8b5bb5d2a7a64081f71693a
-Description: Tlchargez et modifiez vos paquets installs!
-Name: AppToDeb v2 (iOS 7)
-Author: Philippe
-Depiction: http://repo.xarold.com/depiction.php?id=apptodeb
-
 Package: com.repo.xarold.com.displayrecorder
 Version: 1.3.14k
 Section: System
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), libactivator (>= 1.9.1), gdata-objectivec-client | firmware (>= 7.0), firmware (>= 3), openssl, firmware (<< 8.9), com.rpetrich.rocketbootstrap (>= 1.0.1) | firmware (<< 7.0), com.a3tweaks.flipswitch (>= 1.0.5)
 Architecture: iphoneos-arm
-Filename: Files/displayrecorder/com.bannerbomb.displayrecorder_1.3.14k_iphoneos-arm.deb
+Filename: Files/displayrecorder/com.repo.xarold.com.displayrecorder_1.3.14k_iphoneos-arm.deb
 Size: 1135964
 MD5sum: e7faff32f8b19097d0c271470be9081d
 Description: Record the display in real-time, send to camera roll, web interface, ProTapper-style touch circles and Activator integration
 Name: Display Recorder
 Author: Ryan Petrich
 Depiction: http://repo.xarold.com/depiction.php?id=displayrecorder
+
+Package: com.repo.xarold.com.guilty
+Version: 1.1
+Section: Utilities
+Depends: net.tootallnate.node (>= 0.6.14), jp.ashikase.symbolicate (>= 1.3.0-1)
+Architecture: iphoneos-arm
+Filename: Files/gulity/com.repo.xarold.com.guilty_1.1_iphoneos-arm.deb
+Size: 162430
+MD5sum: 75992d3e19726db581a313dbc2d6e89e
+Description: This is a script that identify the crash's guilties
+Name: guilty
+Author: Arthur da Paz (arthurdapaz@me.com)
+Depiction: http://repo.xarold.com/depiction.php?id=guilty
+
+Package: com.repo.xarold.com.itunes-sync
+Version: 1.3
+Section: System
+Depends: firmware (>= 5.0)
+Architecture: iphoneos-arm
+Filename: Files/itunes-sync/com.repo.xarold.com.itunes-sync_1.3_iphoneos-arm.deb
+Size: 16264
+MD5sum: 5a58c013e7f6f9d6f0bb6c3eee80785d
+Description: Some additions to AppAddict app: iTunes Sync(autoenabled), Remove iTunesMetadata.plist(settings in AppAddict app)
+Name: AppAddict+
+Author: Zorro
+Depiction: http://repo.xarold.com/depiction.php?id=itunes-sync
 
 Package: com.repo.xarold.com.iweppro5
 Version: 8.8.1-109
@@ -359,6 +498,20 @@ Author: dmarinov <di.marinov@gmail.com>
 Homepage: http://modmyi.com/info/spyapp.php
 Depiction: http://modmyi.com/info/spyapp.d.php
 
+Package: com.sull.apptodeb
+Version: 1.2
+Priority: standard
+Section: iSystem
+Maintainer: insanelyi <noreply@insanelyi.com>
+Architecture: iphoneos-arm
+Filename: Files/apptodeb/com.sull.apptodeb_1.2_iphoneos-arm.deb
+Size: 67718
+MD5sum: fcbeb24503f93e8bce049fd084f29c29
+Description: An app to recreate deb files.
+Name: AppToDeb
+Author: Philippe
+Depiction: http://repo.insanelyi.com/depiction.php?package=apptodeb
+
 Package: com.sull.evasi0n7cydiaicon
 Version: 1.0
 Section: iThemes
@@ -372,6 +525,21 @@ Description: This is a Cydia Icon for the Evasi0n7 Jailbreak users and evasi0n 7
 Name: Evasi0n7 Cydia Icon
 Author: arefttt
 Depiction: http://repo.insanelyi.com/depiction.php?package=evasi0n7cydiaicon
+
+Package: com.sull.gameplayer
+Version: 1.5.4
+Priority: optional
+Section: iTweaks
+Maintainer: insanelyi <noreply@insanelyi.com>
+Pre-Depends: firmware (>= 4.3), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: Files/gameplayer/com.sull.gameplayer_1.5.4_iphoneos-arm.deb
+Size: 1078640
+Installed-Size: 2800
+MD5sum: 0b1675ddad40b55427cb33404e0d6097
+Description: GamePlayer is a game cheating tool. It can easily modify HP, MP, money and so on. iOS 4.3.x, 5.x, 6.x and 7.x are supported.
+Name: GamePlayer
+Depiction: http://repo.insanelyi.com/depiction.php?package=gameplayer
 
 Package: com.sull.geeksn0wcydiaicon
 Version: 1.1
@@ -401,6 +569,20 @@ Description: Replace Cydia icon with Pangu Jailbreak logo. Updated for all devic
 Name: Pangu Cydia Icon
 Author: Alain Quevillon
 Depiction: http://repo.insanelyi.com/depiction.php?package=pangucydiaicon
+
+Package: com.sull.thesimsfreeplaycheats
+Version: 5.15.2
+Section: iTweaks
+Maintainer: insanelyi <noreply@insanelyi.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: Files/com.sull.thesimsfreeplaycheats_5.15.2_iphoneos-arm.deb
+Size: 176230
+MD5sum: 9fe9f7acc65931a27bc926ece444d818
+Description: Cheats Features: Unlimited Simoleons(earn/spend some), Unlimited Life Points(earn/spend some), , Unlimited Social Points(earn/spend some), , Sim will always be inspired, Get alot of XP, More Coming Soon.... Configure options from Settings.
+Name: The Sims FreePlay Cheats
+Author: IOSCheats
+Depiction: http://repo.insanelyi.com/depiction.php?package=thesimsfreeplaycheats
 
 Package: com.w00ty-Lab.aCyDev
 Version: 1.5
@@ -1963,6 +2145,22 @@ Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=idebDp
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=idebDp
 Icon: file:///Applications/iDeb.app/icon.png
 
+Package: org.thebigboss.ios6chargesoundtheme
+Version: 1.0
+Section: Themes (System)
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: winterboard, firmware (>= 7.0)
+Architecture: iphoneos-arm
+Filename: Files/ios6chargingsound/org.thebigboss.ios6chargesoundtheme_1.0_iphoneos-arm.deb
+Size: 24824
+Installed-Size: 47
+MD5sum: 51133e45baed22039e7148d826d27e97
+Description: device-charging sound missing from iOS 7
+Name: iOS 6 Charging Sound for iOS 7
+Author: Jailbreakstyle <tanguygago@gmail.com>
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ios6chargesoundthemeDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ios6chargesoundthemeDp
+
 Package: org.thebigboss.iretinergui
 Version: 3.0-3
 Section: Utilities
@@ -2041,6 +2239,18 @@ Name: ClassicSwitcher
 Author: BYA Repository
 Homepage: http://www.biteyourapple.net
 Depiction: http://repo.biteyourapple.net/depiction/dep.php?name=classicswitcher
+
+Package: repo.biteyourapple.net.goldenuiios8
+Version: 1.0
+Section: BYA Themes
+Architecture: iphoneos-arm
+Filename: Files/goldenuiios8/repo.biteyourapple.net.goldenuiios8_1.0_iphoneos-arm.deb
+Size: 163668
+MD5sum: d055e11ec8ac1d2845591993660cbd99
+Description: Golden UI for iOS8.
+Name: Golden UI iOS8
+Author: BYA Repository
+Depiction: http://repo.biteyourapple.net/depiction/dep.php?name=goldenuiios8
 
 Package: uk.ac.surrey.rb00166.certmanager
 Version: 1.0.0-23
