@@ -48,40 +48,14 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gamegemDp
 Icon: file:///Applications/MemSearch.app/AppIcon57x57.png
 
 Package: com.bannerbomb.respring
-Version: 10.9-1
+Version: 11.3-1
 Section: Preferences
 Maintainer: BannerBomb
 Architecture: iphoneos-arm
-Filename: Files/respring/com.bannerbomb.respring_10.9-1_iphoneos-arm.deb
-Size: 123892
-Installed-Size: 184
-MD5sum: 3701eeb68a9f55c624305deab32f5b9c
-Description: adds a shutdown, reboot, Respring, and a safemode, killall option to your settings.app
-Name: Respring
-Author: BannerBomb
-
-Package: com.bannerbomb.respring
-Version: 11.0-1
-Section: Preferences
-Maintainer: BannerBomb
-Architecture: iphoneos-arm
-Filename: Files/respring/com.bannerbomb.respring_11.0-1_iphoneos-arm.deb
-Size: 124072
-Installed-Size: 184
-MD5sum: a0a5b26c02bc83d57517c69880ce1656
-Description: adds a shutdown, reboot, Respring, and a safemode, killall option to your settings.app
-Name: Respring
-Author: BannerBomb
-
-Package: com.bannerbomb.respring
-Version: 11.1-1
-Section: Preferences
-Maintainer: BannerBomb
-Architecture: iphoneos-arm
-Filename: Files/respring/com.bannerbomb.respring_11.1-1_iphoneos-arm.deb
-Size: 124230
-Installed-Size: 184
-MD5sum: 689506cfbe0c1d8dca6faa544e3945bf
+Filename: Files/respring/com.bannerbomb.respring_11.3-1_iphoneos-arm.deb
+Size: 139572
+Installed-Size: 240
+MD5sum: ecff49bbccf1945d97bc52d31f5be6f3
 Description: adds a shutdown, reboot, Respring, and a safemode, killall option to your settings.app
 Name: Respring
 Author: BannerBomb
@@ -100,14 +74,14 @@ Name: Respring
 Author: BannerBomb
 
 Package: com.bannerbomb.respring
-Version: 11.3-1
+Version: 11.1-1
 Section: Preferences
 Maintainer: BannerBomb
 Architecture: iphoneos-arm
-Filename: Files/respring/com.bannerbomb.respring_11.3-1_iphoneos-arm.deb
-Size: 139572
+Filename: Files/respring/com.bannerbomb.respring_11.1-1_iphoneos-arm.deb
+Size: 139576
 Installed-Size: 240
-MD5sum: ecff49bbccf1945d97bc52d31f5be6f3
+MD5sum: e14970b90912571f0298c723adb57b10
 Description: adds a shutdown, reboot, Respring, and a safemode, killall option to your settings.app
 Name: Respring
 Author: BannerBomb
@@ -285,23 +259,6 @@ Name: SDK Tutorials
 Author: YourTechStop.com <info@yourtechstop.com>
 Homepage: http://modmyi.com/info/sdktutor.php
 Depiction: http://modmyi.com/info/sdktutor.d.php
-
-Package: com.julioverne.cydown
-Version: 6.0.9
-Section: Tweaks
-Maintainer: Julio
-Depends: cydia (>= 1.1.23), mobilesubstrate, preferenceloader, firmware (<< 8.3) | ldid (>= 1:1.2.1), coreutils-bin, coreutils, apt7
-Conflicts: com.julioverne.cyoption
-Architecture: iphoneos-arm
-Filename: Files/cydown/com.julioverne.cydown_6.0.9_iphoneos-arm.deb
-Size: 458234
-MD5sum: 45143df12c9e5099f4135affb35be2a4
-Description: Install paid packages for Free in Cydia!
-Name: CyDown
-Author: julioverne <julioverne@me.com>
-Homepage: http://twitter.com/ijulioverne
-Depiction: http://julio.xarold.com/files-deb/cydown.html
-Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
 
 Package: com.macciti.cydia6ios7
 Version: 1.0.1
@@ -660,7 +617,7 @@ Section: ijulioverne
 Depends: cydia (>= 1.1.23), mobilesubstrate, preferenceloader, firmware (<< 8.3) | ldid (>= 1:1.2.1), coreutils-bin, coreutils, apt7
 Conflicts: com.julioverne.cyoption
 Architecture: iphoneos-arm
-Filename: Files/cydown/com.julioverne.cydown_6.0.6_iphoneos-arm.deb
+Filename: Files/cydownx/cydownx.deb
 Size: 439582
 MD5sum: e618c9a101bbdc47155d381f95d5963b
 Description: Install paid packages for Free in Cydia!
@@ -1355,19 +1312,6 @@ MD5sum: bc12509ee8b2139653a353f213d22717
 Description: location & photo sent for wrong passcode entered
 Name: iCaughtU Pro (iOS 8)
 Author: Itay
-
-Package: com.yourepo.bannerbomb.icleanerpro
-Version: 7.4.4k
-Section: Utilities
-Pre-Depends: apt, findutils, shell-cmds
-Conflicts: org.altervista.exilecom.icleaner
-Architecture: iphoneos-arm
-Filename: Files/icleanerpro/com.yourepo.bannerbomb.icleanerpro_7.4.4k_iphoneos-arm.deb
-Size: 2550646
-MD5sum: 3439cd43c1307b7a2cca169403c7819f
-Description: The ultimate iPhone, iPod and iPad system cleaner & optimizer
-Name: iCleaner Pro
-Author: Ivano Bilenchi
 
 Package: com.yourepo.bannerbomb.icleanerpro
 Version: 7.5.0~beta2
@@ -2122,20 +2066,6 @@ Name: Classic Lock Cydget
 Author: H6nry <henry.anonym@gmail.com>
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=classiclockcydgetDp
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=classiclockcydgetDp
-
-Package: org.h6nry.ncforward
-Version: 1.0-3
-Section: Tweaks
-Maintainer: H6nry <henry.anonym@gmail.com>
-Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader
-Architecture: iphoneos-arm
-Filename: Files/ncforward/org.h6nry.ncforward_1.0-3_iphoneos-arm-armv7-arm64-sdk7.1.deb
-Size: 909172
-Installed-Size: 1028
-MD5sum: 490f67e4ab92758fac2ba999a6e02139
-Description: Forward iOS notfications to any other device. Or: Continuity feature for everyone!
-Name: NCForward
-Author: H6nry <henry.anonym@gmail.com>
 
 Package: org.h6nry.ncforward
 Version: 1.1-1
