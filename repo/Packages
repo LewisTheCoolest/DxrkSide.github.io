@@ -47,6 +47,19 @@ Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gamegemDp
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gamegemDp
 Icon: file:///Applications/MemSearch.app/AppIcon57x57.png
 
+Package: com.bannerbomb.minecraftpe
+Version: 0.9.5-1
+Section: AppStore Games
+Maintainer: BannerBomb
+Architecture: iphoneos-arm
+Filename: Files/minecraftpe/com.bannerbomb.minecraftpe_0.9.5-1_iphoneos-arm.deb
+Size: 8778366
+Installed-Size: 15680
+MD5sum: 2c89dd65f7379fb7b6ea053229e4a254
+Description: This is the game Minecraft PE I have it on here so you can downgrade like if you want the previous versions then you can install this then press Modify and Downgrade.
+Name: Minecraft PE
+Author: BannerBomb
+
 Package: com.bannerbomb.respring
 Version: 10.9-1
 Section: Preferences
@@ -293,7 +306,7 @@ Maintainer: Julio
 Depends: cydia (>= 1.1.23), mobilesubstrate, preferenceloader, firmware (<< 8.3) | ldid (>= 1:1.2.1), coreutils-bin, coreutils, apt7
 Conflicts: com.julioverne.cyoption
 Architecture: iphoneos-arm
-Filename: Files/cydown/com.julioverne.cydown_6.0.9_iphoneos-arm.deb
+Filename: Files/cydown/com.bannerbomb.cydown_6.0.9_iphoneos-arm.deb
 Size: 458234
 MD5sum: 45143df12c9e5099f4135affb35be2a4
 Description: Install paid packages for Free in Cydia!
@@ -660,7 +673,7 @@ Section: ijulioverne
 Depends: cydia (>= 1.1.23), mobilesubstrate, preferenceloader, firmware (<< 8.3) | ldid (>= 1:1.2.1), coreutils-bin, coreutils, apt7
 Conflicts: com.julioverne.cyoption
 Architecture: iphoneos-arm
-Filename: Files/cydown/com.julioverne.cydown_6.0.6_iphoneos-arm.deb
+Filename: Files/cydown/com.bannerbomb.cydown_6.0.6_iphoneos-arm.deb
 Size: 439582
 MD5sum: e618c9a101bbdc47155d381f95d5963b
 Description: Install paid packages for Free in Cydia!
