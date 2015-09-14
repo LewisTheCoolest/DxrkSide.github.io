@@ -1288,14 +1288,14 @@ Name: iCaughtU Pro (iOS 8)
 Author: Itay
 
 Package: com.yourepo.bannerbomb.icleanerpro
-Version: 7.4.4k
+Version: 7.5.0~beta2
 Section: Utilities
 Pre-Depends: apt, findutils, shell-cmds
 Conflicts: org.altervista.exilecom.icleaner
 Architecture: iphoneos-arm
-Filename: Files/icleanerpro/com.yourepo.bannerbomb.icleanerpro_7.4.4k_iphoneos-arm.deb
-Size: 2550646
-MD5sum: 3439cd43c1307b7a2cca169403c7819f
+Filename: Files/icleanerpro/com.yourepo.bannerbomb.icleanerpro_iphoneos-arm.deb
+Size: 2747368
+MD5sum: 2a2df1167af809cb90d64c90e086c11c
 Description: The ultimate iPhone, iPod and iPad system cleaner & optimizer
 Name: iCleaner Pro
 Author: Ivano Bilenchi
