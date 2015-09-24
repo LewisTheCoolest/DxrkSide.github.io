@@ -615,19 +615,6 @@ Author: Waz
 Depiction: http://repo.xarold.com/depiction.php?id=iweppro5
 Icon: file:///Applications/iweppro5.app/icon-58.png
 
-Package: com.repo.xarold.com.mcpe
-Version: 0.9.5
-Section: Tweaks
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: Files/minecraftpecheats/com.repo.xarold.com.mcpe_0.9.5_iphoneos-arm.deb
-Size: 23514
-MD5sum: eae14de858038537fa8b772cd5e18989
-Description: Minecraft PE v0.9.5 Cheats!
-Name: Minecraft PE Cheats
-Author: Zahir
-Depiction: http://repo.xarold.com/depiction.php?id=mcpe
-
 Package: com.reverseeffect.pbrogue
 Version: 1.0-22
 Section: Addons (NotificationCenter)
@@ -1719,18 +1706,6 @@ MD5sum: 32facd7204d03ab69ad5917a872f8f82
 Description: disable the passcode retry limits
 Name: No Passcode LockOut
 Author: Alltim3h4ckers
-
-Package: com.yourepo.bannerbomb.officer
-Version: 0.0.1-2
-Section: Tweaks
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: Files/officer/com.yourepo.bannerbomb.officer_0.0.1-2_iphoneos-arm.deb
-Size: 5064
-MD5sum: cde6e5cfc65846cfea9bd664fd3764ee
-Description: Bypass jailbreak detection
-Name: Officer
-Author: Stan Hutcheon
 
 Package: com.yourepo.bannerbomb.onepiecetreasurecruisecheats
 Version: 2.2.0
