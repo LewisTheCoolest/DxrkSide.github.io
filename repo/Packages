@@ -1,3 +1,21 @@
+Package: app.weiphone.app.weiphone.cn.itools.itoolspro
+Version: 3.8
+Priority: standard
+Section: [威锋源-应用工具]
+Essential: no
+Maintainer: Feng.com <support@office.feng.com>
+Depends: firmware (>= 5.0)
+Architecture: iphoneos-arm
+Filename: Files/iTools/app.weiphone.app.weiphone.cn.itools.itoolspro_3.8_iphoneos-arm.deb
+Size: 6105622
+MD5sum: eaca9c092d2ee2e76bacbf0a3fd5dcf0
+Description: iTools
+Name: iTools
+Author: iTools <app@thinksky.hk>
+Homepage: http://apt.so/index.php?r=read&id=551b525d0e1d15f3518b4a00
+Depiction: http://apt.so/index.php?r=cydia&id=551b525d0e1d15f3518b4a00
+Icon: file:///Applications/itools.app/Icon@2x.png
+
 Package: class-dump-z
 Version: 2.0-1
 Section: Development
@@ -46,19 +64,6 @@ Author: Aidoo.TK <aidoo.tk@gmail.com>
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gamegemDp
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gamegemDp
 Icon: file:///Applications/MemSearch.app/AppIcon57x57.png
-
-Package: com.bannerbomb.minecraftpe
-Version: 0.9.5-1
-Section: AppStore Games
-Maintainer: BannerBomb
-Architecture: iphoneos-arm
-Filename: Files/minecraftpe/com.bannerbomb.minecraftpe_0.9.5-1_iphoneos-arm.deb
-Size: 8778366
-Installed-Size: 15680
-MD5sum: 2c89dd65f7379fb7b6ea053229e4a254
-Description: This is the game Minecraft PE I have it on here so you can downgrade like if you want the previous versions then you can install this then press Modify and Downgrade.
-Name: Minecraft PE
-Author: BannerBomb
 
 Package: com.bannerbomb.respring
 Version: 10.9-1
@@ -196,6 +201,24 @@ Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=earthlocksc
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=earthlockscreenDp
 Icon: file:///Library/PreferenceBundles/EarthLockScreen.bundle/EarthLockScreen@2x.png
 
+Package: com.brokenphysics.minicode
+Version: 1.03.5
+Section: Development
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Pre-Depends: org.coolstar.cctools
+Depends: firmware (>= 5.0), com.conradkramer.open, org.coolstar.iostoolchain, com.deltaman.libtool
+Architecture: iphoneos-arm
+Filename: Files/minicode/com.brokenphysics.minicode_1.03.5_iphoneos-arm.deb
+Size: 5104808
+Installed-Size: 5912
+MD5sum: 0209471d9d4841a672a33728e0e99603
+Description: mobile IDE; write, compile & run apps
+Name: miniCode
+Author: Luis Finke <luisfinke@gmail.com>
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=minicodeDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=minicodeDp
+Icon: file:///Applications/miniCode.app/Icon.png
+
 Package: com.bytafont.bytafont2
 Version: 2.6.1
 Section: System
@@ -225,6 +248,49 @@ Name: iMessageSpamReporter
 Author: CC-Dog <cc941201@gmail.com>
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=imessagespamreporterDp
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=imessagespamreporterDp
+
+Package: com.codethemed.goldapple5780
+Version: 1.0
+Section: Themes (SpringBoard)
+Maintainer: ZodTTD <zodttd@zodttd.com>
+Depends: winterboard
+Architecture: iphoneos-arm
+Filename: Files/goldapple5780/com.codethemed.goldapple5780_1.0_iphoneos-arm.deb
+Size: 1354274
+MD5sum: 6b6b61a33f3d4b523bb341283a49c521
+Description: This is a gold apple wallpaper with gold icons
+Name: Gold Apple
+Author: Roxannegg95376 <wraith@codethemed.com>
+Homepage: http://www.codethemed.com
+Depiction: http://cydia.zodttd.com/repo/cydia/debs20/codethemed/depiction.php?id=com.codethemed.goldapple5780
+
+Package: com.damar1st.simpsonscorehackios8
+Version: 4.16.8.1
+Section: hacks
+Maintainer: damar1st <info@damarist.de>
+Depends: wget, unrar, com.ericasadun.utilities, darwintools
+Architecture: iphoneos-arm
+Filename: Files/tappedoutcorehackfreeandvipmod12/com.damar1st.simpsonscorehackios8_4.16.8.1_iphoneos-arm.deb
+Size: 1270
+MD5sum: 5dd142d2844f1c772074cee22298bd1e
+Description: The Simpsons Tapped Out Hack everything for free
+Name: Tapped Out CORE Hack FREE and VIP MOD
+Author: damar1st <info@damarist.de>
+Website: http://damarist.de
+
+Package: com.damar1st.simpsonscorehackios8
+Version: 4.16.8
+Section: hacks
+Maintainer: damar1st <info@damarist.de>
+Depends: wget, unrar, com.ericasadun.utilities, darwintools
+Architecture: iphoneos-arm
+Filename: Files/tappedoutcorehackfreeandvipmod12/com.damar1st.simpsonscorehackios8_4.16.8_iphoneos-arm.deb
+Size: 1270
+MD5sum: 35bd10791e850803c8ccd9010ca5831c
+Description: The Simpsons Tapped Out Hack everything for free
+Name: Tapped Out CORE Hack FREE and VIP MOD
+Author: damar1st <info@damarist.de>
+Website: http://damarist.de
 
 Package: com.intelliborn.mywi8
 Version: 8.03.02
@@ -384,6 +450,23 @@ Description: Ever wondered how great your Gold colored iPhone could look with an
 Name: Shiro Gold Edition
 Author: yuki.o7 <kenzodragon4@hotmail.de>
 Depiction: http://www.macciti.com/pages/shirogoldedition/index.php
+
+Package: com.merdok.unlocksound7
+Version: 1.1.3-5
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), firmware (>= 7.0)
+Architecture: iphoneos-arm
+Filename: Files/unlocksound7/com.merdok.unlocksound7_1.1.3-5_iphoneos-arm.deb
+Size: 61810
+Installed-Size: 498
+MD5sum: de744482a9f7af097f74c02bbecf0dc3
+Description: Unlock Sound on iOS7 and iOS8
+Name: UnlockSound
+Author: merdok <merdok87@o2.pl>
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=unlocksound7Dp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=unlocksound7Dp
+Icon: file:///Library/PreferenceBundles/unlocksound7prefs.bundle/unlocksound7@2x.png
 
 Package: com.modmyi.ios6bootlogo
 Version: 1.0
@@ -827,18 +910,6 @@ MD5sum: 457f7157fcaf17e6e9dc002c8d40014f
 Description: Application Duplication lets you have 2 of the same app on your springboard.. builds from installed apps and puts ipa with artwork in Installous Downloads for install. Now some apps will be created and install but will crash on launch. sorry i dont have a solution yet. Usage run 'appdub' [ AppFolder.app ] or option [ -l ] lists all App Folders ex. appdub DoodleJump.app or 'appdub -l'
 Name: Application Duplication
 Author: brc0703
-
-Package: com.yourepo.bannerbomb.applist
-Version: 1.5.9
-Section: System
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), com.rpetrich.rocketbootstrap (>= 1.0) | firmware (<< 7.0)
-Architecture: iphoneos-arm
-Filename: Files/applist/com.bannerbomb.applist_1.5.9_iphoneos-arm.deb
-Size: 136660
-MD5sum: 14b227513803fef2b68daba5349449b0
-Description: Allow extensions to read the list of installed apps
-Name: AppList
-Author: Ryan Petrich
 
 Package: com.yourepo.bannerbomb.appro
 Version: 2.1.8-2k
@@ -2301,37 +2372,6 @@ Name: Mobile Tor
 Author: W00t <jamsport@sbcglobal.net>
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=mobiletorDp
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=mobiletorDp
-
-Package: repo.biteyourapple.net.aircrack
-Version: 1.0
-Priority: optional
-Section: BYA Apps
-Essential: no
-Maintainer: Redenfire <redenfire@gmail.com>
-Replaces: com.myrepospace.iPS4HACK.aircrack
-Architecture: iphoneos-arm
-Filename: Files/aircrack/repo.biteyourapple.net.aircrack_1.0_iphoneos-arm.deb
-Size: 3542268
-MD5sum: 08e2b56f262934be66cd54aa27c1c3a4
-Description: Get the pass for WiFi Network.
-Name: Aircrack
-Author: BYA Repository
-Depiction: http://www.biteyourapple.net/depiction/dep.php?name=aircrack
-
-Package: repo.biteyourapple.net.appstorelous
-Version: 3.0-2
-Section: BYA Apps
-Maintainer: Redenfire <redenfire@gmail.com>
-Pre-Depends: firmware (>= 4.0), firmware (<< 6.0)
-Depends: mobilesubstrate (>= 0.9.3228), preferenceloader (>= 2.0.2.99), repo.biteyourapple.net.installous4
-Replaces: com.marcocristalli.appstorelous, repo.biteyourapple.net.appstorelous, com.marcocristalli.altervista.org.AppStorelous
-Architecture: iphoneos-arm
-Filename: Files/appstorelous/repo.biteyourapple.net.appstorelous_3.0-2_iphoneos-arm.deb
-Size: 703634
-MD5sum: 407b3cde0fd79129dcc1fdc14ed7e0ec
-Description: Add two buttons in AppStore app to easily launch Installous and moreâ€¦
-Name: AppStorelous3
-Depiction: http://www.biteyourapple.net/depiction/dep.php?name=appstorelous
 
 Package: repo.biteyourapple.net.classicswitcher
 Version: 2.0-1
