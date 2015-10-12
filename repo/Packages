@@ -6,7 +6,7 @@ Essential: no
 Maintainer: Feng.com <support@office.feng.com>
 Depends: firmware (>= 5.0)
 Architecture: iphoneos-arm
-Filename: Files/iTools/app.weiphone.app.weiphone.cn.itools.itoolspro_3.8_iphoneos-arm.deb
+Filename: Files/itools/app.weiphone.app.weiphone.cn.itools.itoolspro_3.8_iphoneos-arm.deb
 Size: 6105622
 MD5sum: eaca9c092d2ee2e76bacbf0a3fd5dcf0
 Description: iTools
@@ -48,86 +48,17 @@ Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=barrelData
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=barrelData
 Icon: file:///Applications/BarrelSettings.app/Barrel_AppIcon57x57.png
 
-Package: com.aidoo.memsearch
-Version: 0.9
-Section: Utilities
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Depends: firmware (>= 5.0)
-Architecture: iphoneos-arm
-Filename: Files/gamegem/com.aidoo.memsearch_0.9_iphoneos-arm.deb
-Size: 1810784
-Installed-Size: 8013
-MD5sum: 1542d2d6708882122dc3c292f56623f6
-Description: Cheat engine for iOS. Change variable values.
-Name: GameGem
-Author: Aidoo.TK <aidoo.tk@gmail.com>
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gamegemDp
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gamegemDp
-Icon: file:///Applications/MemSearch.app/AppIcon57x57.png
-
-Package: com.bannerbomb.respring
-Version: 10.9-1
-Section: Preferences
+Package: com.bannerbomb.plugpe
+Version: 2.16.7-1
+Section: Free Apps & Games
 Maintainer: BannerBomb
 Architecture: iphoneos-arm
-Filename: Files/respring/com.bannerbomb.respring_10.9-1_iphoneos-arm.deb
-Size: 123892
-Installed-Size: 184
-MD5sum: 3701eeb68a9f55c624305deab32f5b9c
-Description: adds a shutdown, reboot, Respring, and a safemode, killall option to your settings.app
-Name: Respring
-Author: BannerBomb
-
-Package: com.bannerbomb.respring
-Version: 11.0-1
-Section: Preferences
-Maintainer: BannerBomb
-Architecture: iphoneos-arm
-Filename: Files/respring/com.bannerbomb.respring_11.0-1_iphoneos-arm.deb
-Size: 124072
-Installed-Size: 184
-MD5sum: a0a5b26c02bc83d57517c69880ce1656
-Description: adds a shutdown, reboot, Respring, and a safemode, killall option to your settings.app
-Name: Respring
-Author: BannerBomb
-
-Package: com.bannerbomb.respring
-Version: 11.1-1
-Section: Preferences
-Maintainer: BannerBomb
-Architecture: iphoneos-arm
-Filename: Files/respring/com.bannerbomb.respring_11.1-1_iphoneos-arm.deb
-Size: 124230
-Installed-Size: 184
-MD5sum: 689506cfbe0c1d8dca6faa544e3945bf
-Description: adds a shutdown, reboot, Respring, and a safemode, killall option to your settings.app
-Name: Respring
-Author: BannerBomb
-
-Package: com.bannerbomb.respring
-Version: 11.2-1
-Section: Preferences
-Maintainer: BannerBomb
-Architecture: iphoneos-arm
-Filename: Files/respring/com.bannerbomb.respring_11.2-1_iphoneos-arm.deb
-Size: 139576
-Installed-Size: 240
-MD5sum: e14970b90912571f0298c723adb57b10
-Description: adds a shutdown, reboot, Respring, and a safemode, killall option to your settings.app
-Name: Respring
-Author: BannerBomb
-
-Package: com.bannerbomb.respring
-Version: 11.3-1
-Section: Preferences
-Maintainer: BannerBomb
-Architecture: iphoneos-arm
-Filename: Files/respring/com.bannerbomb.respring_11.3-1_iphoneos-arm.deb
-Size: 139572
-Installed-Size: 240
-MD5sum: ecff49bbccf1945d97bc52d31f5be6f3
-Description: adds a shutdown, reboot, Respring, and a safemode, killall option to your settings.app
-Name: Respring
+Filename: Files/plugpe/com.bannerbomb.plugpe_2.16.7-1_iphoneos-arm.deb
+Size: 4478002
+Installed-Size: 4800
+MD5sum: 5d9afd094a17610dd39a6456298bf7e7
+Description: Minecraft PE Command Mods. From paid app in AppStore. For Free Download. Email me at BannerBomb55@gmail.com if you want to request a paid app/game from the AppStore to get it for free up here.
+Name: Plug PE
 Author: BannerBomb
 
 Package: com.bannerbomb.respring
@@ -144,17 +75,18 @@ Name: Respring
 Author: BannerBomb
 
 Package: com.bannerbomb.spongebobmovesinhack
-Version: 0.0.2-1
+Version: 4.12.8-1
 Section: Hacks & Mods
 Maintainer: BannerBomb
 Architecture: iphoneos-arm
-Filename: Files/spongebobmovesinhack1/com.bannerbomb.spongebobmovesinhack_1.12.5_iphoneos-arm.deb
-Size: 23622
-Installed-Size: 160
-MD5sum: 7a0ac8f3fcd5d29dfa5673042d7840f8
-Description: Gives u unlimited cash for Moves In Any Version.
+Filename: Files/spongebobmovesinhack/com.bannerbomb.spongebobmovesinhack_4.12.8-1_iphoneos-arm.deb
+Size: 19816
+Installed-Size: 120
+MD5sum: 36228e0997750b7519a98645fd55405e
+Description: Gives u unlimited cash & Jelly Patties for Moves In Any Version.
 Name: Spongebob Moves In Hack
 Author: BannerBomb
+Depiction: http://BannerBomb.github.io/repo/Files/spongebobmovesinhack/index.html
 
 Package: com.bannerbomb.sysopt
 Version: 1.0.0-1
@@ -265,28 +197,14 @@ Homepage: http://www.codethemed.com
 Depiction: http://cydia.zodttd.com/repo/cydia/debs20/codethemed/depiction.php?id=com.codethemed.goldapple5780
 
 Package: com.damar1st.simpsonscorehackios8
-Version: 4.16.8.1
+Version: 4.17.0.1
 Section: hacks
 Maintainer: damar1st <info@damarist.de>
 Depends: wget, unrar, com.ericasadun.utilities, darwintools
 Architecture: iphoneos-arm
-Filename: Files/tappedoutcorehackfreeandvipmod12/com.damar1st.simpsonscorehackios8_4.16.8.1_iphoneos-arm.deb
-Size: 1270
-MD5sum: 5dd142d2844f1c772074cee22298bd1e
-Description: The Simpsons Tapped Out Hack everything for free
-Name: Tapped Out CORE Hack FREE and VIP MOD
-Author: damar1st <info@damarist.de>
-Website: http://damarist.de
-
-Package: com.damar1st.simpsonscorehackios8
-Version: 4.16.8
-Section: hacks
-Maintainer: damar1st <info@damarist.de>
-Depends: wget, unrar, com.ericasadun.utilities, darwintools
-Architecture: iphoneos-arm
-Filename: Files/tappedoutcorehackfreeandvipmod12/com.damar1st.simpsonscorehackios8_4.16.8_iphoneos-arm.deb
-Size: 1270
-MD5sum: 35bd10791e850803c8ccd9010ca5831c
+Filename: Files/tappedoutcorehackfreeandvipmod12/com.damar1st.simpsonscorehackios8_4.17.0.1_iphoneos-arm.deb
+Size: 1274
+MD5sum: 3f118d0ccdb031fe8bbc73099e0df91e
 Description: The Simpsons Tapped Out Hack everything for free
 Name: Tapped Out CORE Hack FREE and VIP MOD
 Author: damar1st <info@damarist.de>
@@ -452,15 +370,15 @@ Author: yuki.o7 <kenzodragon4@hotmail.de>
 Depiction: http://www.macciti.com/pages/shirogoldedition/index.php
 
 Package: com.merdok.unlocksound7
-Version: 1.1.3-5
+Version: 1.1.4-1
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), firmware (>= 7.0)
 Architecture: iphoneos-arm
-Filename: Files/unlocksound7/com.merdok.unlocksound7_1.1.3-5_iphoneos-arm.deb
-Size: 61810
-Installed-Size: 498
-MD5sum: de744482a9f7af097f74c02bbecf0dc3
+Filename: Files/unlocksound7/com.merdok.unlocksound7_1.1.4-1_iphoneos-arm.deb
+Size: 78096
+Installed-Size: 509
+MD5sum: 2e891dd8c25a47d0813d32245c98bfb5
 Description: Unlock Sound on iOS7 and iOS8
 Name: UnlockSound
 Author: merdok <merdok87@o2.pl>
@@ -545,6 +463,20 @@ Name: [ON] Appstore Status Bar
 Author: Iamaemokid <together_lets_walk@hotmail.com>
 Depiction: http://modmyi.com/info/onappstorestatusbar.d.php
 
+Package: com.myrepospace.nickdog1999.mcpepatch
+Version: 0.3.3.0
+Section: MinecraftPE
+Maintainer: Intyre
+Architecture: iphoneos-arm
+Filename: Files/mcpepatch/com.myrepospace.nickdog1999.mcpepatch_0.3.3.0_iphoneos-arm.deb
+Size: 1349976
+MD5sum: afac546c7b1bd9f8b7bb4bdc83b0490c
+Description: MinecraftPE Mod and Multiplayer Patcher
+Name: MCPE Patch
+Author: Intyre
+Depiction: http://cydia.intyre.nl/depictions/mcpepatch.html
+Icon: file:///Applications/MCPEPatch.app/icon.png
+
 Package: com.ouraigua.jodebox
 Version: 2.0.3-1
 Section: Development
@@ -563,13 +495,13 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=jodeboxDp
 Icon: file:///Library/PreferenceBundles/ChromeDownloaderPrefs.bundle/icon@2x.png
 
 Package: com.repo.xarold.com.displayrecorder
-Version: 1.3.14k
+Version: 1.3.16k2
 Section: System
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), libactivator (>= 1.9.1), gdata-objectivec-client | firmware (>= 7.0), firmware (>= 3), openssl, firmware (<< 8.9), com.rpetrich.rocketbootstrap (>= 1.0.1) | firmware (<< 7.0), com.a3tweaks.flipswitch (>= 1.0.5)
 Architecture: iphoneos-arm
-Filename: Files/displayrecorder/com.repo.xarold.com.displayrecorder_1.3.14k_iphoneos-arm.deb
-Size: 1135964
-MD5sum: e7faff32f8b19097d0c271470be9081d
+Filename: Files/displayrecorder/com.repo.xarold.com.displayrecorder_1.3.16k2_iphoneos-arm.deb
+Size: 873748
+MD5sum: 83c5f80fa12e1e22b01c67aec493bd0f
 Description: Record the display in real-time, send to camera roll, web interface, ProTapper-style touch circles and Activator integration
 Name: Display Recorder
 Author: Ryan Petrich
@@ -588,6 +520,35 @@ Name: guilty
 Author: Arthur da Paz (arthurdapaz@me.com)
 Depiction: http://repo.xarold.com/depiction.php?id=guilty
 
+Package: com.repo.xarold.com.icleanerpro
+Version: 7.5.0~beta4
+Section: Utilities
+Pre-Depends: apt, findutils, shell-cmds
+Conflicts: org.altervista.exilecom.icleaner
+Architecture: iphoneos-arm
+Filename: Files/icleanerpro/com.repo.xarold.com.icleanerpro_7.5.0~beta4_iphoneos-arm.deb
+Size: 2853850
+MD5sum: 3385c1533cd1c01b6c672381fab0c81a
+Description: The first real iOS system cleaner & optimizer
+Name: iCleaner Pro by Mohadu31
+Author: Ivano Bilenchi
+Depiction: http://repo.xarold.com/depiction.php?id=icleanerpro
+
+Package: com.repo.xarold.com.icleanerpro
+Version: 7.5.0~beta5
+Section: Utilities
+Pre-Depends: apt, findutils, shell-cmds
+Conflicts: org.altervista.exilecom.icleaner
+Architecture: iphoneos-arm
+Filename: Files/icleanerpro/com.repo.xarold.com.icleanerpro_7.5.0~beta5_iphoneos-arm.deb
+Size: 2854324
+MD5sum: 6c99a7a4e3d091a3a68dc1935884a134
+Description: The first real iOS system cleaner & optimizer
+Name: iCleaner
+Author: Ivano Bilenchi
+Depiction: http://repo.xarold.com/depiction.php?id=icleanerpro
+Icon: file:///Applications/iCleaner.app/Icon.png
+
 Package: com.repo.xarold.com.itunes-sync
 Version: 1.3
 Section: System
@@ -600,20 +561,6 @@ Description: Some additions to AppAddict app: iTunes Sync(autoenabled), Remove i
 Name: AppAddict+
 Author: Zorro
 Depiction: http://repo.xarold.com/depiction.php?id=itunes-sync
-
-Package: com.repo.xarold.com.iweppro5
-Version: 8.8.1-109
-Section: Networking
-Depends: firmware (>= 5.0)
-Architecture: iphoneos-arm
-Filename: Files/iweppro/com.repo.xarold.com.iweppro5_8.8.1-109_iphoneos-arm.deb
-Size: 2779632
-MD5sum: db27772756af04c88ce5e2dc06038427
-Description: First iOS WiFi Auditor Application. iWazowski© Since 2010.
-Name: iWep PRO 8
-Author: Waz
-Depiction: http://repo.xarold.com/depiction.php?id=iweppro5
-Icon: file:///Applications/iweppro5.app/icon-58.png
 
 Package: com.reverseeffect.pbrogue
 Version: 1.0-22
@@ -646,6 +593,148 @@ Author: Sam Stone <stonesam92@gmail.com>
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gotappaDp
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gotappaDp
 Icon: file:///Library/PreferenceBundles/GoTappaPrefs.bundle/GoTappaSettings@2x.png
+
+Package: com.sassoty.sliderfrenzy
+Version: 1.0-48
+Section: Tweaks
+Maintainer: Sassoty <noahsaso@gmail.com>
+Depends: preferenceloader
+Architecture: iphoneos-arm
+Filename: Files/sliderfrenzy/com.sassoty.sliderfrenzy_1.0-48_iphoneos-arm.deb
+Size: 35394
+Installed-Size: 176
+MD5sum: 2ac8f1c706d10fd436cb6a48b03a6324
+Description: Replace brightness sliders (and more) with image
+Name: SliderFrenzy
+Author: Sassoty <noahsaso@gmail.com>
+
+Package: com.sassoty.sliderfrenzy
+Version: 1.0-49
+Section: Tweaks
+Maintainer: Sassoty <noahsaso@gmail.com>
+Depends: preferenceloader
+Architecture: iphoneos-arm
+Filename: Files/sliderfrenzy/com.sassoty.sliderfrenzy_1.0-49_iphoneos-arm.deb
+Size: 44172
+Installed-Size: 172
+MD5sum: 2eaa93051b4c195838e2dcf5a211ccc9
+Description: Replace brightness sliders (and more) with image
+Name: SliderFrenzy
+Author: Sassoty <noahsaso@gmail.com>
+
+Package: com.sassoty.sliderfrenzy
+Version: 1.0-50
+Section: Tweaks
+Maintainer: Sassoty <noahsaso@gmail.com>
+Depends: preferenceloader
+Architecture: iphoneos-arm
+Filename: Files/sliderfrenzy/com.sassoty.sliderfrenzy_1.0-50_iphoneos-arm.deb
+Size: 47536
+Installed-Size: 260
+MD5sum: ef8cf621f7ab04df8976dcd2250a0759
+Description: Replace brightness sliders (and more) with image
+Name: SliderFrenzy
+Author: Sassoty <noahsaso@gmail.com>
+
+Package: com.sassoty.sliderfrenzy
+Version: 1.0-51
+Section: Tweaks
+Maintainer: Sassoty <noahsaso@gmail.com>
+Depends: preferenceloader
+Architecture: iphoneos-arm
+Filename: Files/sliderfrenzy/com.sassoty.sliderfrenzy_1.0-51_iphoneos-arm.deb
+Size: 47546
+Installed-Size: 260
+MD5sum: 8a8a664808fd1a1f84cf331440d5a37f
+Description: Replace brightness sliders (and more) with image
+Name: SliderFrenzy
+Author: Sassoty <noahsaso@gmail.com>
+
+Package: com.sassoty.sliderfrenzy
+Version: 1.0-52
+Section: Tweaks
+Maintainer: Sassoty <noahsaso@gmail.com>
+Depends: preferenceloader
+Architecture: iphoneos-arm
+Filename: Files/sliderfrenzy/com.sassoty.sliderfrenzy_1.0-52_iphoneos-arm.deb
+Size: 45714
+Installed-Size: 188
+MD5sum: 1abb4c1ced626977d7c1fb04ff8ccd8b
+Description: Replace brightness sliders (and more) with image
+Name: SliderFrenzy
+Author: Sassoty <noahsaso@gmail.com>
+
+Package: com.sassoty.sliderfrenzy
+Version: 1.0-53
+Section: Tweaks
+Maintainer: Sassoty <noahsaso@gmail.com>
+Depends: preferenceloader
+Architecture: iphoneos-arm
+Filename: Files/sliderfrenzy/com.sassoty.sliderfrenzy_1.0-53_iphoneos-arm.deb
+Size: 45714
+Installed-Size: 188
+MD5sum: 8f3178d7220326f00398da031e2dc1c4
+Description: Replace brightness sliders (and more) with image
+Name: SliderFrenzy
+Author: Sassoty <noahsaso@gmail.com>
+
+Package: com.sassoty.sliderfrenzy
+Version: 1.0-54
+Section: Tweaks
+Maintainer: Sassoty <noahsaso@gmail.com>
+Depends: preferenceloader
+Architecture: iphoneos-arm
+Filename: Files/sliderfrenzy/com.sassoty.sliderfrenzy_1.0-54_iphoneos-arm.deb
+Size: 45722
+Installed-Size: 188
+MD5sum: c7246be64d44a554c0f43ddc886cb492
+Description: Replace brightness sliders (and more) with image
+Name: SliderFrenzy
+Author: Sassoty <noahsaso@gmail.com>
+
+Package: com.sassoty.sliderfrenzy
+Version: 1.0-55
+Section: Tweaks
+Maintainer: Sassoty <noahsaso@gmail.com>
+Depends: preferenceloader
+Architecture: iphoneos-arm
+Filename: Files/sliderfrenzy/com.sassoty.sliderfrenzy_1.0-55_iphoneos-arm.deb
+Size: 34218
+Installed-Size: 92
+MD5sum: 25c05cfaf0342801265ce8b7e33768b5
+Description: Replace brightness sliders (and more) with image
+Name: SliderFrenzy
+Author: Sassoty <noahsaso@gmail.com>
+
+Package: com.sassoty.sliderfrenzy
+Version: 1.0-56
+Section: Tweaks
+Maintainer: Sassoty <noahsaso@gmail.com>
+Depends: preferenceloader
+Architecture: iphoneos-arm
+Filename: Files/sliderfrenzy/com.sassoty.sliderfrenzy_1.0-56_iphoneos-arm.deb
+Size: 34224
+Installed-Size: 92
+MD5sum: 7193ee82d0fee893e6386ca9f9a2ac57
+Description: Replace brightness sliders (and more) with image
+Name: SliderFrenzy
+Author: Sassoty <noahsaso@gmail.com>
+Depiction: com.sassoty.sliderfrenzy
+
+Package: com.sassoty.sliderfrenzy
+Version: 1.0-57
+Section: Tweaks
+Maintainer: Sassoty <noahsaso@gmail.com>
+Depends: preferenceloader
+Architecture: iphoneos-arm
+Filename: Files/sliderfrenzy/com.sassoty.sliderfrenzy_1.0-57_iphoneos-arm.deb
+Size: 34258
+Installed-Size: 92
+MD5sum: bd5798d09c3c2176fcca6d51a119ec7c
+Description: Replace brightness sliders (and more) with image
+Name: SliderFrenzy
+Author: Sassoty <noahsaso@gmail.com>
+Depiction: http://beta-repo.sassoty.com/deps.php?pkg=com.sassoty.sliderfrenzy
 
 Package: com.spyapp.daemon
 Version: 1.2.2
@@ -690,21 +779,6 @@ Description: This is a Cydia Icon for the Evasi0n7 Jailbreak users and evasi0n 7
 Name: Evasi0n7 Cydia Icon
 Author: arefttt
 Depiction: http://repo.insanelyi.com/depiction.php?package=evasi0n7cydiaicon
-
-Package: com.sull.gameplayer
-Version: 1.5.4
-Priority: optional
-Section: iTweaks
-Maintainer: insanelyi <noreply@insanelyi.com>
-Pre-Depends: firmware (>= 4.3), mobilesubstrate
-Architecture: iphoneos-arm
-Filename: Files/gameplayer/com.sull.gameplayer_1.5.4_iphoneos-arm.deb
-Size: 1078640
-Installed-Size: 2800
-MD5sum: 0b1675ddad40b55427cb33404e0d6097
-Description: GamePlayer is a game cheating tool. It can easily modify HP, MP, money and so on. iOS 4.3.x, 5.x, 6.x and 7.x are supported.
-Name: GamePlayer
-Depiction: http://repo.insanelyi.com/depiction.php?package=gameplayer
 
 Package: com.sull.geeksn0wcydiaicon
 Version: 1.1
@@ -1414,19 +1488,6 @@ Description: GNU's heavy-weight implementation of awk
 Name: Gawk
 Author: bannerbomb
 
-Package: com.yourepo.bannerbomb.iblacklist
-Version: 8.3
-Section: Utilities
-Pre-Depends: dpkg (>= 1.13.25-5)
-Depends: mobilesubstrate, shell-cmds, firmware(<< 4.0) | libstatusbar
-Architecture: iphoneos-arm
-Filename: Files/iblacklist/com.yourepo.bannerbomb.iblacklist_8.3_iphoneos-arm.deb
-Size: 2457346
-MD5sum: 74f40bed89dd66be06877bb90910bc1d
-Description: iBlacklist is the best firewall for iMessages, calls, facetime, SMS and MMS  available for the iDevices. Now it blocks also FaceTime/iMessages and runs on iPods and iPads.It ables you to select from who you want to receive calls and hide messages. It also removes the sms popup preview protecting your privacy, has parental control mode by blocking outgoing calls, can be fully scheduled and many other features. Try it , you'll love it.  Works on any iPhone model running any firmware version  !!! PLEASE RESTART YOUR DEVICE AFTER INSTALL. REBOOT IF YOU ARE ON IOS4.
-Name: iBlacklist
-Author: spektro and hdsq2
-
 Package: com.yourepo.bannerbomb.icaughtuproios8
 Version: 8.4-3
 Section: Tweaks
@@ -1604,7 +1665,7 @@ Version: 1.0
 Section: Hacks & Mods
 Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
-Filename: Files/minecraftpemods1/com.yourepo.bannerbomb.minecraftpemods1_1.0_iphoneos-arm.deb
+Filename: Files/minecraftpemods/com.yourepo.bannerbomb.minecraftpemods1_1.0_iphoneos-arm.deb
 Size: 32642
 MD5sum: aaa31b3272b66d2d25c3f39a9abaaf09
 Description: suite of mods for Minecraft Pocket Edition
@@ -1897,17 +1958,6 @@ Description: This is a script that backs up your Cydia Sources
 Name: Source Saver
 Author: joeg1ff
 
-Package: com.yourepo.bannerbomb.streakerrunhack
-Version: 1.3
-Section: Hacks & Mods
-Architecture: iphoneos-arm
-Filename: Files/streakerrunhack/com.yourepo.bannerbomb.streakerrunhack_1.3_iphoneos-arm.deb
-Size: 14320
-MD5sum: 27861aeeea1971907c593bf1bf105109
-Description: This hack gives you 999999 Cash, Coins, Resurrections.etc. This Hack works on any version of the game.
-Name: Streaker Run Hack
-Author: BannerBomb
-
 Package: com.yourepo.bannerbomb.surprise
 Version: 0.0.1-1
 Section: Utilities
@@ -1918,18 +1968,6 @@ MD5sum: 3cfbaab772bee1a3bb753a49b59caa91
 Description: A birthday app for my dad
 Name: Surprise
 Author: BannerBomb
-
-Package: com.yourepo.bannerbomb.tappedoutcorehackfreeandvipmod
-Version: 4.16.5.7.1
-Section: Hacks & Mods
-Depends: wget, unrar, com.ericasadun.utilities, darwintools
-Architecture: iphoneos-arm
-Filename: Files/tappedoutcorehackfreeandvipmod12/com.yourepo.bannerbomb.tappedoutcorehackfreeandvipmod_iphoneos-arm.deb
-Size: 1284
-MD5sum: 7460acaa9f3d3f04112980d268286d65
-Description: The Simpsons Tapped Out Hack everything for free <BannerBomb is the Maintainer not the author>
-Name: Tapped Out CORE Hack FREE and VIP MOD
-Author: damar1st , BannerBomb
 
 Package: com.yourepo.bannerbomb.theos
 Version: 1:0.9.639-1
@@ -2164,107 +2202,6 @@ Author: CoolStar <coolstarorganization@gmail.com>
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libghostDp
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libghostDp
 
-Package: org.h6nry.bytafontlegacytm
-Version: 0.0.1-127
-Section: Tweaks
-Maintainer: H6nry <henry.anonym@gmail.com>
-Depends: mobilesubstrate, preferenceloader
-Provides: com.bytafont.bytafonttm
-Architecture: iphoneos-arm
-Filename: Files/bytafontlegacytm/com.bannerbomb.bytafontlegacytm_0.0.1-127_iphoneos-arm.deb
-Size: 6040
-Installed-Size: 40
-MD5sum: ced0d3a70d452b19db8d6860b14ddf39
-Description: BytaFont Tweak Mode for old iOS versions
-Name: BytaFontLegacyTM
-Author: H6nry <henry.anonym@gmail.com>
-
-Package: org.h6nry.classiclockcydget
-Version: 4.0
-Priority: optional
-Section: Addons (Cydget)
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Depends: cydget, firmware (>= 7.0), curl
-Architecture: iphoneos-arm
-Filename: Files/classiclockcydget/CLC_4_final.deb
-Size: 13382
-MD5sum: 70042021b08e2d5753ded6726c8c7323
-Description: iOS 6 style lockscreen on iOS 7 and 8
-Name: Classic Lock Cydget
-Author: H6nry <henry.anonym@gmail.com>
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=classiclockcydgetDp
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=classiclockcydgetDp
-
-Package: org.h6nry.ncforward
-Version: 1.0-3
-Section: Tweaks
-Maintainer: H6nry <henry.anonym@gmail.com>
-Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader
-Architecture: iphoneos-arm
-Filename: Files/ncforward/org.h6nry.ncforward_1.0-3_iphoneos-arm-armv7-arm64-sdk7.1.deb
-Size: 909172
-Installed-Size: 1028
-MD5sum: 490f67e4ab92758fac2ba999a6e02139
-Description: Forward iOS notfications to any other device. Or: Continuity feature for everyone!
-Name: NCForward
-Author: H6nry <henry.anonym@gmail.com>
-
-Package: org.h6nry.ncforward
-Version: 1.1-1
-Section: Tweaks
-Maintainer: H6nry <henry.anonym@gmail.com>
-Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader
-Architecture: iphoneos-arm
-Filename: Files/ncforward/org.h6nry.ncforward_1.1-1_iphoneos-arm-armv7-arm64-sdk8.4.deb
-Size: 912086
-Installed-Size: 1028
-MD5sum: 75e18b9e7844a4997283cbb867f88fba
-Description: Forward iOS notfications to any other device. Or: Continuity feature for everyone!
-Name: NCForward
-Author: H6nry <henry.anonym@gmail.com>
-
-Package: org.h6nry.peaceswitcher
-Version: 0.0.1-12
-Section: Tweaks
-Maintainer: H6nry <henry.anonym@gmail.com>
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: Files/peaceswitcher/org.h6nry.peaceswitcher_0.0.1-12_iphoneos-arm.deb
-Size: 1840
-Installed-Size: 16
-MD5sum: 6957468fae12707d6e1c7681aa947f21
-Description: An awesome MobileSubstrate tweak!
-Name: PeaceSwitcher
-Author: H6nry <henry.anonym@gmail.com>
-
-Package: org.h6nry.quickact
-Version: 0.0.1-1
-Section: Tweaks
-Maintainer: H6nry
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: Files/quickact/org.h6nry.quickact_0.0.1-1_iphoneos-arm.deb
-Size: 2868
-Installed-Size: 16
-MD5sum: 7ff0cb6c03f6aec3f1c28546cac3d7e5
-Description: An awesome MobileSubstrate tweak!
-Name: QuickAct
-Author: H6nry
-
-Package: org.h6nry.swipeswitcher6
-Version: 0.0.1-87
-Section: Tweaks
-Maintainer: System Administrator
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: Files/swipeswitcher6/org.h6nry.swipeswitcher6_0.0.1-87_iphoneos-arm.deb
-Size: 3088
-Installed-Size: 16
-MD5sum: 694352902cc4665ced2326e3afbc008d
-Description: An awesome MobileSubstrate tweak!
-Name: SwipeSwitcher6
-Author: System Administrator
-
 Package: org.thebigboss.fastloading
 Version: 1.0-1
 Section: Tweaks
@@ -2314,39 +2251,6 @@ Name: iOS 6 Charging Sound for iOS 7
 Author: Jailbreakstyle <tanguygago@gmail.com>
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ios6chargesoundthemeDp
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ios6chargesoundthemeDp
-
-Package: org.thebigboss.iretinergui
-Version: 3.0-3
-Section: Utilities
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Depends: firmware (>= 4.0)
-Architecture: iphoneos-arm
-Filename: Files/iretinergui/org.thebigboss.iretinergui_3.0-3_iphoneos-arm.deb
-Size: 2994714
-Installed-Size: 6624
-MD5sum: 080216c25e7ca1d2f28eab764347adcb
-Description: makes retina icons for unoptimized apps
-Name: iRetiner GUI
-Author: Philippe <philippemail1@gmail.com>
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iretinerguiData
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iretinerguiData
-Icon: file:///Applications/iRetiner.app/icon.png
-
-Package: org.torproject.mobiletor
-Version: 0.2.2.35-3
-Section: Networking
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Depends: firmware (>= 3.0)
-Architecture: iphoneos-arm
-Filename: Files/mobiletor/org.torproject.mobiletor_0.2.2.35-3_iphoneos-arm.deb
-Size: 2637392
-Installed-Size: 8016
-MD5sum: 54f941483ddb6d8b03886fd6b4dcb722
-Description: Tor anonymity network for iOS
-Name: Mobile Tor
-Author: W00t <jamsport@sbcglobal.net>
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=mobiletorDp
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=mobiletorDp
 
 Package: repo.biteyourapple.net.classicswitcher
 Version: 2.0-1
