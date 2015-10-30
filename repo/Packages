@@ -494,6 +494,23 @@ Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=jodeboxDp
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=jodeboxDp
 Icon: file:///Library/PreferenceBundles/ChromeDownloaderPrefs.bundle/icon@2x.png
 
+Package: com.r333d.cylinder
+Version: 1.0.4
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 3.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Architecture: iphoneos-arm
+Filename: Files/cylinder/com.r333d.cylinder_1.0.4_iphoneos-arm.deb
+Size: 255668
+Installed-Size: 899
+MD5sum: 348c09b7e9f1c5b808fafb0591ea6772
+Description: Make your icons dance
+Name: Cylinder
+Author: Reed Weichler <rweichler+cydia@gmail.com>
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cylinderDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cylinderDp
+Icon: file:///Library/PreferenceBundles/CylinderSettings.bundle/Icon@2x.png
+
 Package: com.repo.xarold.com.displayrecorder
 Version: 1.3.16k2
 Section: System
@@ -1732,18 +1749,6 @@ Description: put folders inside folders/iOS 8
 Name: Nested Folders (iOS 8)
 Author: Alltim3h4ckers
 
-Package: com.yourepo.bannerbomb.networklist
-Version: 0.3
-Section: Tweaks
-Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5000)
-Architecture: iphoneos-arm
-Filename: Files/networklist/com.yourepo.bannerbomb.networklist_0.3_iphoneos-arm.deb
-Size: 24492
-MD5sum: 79ca856395c7f8827fc903a55344c039
-Description: view saved WiFi passwords in Settings
-Name: NetworkList
-Author: Qusic
-
 Package: com.yourepo.bannerbomb.nopasscodeblock
 Version: 1.2-1
 Section: Tweaks
@@ -2151,6 +2156,22 @@ MD5sum: 40c80fcc961b297e34816eb79157f18f
 Description: Replaces carrier text with an image!
 Name: Zeppelin
 Author: BannerBomb
+
+Package: me.qusic.networklist
+Version: 0.4
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: Files/networklist/me.qusic.networklist_0.4_iphoneos-arm.deb
+Size: 24308
+Installed-Size: 214
+MD5sum: bd43f907075d5b0bca238ef78a86e9bb
+Description: view saved WiFi passwords in Settings
+Name: NetworkList
+Author: Qusic <hi@qusic.me>
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=networklistDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=networklistDp
 
 Package: mobi.macciti.apptag
 Version: 1.1
