@@ -61,6 +61,19 @@ Description: Repo icons for my repo!
 Name: BannerBomb Repo Icons
 Author: BannerBomb
 
+Package: com.bannerbomb.bannerbombrepoicons
+Version: 1.4-1
+Section: System
+Maintainer: BannerBomb
+Architecture: iphoneos-arm
+Filename: Files/respring/com.bannerbomb.bannerbombrepoicons_1.4-1_iphoneos-arm.deb
+Size: 35814
+Installed-Size: 40
+MD5sum: d8cbc69da42b1e4f4b4544edffdbdf83
+Description: Repo icons for my repo!
+Name: BannerBomb Repo Icons
+Author: BannerBomb
+
 Package: com.bannerbomb.plugpe
 Version: 2.16.7-1
 Section: Free Apps & Games
@@ -86,20 +99,6 @@ MD5sum: d2a8471dc7d5fe3b9d8cbaf4f7fbdc96
 Description: adds a shutdown, reboot, Respring, and a safemode, killall option to your settings.app
 Name: Respring
 Author: BannerBomb
-
-Package: com.bannerbomb.respring
-Version: 12.4-1
-Section: Preferences
-Maintainer: BannerBomb <BannerBomb55@gmail.com>
-Depends: top
-Architecture: iphoneos-arm
-Filename: Files/respring/com.bannerbomb.respring_12.4-1_iphoneos-arm.deb
-Size: 140208
-Installed-Size: 248
-MD5sum: bebe02d32f821628bf1fcc784b29ed69
-Description: adds a shutdown, reboot, Respring, and a safemode, killall, quickreboot option to your settings.app
-Name: Respring
-Author: BannerBomb <BannerBomb55@gmail.com>
 
 Package: com.bannerbomb.spongebobmovesinhack
 Version: 4.12.8-1
