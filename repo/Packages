@@ -48,6 +48,19 @@ Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=barrelData
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=barrelData
 Icon: file:///Applications/BarrelSettings.app/Barrel_AppIcon57x57.png
 
+Package: com.bannerbomb.bannerbombrepoicons
+Version: 1.3-1
+Section: System
+Maintainer: BannerBomb
+Architecture: iphoneos-arm
+Filename: Files/bannerbombssectionicons/com.bannerbomb.bannerbombrepoicons_1.3-1_iphoneos-arm.deb
+Size: 31326
+Installed-Size: 40
+MD5sum: f4b72030be230c32e3a61efaafdde258
+Description: Repo icons for my repo!
+Name: BannerBomb Repo Icons
+Author: BannerBomb
+
 Package: com.bannerbomb.plugpe
 Version: 2.16.7-1
 Section: Free Apps & Games
@@ -1545,19 +1558,6 @@ Description: The ultimate iPhone, iPod and iPad system cleaner & optimizer
 Name: iCleaner Pro
 Author: Ivano Bilenchi
 
-Package: com.yourepo.bannerbomb.icone
-Version: 1.2
-Section: System
-Essential: yes
-Architecture: iphoneos-arm
-Filename: Files/bannerbombssectionicons/com.bannerbomb.icone_iphoneos-arm.deb
-Size: 17652
-MD5sum: 406873e5691d7fa6c754bcc8fa7f3c34
-Description: Officials BannerBomb Repo Icons
-Name: BannerBomb Repo Icons
-Author: BannerBomb
-Depiction: http://www.yourepo.com/repo/bannerbomb/pack/icone
-
 Package: com.yourepo.bannerbomb.iconpasscode
 Version: 2.0
 Section: Tweaks
@@ -2273,6 +2273,23 @@ Name: iOS 6 Charging Sound for iOS 7
 Author: Jailbreakstyle <tanguygago@gmail.com>
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ios6chargesoundthemeDp
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ios6chargesoundthemeDp
+
+Package: org.thebigboss.safariuploadenabler
+Version: 1.4-6
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 4.2), com.rpetrich.rocketbootstrap, preferenceloader (>= 2.2.2), libzip (>= 0.10)
+Architecture: iphoneos-arm
+Filename: Files/safariuploader9/org.bannerbomb.safariuploadenabler_1.4-6_iphoneos-arm.deb
+Size: 515554
+Installed-Size: 1720
+MD5sum: cfd3a9536698163918653130a92188e6
+Description: Enable native file uploads in MobileSafari
+Name: Safari Upload Enabler
+Author: H. Samara & N. Bassen <cydia@samara-it.de>
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=safariuploadenablerData
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=safariuploadenablerData
+Icon: file:///System/Library/PreferenceBundles/SafariUploaderSettings.bundle/icon@2x.png
 
 Package: repo.biteyourapple.net.classicswitcher
 Version: 2.0-1
