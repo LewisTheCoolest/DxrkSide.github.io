@@ -49,14 +49,14 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=barrelData
 Icon: file:///Applications/BarrelSettings.app/Barrel_AppIcon57x57.png
 
 Package: com.bannerbomb.bannerbombrepoicons
-Version: 1.5-1
+Version: 1.6-1
 Section: System
 Maintainer: BannerBomb
 Architecture: iphoneos-arm
-Filename: Files/bannerbombssectionicons/com.bannerbomb.bannerbombrepoicons_1.5-1_iphoneos-arm.deb
-Size: 35606
+Filename: Files/bannerbombssectionicons/com.bannerbomb.bannerbombrepoicons_1.6-1_iphoneos-arm.deb
+Size: 35608
 Installed-Size: 40
-MD5sum: b61263d85337cae688177f226cee7f7b
+MD5sum: 3e8d54d3fbe6a93ce795dfaf780470d5
 Description: Repo icons for my repo!
 Name: BannerBomb Repo Icons
 Author: BannerBomb
