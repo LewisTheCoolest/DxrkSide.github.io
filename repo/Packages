@@ -977,6 +977,18 @@ Description: converts system apps to ipa's to be installed through installous an
 Name: ap2ipa
 Author: brc0703
 
+Package: com.yourepo.bannerbomb.appcrackr
+Version: 1.6
+Section: Administration
+Depends: com.ericasadun.utilities, odcctools, zip, gawk, wget, adv-cmds, uuid, ldone, inetutils, coreutils, coreutils-bin, repo.biteyourapple.net.posixspawn
+Architecture: iphoneos-arm
+Filename: Files/appcrackr/com.yourepo.bannerbomb.appcrackr_iphoneos-arm.deb
+Size: 191028
+MD5sum: 4e86460174b8a4e2720cb916ddfcde5f
+Description: A graphical user interface for Rastignac's PoedCrackMod, and ttwj's ClutchPatched in the near future.
+Name: AppCrackr
+Author: BYA Repository
+
 Package: com.yourepo.bannerbomb.applefileconduit
 Version: 1.2
 Section: System
