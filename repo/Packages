@@ -116,15 +116,15 @@ Name: Respring
 Author: BannerBomb <BannerBomb55@gmail.com>
 
 Package: com.bannerbomb.respring
-Version: 12.8-1
+Version: 12.9-1
 Section: Preferences
 Maintainer: BannerBomb <BannerBomb55@gmail.com>
 Depends: top
 Architecture: iphoneos-arm
-Filename: Files/respring/com.bannerbomb.respring_12.8-1_iphoneos-arm.deb
-Size: 140480
+Filename: Files/respring/com.bannerbomb.respring_12.9-1_iphoneos-arm.deb
+Size: 140474
 Installed-Size: 252
-MD5sum: 400da460c51aba218d0a9a9a92085aec
+MD5sum: f88c30e572e0ec760e760987f04bcc82
 Description: adds a shutdown, reboot, Respring, and a safemode, killall, endless reboot, Lock option to your settings.app
 Name: Respring
 Author: BannerBomb <BannerBomb55@gmail.com>
