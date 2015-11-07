@@ -1,0 +1,62 @@
+#!/bin/sh
+echo "+------------------------------------------+"
+echo "|Spongebob Moves In Hack [4.12.8] Installer|"
+echo "+------------------------------------------+"
+#Checking for iOS 8 and using new Installation Method
+echo "Checking iOS Version..."
+
+
+container="8"
+
+
+OSbuild=`sw_vers -productVersion`
+
+
+dam=${OSbuild%%.*}
+
+
+for stuff in $container
+do
+    if [ "$stuff" == "$dam" ]; then
+            echo "iOS 8 detected, using new installation Path"
+            apps=/var/mobile/Containers/Bundle/Application/*
+        else
+            apps=/var/mobile/Applications/*
+    fi
+done;
+
+for appdir in $apps
+do
+if [ -d $appdir"/Moves In.app" ]; then
+path=$appdir
+
+echo "Killing Process..."
+killall "Moves In"
+
+
+echo "App Pfad: "$appdir   
+
+     cp $path"/D6BEDEDC-C56F-41DB-B364-28BB5B6F8888/spongebobenterprise.app/Data/Raw/PatchyTown/game.json/" $path"/D6BEDEDC-C56F-41DB-B364-28BB5B6F8888/spongebobenterprise.app/Data/Raw/PatchyTown/game.json_Backup/"
+echo
+
+echo "Deleting Original File..."
+     rm $path"/D6BEDEDC-C56F-41DB-B364-28BB5B6F8888/spongebobenterprise.app/Data/Raw/PatchyTown/game.json/"
+echo
+
+echo "Moving Game Hack..."
+     mv "/tmp/spongebobenterprisehack/game.json" $path"/D6BEDEDC-C56F-41DB-B364-28BB5B6F8888/spongebobenterprise.app/Data/Raw/PatchyTown/"
+echo
+
+echo "Deleting Folder in tmp..."
+     rm "/tmp/spongebobenterprisehack"
+
+echo "Changing File Permissions..."
+         chmod 644 $path"/D6BEDEDC-C56F-41DB-B364-28BB5B6F8888/spongebobenterprise.app/Data/Raw/PatchyTown/game.json/" -R
+         
+                uicache
+                
+
+        fi      
+done;
+echo ""
+echo "BY BannerBomb HACKER KING !!!

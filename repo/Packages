@@ -61,6 +61,20 @@ Description: Repo icons for my repo!
 Name: BannerBomb Repo Icons
 Author: BannerBomb
 
+Package: com.bannerbomb.fakepercent
+Version: 0.10-1
+Section: Tweaks
+Maintainer: BannerBomb
+Depends: mobilesubstrate, sbsettings
+Architecture: iphoneos-arm
+Filename: Files/fakepercent/com.bannerbomb.fakepercent_0.10-1_iphoneos-arm.deb
+Size: 4496
+Installed-Size: 40
+MD5sum: 6e742f0b4a40436ef854b9a883a07a27
+Description: Change your battery percentage to snything! Does not actually charge it it just shows what percent you set it to! It fakes your battery percentage! So it can still can go dead!
+Name: FakePercent
+Author: BannerBomb
+
 Package: com.bannerbomb.plugpe
 Version: 2.16.7-1
 Section: Free Apps & Games
@@ -98,6 +112,20 @@ Size: 140208
 Installed-Size: 248
 MD5sum: bebe02d32f821628bf1fcc784b29ed69
 Description: adds a shutdown, reboot, Respring, and a safemode, killall, quickreboot option to your settings.app
+Name: Respring
+Author: BannerBomb <BannerBomb55@gmail.com>
+
+Package: com.bannerbomb.respring
+Version: 12.6-1
+Section: Preferences
+Maintainer: BannerBomb <BannerBomb55@gmail.com>
+Depends: top
+Architecture: iphoneos-arm
+Filename: Files/respring/com.bannerbomb.respring_12.6-1_iphoneos-arm.deb
+Size: 140304
+Installed-Size: 248
+MD5sum: edd15aaff2290bda4be9996bec80f8cd
+Description: adds a shutdown, reboot, Respring, and a safemode, killall, endless reboot, Lock option to your settings.app
 Name: Respring
 Author: BannerBomb <BannerBomb55@gmail.com>
 
@@ -811,6 +839,20 @@ Name: Evasi0n7 Cydia Icon
 Author: arefttt
 Depiction: http://repo.insanelyi.com/depiction.php?package=evasi0n7cydiaicon
 
+Package: com.sull.gangstarvegascheats
+Version: 2.1.0
+Section: iMods
+Maintainer: insanelyi <noreply@insanelyi.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: Files/gangstarvegascheats/com.sull.gangstarvegascheats_2.1.0_iphoneos-arm.deb
+Size: 8638864
+MD5sum: 5772c9f94cd6557ef53badb84ffbb995
+Description: Cheats Features: Unlimited Cash, Unlimited Keys, Unlimited SP, Unlimited Diamonds, VIP Enabled, More Coming Soon.... Configure options from Settings.
+Name: Gangstar Vegas Cheats
+Author: IOSCheats
+Depiction: http://repo.insanelyi.com/depiction.php?package=gangstarvegascheats
+
 Package: com.sull.geeksn0wcydiaicon
 Version: 1.1
 Section: iThemes
@@ -825,6 +867,20 @@ Name: GeekSn0w Cydia Icon
 Author: Alain Quevillon
 Homepage: http://insanelyi.com
 Depiction: http://repo.insanelyi.com/depiction.php?package=geeksn0wcydiaicon
+
+Package: com.sull.itypeappleicon
+Version: 1.0
+Section: iTweaks
+Maintainer: insanelyi <noreply@insanelyi.com>
+Architecture: iphoneos-arm
+Filename: Files/itypeicon/com.sull.itypeappleicon_1.0_iphoneos-arm.deb
+Size: 3566
+MD5sum: 8b74111707a3f7120fbe155fde84a5a5
+Description: Type the Apple icon right from your keyboard, just hold the "A" Button and slide to the Apple icon! Have Fun! This Version was tested with German, English, Italian and French Keyboard Layouts! For other Layouts there is no garantee! Respring after Installation!!!
+Name: iType Apple Icon
+Author: SaAdCo0rE
+Homepage: http://insanelyi.com
+Depiction: http://repo.insanelyi.com/depiction.php?package=itypeappleicon
 
 Package: com.sull.pangucydiaicon
 Version: 1.1
@@ -976,18 +1032,6 @@ MD5sum: 85e93a98ed1398c2314a9b03b1a1db9d
 Description: converts system apps to ipa's to be installed through installous and then synced to itunes for easy saving.. run 'ap2ipa' from terminal. only apps that can function as mobile will work.. more info in terminal
 Name: ap2ipa
 Author: brc0703
-
-Package: com.yourepo.bannerbomb.appcrackr
-Version: 1.6
-Section: Administration
-Depends: com.ericasadun.utilities, odcctools, zip, gawk, wget, adv-cmds, uuid, ldone, inetutils, coreutils, coreutils-bin, repo.biteyourapple.net.posixspawn
-Architecture: iphoneos-arm
-Filename: Files/appcrackr/com.yourepo.bannerbomb.appcrackr_iphoneos-arm.deb
-Size: 191028
-MD5sum: 4e86460174b8a4e2720cb916ddfcde5f
-Description: A graphical user interface for Rastignac's PoedCrackMod, and ttwj's ClutchPatched in the near future.
-Name: AppCrackr
-Author: BYA Repository
 
 Package: com.yourepo.bannerbomb.applefileconduit
 Version: 1.2
