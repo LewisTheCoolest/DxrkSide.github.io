@@ -251,16 +251,16 @@ Author: Roxannegg95376 <wraith@codethemed.com>
 Homepage: http://www.codethemed.com
 Depiction: http://cydia.zodttd.com/repo/cydia/debs20/codethemed/depiction.php?id=com.codethemed.goldapple5780
 
-Package: com.damar1st.simpsonscorehackios8
-Version: 4.17.0.1
+Package: com.damar1st.tappedouthack-iOS3_0to9_1
+Version: 9.99.9.9
 Section: hacks
 Maintainer: damar1st <info@damarist.de>
 Depends: wget, unrar, com.ericasadun.utilities, darwintools
 Architecture: iphoneos-arm
-Filename: Files/tappedoutcorehackfreeandvipmod12/com.damar1st.simpsonscorehackios8_4.17.0.1_iphoneos-arm.deb
-Size: 1274
-MD5sum: 3f118d0ccdb031fe8bbc73099e0df91e
-Description: The Simpsons Tapped Out Hack everything for free
+Filename: Files/tappedoutcorehackfreeandvipmod12/com.damar1st.tappedouthack-iOS3_0to9_1.deb
+Size: 1258
+MD5sum: CD89CE9B707D791F6B5718D7C2ABC86C
+Description: This is a NEW version of my Simpsons Tapped Out Hack. This hack is very powerful. It WON'T add a new connection to another server ! You will get all updates from EA directly !!! This hack doesn't need to get uninstalled but you'll need to check for updates every time EA released an update.
 Name: Tapped Out CORE Hack FREE and VIP MOD
 Author: damar1st <info@damarist.de>
 Website: http://damarist.de
