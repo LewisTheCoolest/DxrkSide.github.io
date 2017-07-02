@@ -1,0 +1,33 @@
+{  
+  "repository":
+  {
+    "name":"BannerBomb's Repo",
+    "maintainer": "BannerBomb",
+    "website": "ios-ipas.github.io",
+    "description":"BannerBomb's iNoCydia Repo",
+    "icon":"https://inocydia.github.io/img/inclink.jpg",
+    "packages":
+     [
+      {
+        "id": "net.inocydia.oldapp",
+        "name": "Old iNoCydia App",
+        "version": "3.1",
+        "author": "TheFearlessNerds",
+        "description": "The old iNoCydia app.",
+        "info": "https://inocydia.net/",
+        "link": "https://inocydia.net/nologin/",
+        "icon": "https://inocydia.github.io/img/inclink.jpg"
+      },
+      {
+        "id": "org.tfn.blog",
+        "name": "tfn blog",
+        "version": "1.0",
+        "author": "TheFearlessNerds",
+        "description": "TFN's blog.",
+        "info": "https://thefearlessnerds.org/",
+        "link": "http://blog.thefearlessnerds.org",
+        "icon": "https://inocydia.github.io/img/inclink.jpg"
+      }
+    ]
+  }
+}
