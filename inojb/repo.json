@@ -14,9 +14,9 @@
         "version": "1.032",
         "author": "lufinkey",
         "description": "Code applications right on your iOS Device, There is only one problem atm, you can not add SDKs and once you start a project it cannot be deleted unless you are jailbroken. I am working on fixing this.",
-        "info": "https://BannerBomb.github.io/inojb/package/minicode/info.html",
-        "link": "https://BannerBomb.github.io/inojb/package/minicode/minicode.html",
-        "icon": "https://BannerBomb.github.io/inojb/package/minicode/minicode.png"
+        "info": "https://BannerBomb.github.io/inojb/packages/minicode/info.html",
+        "link": "https://BannerBomb.github.io/inojb/packages/minicode/minicode.html",
+        "icon": "https://BannerBomb.github.io/inojb/packages/minicode/minicode.png"
       },
       {
         "id": "org.tfn.blog",
