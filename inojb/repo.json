@@ -1,0 +1,33 @@
+{  
+  "repository":
+  {
+    "name":"BannerBomb's Repo",
+    "maintainer": "BannerBomb",
+    "website": "https://BannerBomb.github.io",
+    "description":"BannerBomb's iNoCydia Repo",
+    "icon":"https://inocydia.github.io/inojb/iNoJBIcon.png",
+    "packages":
+     [
+      {
+        "id": "com.BannerBomb.minicode",
+        "name": "MiniCode",
+        "version": "1.032",
+        "author": "lufinkey",
+        "description": "Code applications right on your iOS Device, There is only one problem atm, you can not add SDKs and once you start a project it cannot be deleted unless you are jailbroken. I am working on fixing this.",
+        "info": "",
+        "link": "https://ios-ipas.github.io",
+        "icon": "https://BannerBomb.github.io/minicode/minicode.png"
+      },
+      {
+        "id": "org.tfn.blog",
+        "name": "tfn blog",
+        "version": "1.0",
+        "author": "TheFearlessNerds",
+        "description": "TFN's blog.",
+        "info": "https://thefearlessnerds.org/",
+        "link": "http://blog.thefearlessnerds.org",
+        "icon": "https://inocydia.github.io/img/inclink.jpg"
+      }
+    ]
+  }
+}
