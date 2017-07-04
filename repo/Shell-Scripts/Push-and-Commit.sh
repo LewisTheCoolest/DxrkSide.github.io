@@ -9,6 +9,8 @@ echo 'to url = https://github.com/BannerBomb/BannerBomb.github.io.git'
 echo 'after Cloning the repo with git://github.com/BannerBomb/BannerBomb.github.io.git'
 echo ' '
 echo 'Continuing in 5...'
+sleep .1
+echo ''
 sleep 5
 git commit -m "https://github.com/BannerBomb/BannerBomb.github.io/repo"
 sleep .3
