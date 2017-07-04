@@ -10,5 +10,5 @@ sleep .8
 gzip -f -c9 Packages > Packages.gz
 sleep 1.5
 bzip2 -f -c9 Packages > Packages.bz2
-wait .1
+sleep .1
 exit
