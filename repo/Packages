@@ -48,6 +48,40 @@ Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=barrelData
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=barrelData
 Icon: file:///Applications/BarrelSettings.app/Barrel_AppIcon57x57.png
 
+Package: com.aehmlo.powerdownenhancer
+Version: 1.1-1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: Files/powerdownenhancer/powerdownenhancer_1.1-1.deb
+Size: 18820
+Installed-Size: 147
+MD5sum: 56c8c7e568653b79bc9dd7bc96eab52c
+Description: change power-down slider functionality
+Name: PowerDown Enhancer
+Author: Aehmlo <aehmlo@aehmlo.com>
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=powerdownenhancerDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=powerdownenhancerDp
+Icon: file:///Library/PreferenceBundles/PowerDownEnhancerPrefs.bundle/PowerDownEnhancerPrefs@2x.png
+
+Package: com.aidoo.memsearch
+Version: 1.1
+Section: Utilities
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 6.0)
+Architecture: iphoneos-arm
+Filename: Files/gamegem/gamegem_1.1.deb
+Size: 1527804
+Installed-Size: 6713
+MD5sum: 00e4b58dc8e57951750fa74716fb4684
+Description: Cheat engine for iOS. Change variable values.
+Name: GameGem
+Author: Aidoo.TK <aidoo.tk@gmail.com>
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gamegemDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gamegemDp
+Icon: file:///Applications/MemSearch.app/AppIcon57x57.png
+
 Package: com.bannerbomb.bannerbombrepoicons
 Version: 1.6-1
 Section: System
@@ -278,6 +312,23 @@ Description: The Simpsons Tapped Out Hack everything for free
 Name: Tapped Out CORE Hack FREE and VIP MOD
 Author: damar1st <info@damarist.de>
 Website: http://damarist.de
+
+Package: com.hanjo-net.ntpdate
+Version: 2.0
+Section: Utilities
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 6.0)
+Architecture: iphoneos-arm
+Filename: Files/ntpdate/ntpdate_2.0.deb
+Size: 2385828
+Installed-Size: 3227
+MD5sum: 65d9dc050611655acfb3a9dd86709b48
+Description: GUI To set your date and time by internet time servers.
+Name: NTPdate
+Author: Hanjo <hanjo@herr-der-mails.de>
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ntpdateData
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ntpdateData
+Icon: file:///Applications/NTPdate.app/icon.png
 
 Package: com.intelliborn.mywi8
 Version: 8.03.02
