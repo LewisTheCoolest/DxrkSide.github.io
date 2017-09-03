@@ -1,4 +1,56 @@
 var content = document.getElementById('content').innerHTML;
+/* [[ BEGIN VARIABLES ]] */
+var useFooterItems = true // Should you use footer items?
+var personalLinks = false // My website links
+var screenshotsBtn = true // Show screenshots button
+var getVars = useFooterItems && personalLinks || screenshotsBtn // Returns if 2 or more vars are true
+/* [[ END VARIABLES ]] */
+
+/* [[ BEGIN DEFINITIONS ]] */
+var h3footeritems;
+var addbreak;
+var prsnlnk;
+var scrnshtsbtn;
+var apndtxt;
+/* [[ END DEFINITIONS ]] */
+
+if (useFooterItems) {
+if (getVars) {
+addbreak = ' \
+<br> \ '
+} else {
+addbreak = ' \ \ '
+}
+
+if (personalLinks) {
+prsnlnk = ' \
+<a href="https://twitter.com/BannerBomb/" target="_blank">Me on Twitter: BannerBomb_</a><br> \
+<a href="https://github.com/BannerBomb/" target="_blank">Me on Github: BannerBomb</a><br> \
+<a href="http://bannerbomb.github.io/" target="_blank">My Website</a> \
+' + addbreak + '\ '
+}
+
+if (screenshotsBtn) {
+scrnshtsbtn = ' \
+' + addbreak + '\ '
+\ '
+}
+
+
+/* [[ BEGIN GATHERING TEXT TO DISPLAY ]] */
+apndtxt = ' \
+' + prsnlnk + ' \
+' + scrnshtsbtn + ' \
+\ '
+/* [[ END GATHERING TEXT TO DISPLAY ]] */
+
+
+} else {
+apndtxt = ' \ \ '
+}
+
+
+
 var template = ' \
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"> \
 <html> \
@@ -24,9 +76,9 @@ var template = ' \
 ' + content + '\
 </div> \
 <hr> \
-<h3><a href="https://twitter.com/BannerBomb_/" target="_blank">Me on Twitter: BannerBomb_</a><br> \
-<a href="https://github.com/BannerBomb/" target="_blank">Me on Github: BannerBomb</a><br> \
-<a href="http://bannerbomb.github.io/" target="_blank">My Website</a></h3> \
+<h3> \
+' + apndtxt + '\
+</h3> \
 </td> \
 \
 </tr> \
