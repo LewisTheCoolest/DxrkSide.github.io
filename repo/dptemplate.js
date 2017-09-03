@@ -1,8 +1,8 @@
 var content = document.getElementById('content').innerHTML;
 /* [[ BEGIN VARIABLES ]] */
-var useFooterItems = true // Should you use footer items?
+var useFooterItems = false // Should you use footer items?
 var personalLinks = false // My website links
-var screenshotsBtn = true // Show screenshots button
+var screenshotsBtn = false // Show screenshots button
 var getVars = useFooterItems && personalLinks || screenshotsBtn // Returns if 2 or more vars are true
 /* [[ END VARIABLES ]] */
 
