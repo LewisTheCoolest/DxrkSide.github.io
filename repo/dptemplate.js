@@ -1,9 +1,9 @@
 var content = document.getElementById('content').innerHTML;
 /* [[ BEGIN VARIABLES ]] */
-var useFooterItems = false // Should you use footer items?
-var personalLinks = false // My website links
-var screenshotsBtn = false // Show screenshots button
-var getVars = useFooterItems && personalLinks || screenshotsBtn // Returns if 2 or more vars are true
+var useFooterItems = false; // Should you use footer items?
+var personalLinks = false; // My website links
+var screenshotsBtn = false; // Show screenshots button
+var getVars = useFooterItems && personalLinks || screenshotsBtn; // Returns if 2 or more vars are true
 /* [[ END VARIABLES ]] */
 
 /* [[ BEGIN DEFINITIONS ]] */
@@ -14,36 +14,40 @@ var scrnshtsbtn;
 var apndtxt;
 /* [[ END DEFINITIONS ]] */
 
-if (useFooterItems) {
 if (getVars) {
-addbreak = ' \
-<br> \ ';
+  addbreak = '<br>';
 } else {
-addbreak = ' \ \ ';
+  addbreak = '';
 }
 
 if (personalLinks) {
-prsnlnk = ' \
-<a href="https://twitter.com/BannerBomb/" target="_blank">Me on Twitter: BannerBomb_</a><br> \
-<a href="https://github.com/BannerBomb/" target="_blank">Me on Github: BannerBomb</a><br> \
-<a href="http://bannerbomb.github.io/" target="_blank">My Website</a> \
-' + addbreak + '\ ';
+  prsnlnk = ' \
+  <a href="https://twitter.com/BannerBomb/" target="_blank">Me on Twitter: BannerBomb_</a><br> \
+  <a href="https://github.com/BannerBomb/" target="_blank">Me on Github: BannerBomb</a><br> \
+  <a href="http://bannerbomb.github.io/" target="_blank">My Website</a> \
+  ' + addbreak + '\
+  ';
+} else {
+  prsnlnk = '';
 }
 
 if (screenshotsBtn) {
-scrnshtsbtn = ' \
-' + addbreak + '\ ';
+  scrnshtsbtn = ' \
+  ' + addbreak + '\
+  ';
+} else {
+  scrnshtsbtn = '';
 }
 
-/* [[ BEGIN GATHERING TEXT TO DISPLAY ]] */
-apndtxt = ' \
-' + prsnlnk + '\
-' + scrnshtsbtn + '\
-\ ';
-/* [[ END GATHERING TEXT TO DISPLAY ]] */
-
+if (useFooterItems) {
+  /* [[ BEGIN GATHERING TEXT TO DISPLAY ]] */
+  apndtxt = ' \
+  ' + prsnlnk + '\
+  ' + scrnshtsbtn + '\
+  ';
+  /* [[ END GATHERING TEXT TO DISPLAY ]] */
 } else {
-apndtxt = ' \ \ ';
+  apndtxt = '';
 }
 
 
@@ -77,7 +81,7 @@ var template = ' \
 ' + apndtxt + '\
 </h3> \
 </td> \
-\
+ \
 </tr> \
 </table> \
 ';
