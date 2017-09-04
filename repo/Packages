@@ -135,6 +135,7 @@ MD5sum: f88c30e572e0ec760e760987f04bcc82
 Description: adds a shutdown, reboot, Respring, and a safemode, killall, endless reboot, Lock option to your settings.app
 Name: Respring
 Author: BannerBomb <BannerBomb55@gmail.com>
+Depiction: http://BannerBomb.github.io/repo/Files/respring/index.html
 
 Package: com.bannerbomb.respring
 Version: 12.4-1
