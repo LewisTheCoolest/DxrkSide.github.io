@@ -36,15 +36,6 @@ scrnshtsbtn = ' \
 \ '
 }
 
-
-/* [[ BEGIN GATHERING TEXT TO DISPLAY ]] */
-apndtxt = ' \
-' + prsnlnk + ' \
-' + scrnshtsbtn + ' \
-\ '
-/* [[ END GATHERING TEXT TO DISPLAY ]] */
-
-
 } else {
 apndtxt = ' \ \ '
 }
