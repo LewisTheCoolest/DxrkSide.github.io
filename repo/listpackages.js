@@ -1,3 +1,4 @@
+var domain = window.location.protocol + '//' + window.location.hostname + '/repo/';
 //Some fast iOS check.
 is_ios = (navigator.userAgent.match(/iPad/i) != null) || (navigator.userAgent.match(/iPhone/i) != null) || (navigator.userAgent.match(/iPod/i) != null);
 if (!is_ios) document.getElementById('ocy').innerHTML = ' Most probably, you will not be able to open Cydia.';
@@ -111,7 +112,7 @@ xhr.onreadystatechange = function() {
 			pack.Name + ' (' + pack.Version + ')</a><br>' +
 			'<div id="u_' + pack.Package + '" style="display:none;">' +
 			'&nbsp;&nbsp;' + pack.Description + '<br>' +
-			(is_ios ? '&nbsp;&nbsp;<a href="' +  'cydia://url/https://cydia.saurik.com/api/share#?source=http://BannerBomb.github.io/repo/&package=' + pack.Package + '" target="_blank">Show in Cydia.</a><br>' : '') +
+			(is_ios ? '&nbsp;&nbsp;<a href="' +  'cydia://url/https://cydia.saurik.com/api/share#?source=' + domain + '&package=' + pack.Package + '" target="_blank">Show in Cydia.</a><br>' : '') +
 			'&nbsp;&nbsp;<a href="' + pack.Depiction + '" target="_blank">Show more info.</a><br>' +
 			'&nbsp;&nbsp;<a href="' + pack.Filename + '" target="_blank">Download the .deb package.</a><br><br>' +
 			'</div>';
