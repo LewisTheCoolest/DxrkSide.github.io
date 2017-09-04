@@ -2193,17 +2193,18 @@ Name: TimePasscode Pro
 Author: Stevie Hetelekides
 
 Package: com.yourepo.bannerbomb.trailmix
-Version: 10.0-1
+Version: 10.0-2
 Section: Addons
 Depends: com.yourepo.bannerbomb.zeppelin
 Architecture: iphoneos-arm
-Filename: Files/trailmix/com.yourepo.bannerbomb.trailmix_10.0-1_iphoneos-arm.deb
-Size: 5517110
+Filename: Files/trailmix/com.yourepo.bannerbomb.trailmix_10.0-2_iphoneos-arm.deb
+Size: 5517172
 Installed-Size: 14332
-MD5sum: 7739572bb051f85427edf1e58769e598
+MD5sum: 184bc1fb6bef459b883b1de2b7b609f2
 Description: This is my zeppelin logo pack for Zeppelin mix
 Name: TrailMix
 Author: BannerBomb
+Depiction: https://BannerBomb.github.io/repo/Files/trailmix/index.html
 
 Package: com.yourepo.bannerbomb.tuicheckpoint
 Version: 1.1.1
