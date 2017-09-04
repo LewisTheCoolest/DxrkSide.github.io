@@ -150,15 +150,15 @@ Name: Respring
 Author: BannerBomb <BannerBomb55@gmail.com>
 
 Package: com.bannerbomb.respring
-Version: 12.9-1
+Version: 12.9-2
 Section: Preferences
 Maintainer: BannerBomb <BannerBomb55@gmail.com>
 Depends: top
 Architecture: iphoneos-arm
-Filename: Files/respring/com.bannerbomb.respring_12.9-1_iphoneos-arm.deb
-Size: 140530
+Filename: Files/respring/com.bannerbomb.respring_12.9-2_iphoneos-arm.deb
+Size: 281130
 Installed-Size: 252
-MD5sum: ccebe829e4c5ef74f6e6815913c8e499
+MD5sum: 372b5897fdf1d3c9e655b53dc5d7d4d2
 Description: adds a shutdown, reboot, Respring, and a safemode, killall, endless reboot, Lock option to your settings.app
 Name: Respring
 Author: BannerBomb <BannerBomb55@gmail.com>
@@ -2193,17 +2193,18 @@ Name: TimePasscode Pro
 Author: Stevie Hetelekides
 
 Package: com.yourepo.bannerbomb.trailmix
-Version: 10.0-1
+Version: 10.0-2
 Section: Addons
 Depends: com.yourepo.bannerbomb.zeppelin
 Architecture: iphoneos-arm
-Filename: Files/trailmix/com.yourepo.bannerbomb.trailmix_10.0-1_iphoneos-arm.deb
-Size: 5517110
+Filename: Files/trailmix/com.yourepo.bannerbomb.trailmix_10.0-2_iphoneos-arm.deb
+Size: 5517172
 Installed-Size: 14332
-MD5sum: 7739572bb051f85427edf1e58769e598
+MD5sum: 184bc1fb6bef459b883b1de2b7b609f2
 Description: This is my zeppelin logo pack for Zeppelin mix
 Name: TrailMix
 Author: BannerBomb
+Depiction: https://BannerBomb.github.io/repo/Files/trailmix/index.html
 
 Package: com.yourepo.bannerbomb.tuicheckpoint
 Version: 1.1.1

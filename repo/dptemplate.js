@@ -1,9 +1,9 @@
 var content = document.getElementById('content').innerHTML;
 /* [[ BEGIN VARIABLES ]] */
-var useFooterItems = false // Should you use footer items?
-var personalLinks = false // My website links
-var screenshotsBtn = false // Show screenshots button
-var getVars = useFooterItems && personalLinks || screenshotsBtn // Returns if 2 or more vars are true
+var useFooterItems = false; // Should you use footer items?
+var personalLinks = false; // My website links
+var screenshotsBtn = false; // Show screenshots button
+var getVars = useFooterItems && personalLinks || screenshotsBtn; // Returns if 2 or more vars are true
 /* [[ END VARIABLES ]] */
 
 /* [[ BEGIN DEFINITIONS ]] */
@@ -12,38 +12,50 @@ var addbreak;
 var prsnlnk;
 var scrnshtsbtn;
 var apndtxt;
+var hr;
 /* [[ END DEFINITIONS ]] */
 
-if (useFooterItems) {
 if (getVars) {
-addbreak = ' \
-<br> \ ';
+  addbreak = '<br><br>';
+  hr = ' \
+  <br> \
+  <br> \
+  <hr> \
+  ';
 } else {
-addbreak = ' \ \ ';
+  addbreak = '';
+  hr = '';
 }
 
 if (personalLinks) {
-prsnlnk = ' \
-<a href="https://twitter.com/BannerBomb/" target="_blank">Me on Twitter: BannerBomb_</a><br> \
-<a href="https://github.com/BannerBomb/" target="_blank">Me on Github: BannerBomb</a><br> \
-<a href="http://bannerbomb.github.io/" target="_blank">My Website</a> \
-' + addbreak + '\ ';
+  prsnlnk = ' \
+  <a href="https://twitter.com/BannerBomb/" target="_blank">Me on Twitter: BannerBomb_</a><br> \
+  <a href="https://github.com/BannerBomb/" target="_blank">Me on Github: BannerBomb</a><br> \
+  <a href="http://bannerbomb.github.io/" target="_blank">My Website</a> \
+  ' + addbreak + '\
+  ';
+} else {
+  prsnlnk = '';
 }
 
 if (screenshotsBtn) {
-scrnshtsbtn = ' \
-' + addbreak + '\ ';
+  scrnshtsbtn = ' \
+  <a href="#" style="border-style: solid; border-width: 1px;"><button style="background-color: #FFF;">Screenshots</button></a> \
+  ' + addbreak + '\
+  ';
+} else {
+  scrnshtsbtn = '';
 }
 
-/* [[ BEGIN GATHERING TEXT TO DISPLAY ]] */
-apndtxt = ' \
-' + prsnlnk + '\
-' + scrnshtsbtn + '\
-\ ';
-/* [[ END GATHERING TEXT TO DISPLAY ]] */
-
+if (useFooterItems) {
+  /* [[ BEGIN GATHERING TEXT TO DISPLAY ]] */
+  apndtxt = ' \
+  ' + prsnlnk + '\
+  ' + scrnshtsbtn + '\
+  ';
+  /* [[ END GATHERING TEXT TO DISPLAY ]] */
 } else {
-apndtxt = ' \ \ ';
+  apndtxt = '';
 }
 
 
@@ -72,12 +84,12 @@ var template = ' \
 <div style="text-align: justify; font-size:110%; background-color:#FFFFFF; min-width: 300px; max-width: 700px; vertical-align: top;"><br> \
 ' + content + '\
 </div> \
-<hr> \
+' + hr + '\
 <h3> \
 ' + apndtxt + '\
 </h3> \
 </td> \
-\
+ \
 </tr> \
 </table> \
 ';
