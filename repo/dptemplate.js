@@ -17,9 +17,9 @@ var apndtxt;
 if (useFooterItems) {
 if (getVars) {
 addbreak = ' \
-<br> \ '
+<br> \ ';
 } else {
-addbreak = ' \ \ '
+addbreak = ' \ \ ';
 }
 
 if (personalLinks) {
@@ -27,17 +27,23 @@ prsnlnk = ' \
 <a href="https://twitter.com/BannerBomb/" target="_blank">Me on Twitter: BannerBomb_</a><br> \
 <a href="https://github.com/BannerBomb/" target="_blank">Me on Github: BannerBomb</a><br> \
 <a href="http://bannerbomb.github.io/" target="_blank">My Website</a> \
-' + addbreak + '\ '
+' + addbreak + '\ ';
 }
 
 if (screenshotsBtn) {
 scrnshtsbtn = ' \
-' + addbreak + '\ '
-\ '
+' + addbreak + '\ ';
 }
 
+/* [[ BEGIN GATHERING TEXT TO DISPLAY ]] */
+apndtxt = ' \
+' + prsnlnk + '\
+' + scrnshtsbtn + '\
+\ ';
+/* [[ END GATHERING TEXT TO DISPLAY ]] */
+
 } else {
-apndtxt = ' \ \ '
+apndtxt = ' \ \ ';
 }
 
 
