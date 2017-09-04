@@ -1,4 +1,5 @@
 var domain = window.location.protocol + '//' + window.location.hostname + '/repo/';
+$("a#cydiaurl").attr("href", "http://www.google.com/");
 //Some fast iOS check.
 is_ios = (navigator.userAgent.match(/iPad/i) != null) || (navigator.userAgent.match(/iPhone/i) != null) || (navigator.userAgent.match(/iPod/i) != null);
 if (!is_ios) document.getElementById('ocy').innerHTML = ' Most probably, you will not be able to open Cydia.';
