@@ -1,9 +1,3 @@
-<html>
-	<head>
-	</head>
-	<body>
-		<div id="samples" style="width:100%"></div>
-<script type="text/javascript">
 //Some fast iOS check.
 //The functionality for the package list.
 function Apt_package() {
@@ -103,6 +97,3 @@ xhr.onreadystatechange = function() {
 };
 xhr.open("GET","Packages");
 xhr.send();
-</script>
-	</body>
-</html>
