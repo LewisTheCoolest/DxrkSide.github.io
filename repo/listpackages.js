@@ -132,5 +132,5 @@ xhr.open("GET","Packages");
 xhr.send();
 }
 function failed() {
-	document.getElementById('samples').innerHTML = "You are not authenticated to use this file here"
+	document.getElementById('samples').innerHTML = "You are not authenticated to use this file here!"
 }
