@@ -1,3 +1,11 @@
+var domain = window.location.protocol + '//' + window.location.hostname;
+var http = window.location.protocol + '//';
+if (domain === http + "bannerbomb.github.io" || domain === http + "bannerbomb.000webhostapp.com") {
+  success();
+} else {
+  failed();
+}
+function success() {
 var domain = window.location.protocol + '//' + window.location.hostname + '/repo/';
 document.getElementById("cydiaurl").href="cydia://url/https://cydia.saurik.com/api/share#?source=" + domain;
 //Some fast iOS check.
@@ -122,3 +130,7 @@ xhr.onreadystatechange = function() {
 
 xhr.open("GET","Packages");
 xhr.send();
+}
+function failed() {
+	document.getElementById('samples').innerHTML = "You are not authenticated to use this file here"
+}
