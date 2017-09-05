@@ -12,12 +12,19 @@ var addbreak;
 var prsnlnk;
 var scrnshtsbtn;
 var apndtxt;
+var hr;
 /* [[ END DEFINITIONS ]] */
 
 if (getVars) {
   addbreak = '<br>';
+  hr = ' \
+  <br> \
+  <br> \
+  <hr> \
+  ';
 } else {
   addbreak = '';
+  hr = '';
 }
 
 if (personalLinks) {
@@ -76,7 +83,7 @@ var template = ' \
 <div style="text-align: justify; font-size:110%; background-color:#FFFFFF; min-width: 300px; max-width: 700px; vertical-align: top;"><br> \
 ' + content + '\
 </div> \
-<hr> \
+' + hr + '\
 <h3> \
 ' + apndtxt + '\
 </h3> \
