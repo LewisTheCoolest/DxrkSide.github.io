@@ -150,6 +150,21 @@ Name: Respring
 Author: BannerBomb <BannerBomb55@gmail.com>
 
 Package: com.bannerbomb.respring
+Version: 12.9-1
+Section: Preferences
+Maintainer: BannerBomb <BannerBomb55@gmail.com>
+Depends: top
+Architecture: iphoneos-arm
+Filename: Files/respring/com.bannerbomb.respring_12.9-1_iphoneos-arm.deb
+Size: 140530
+Installed-Size: 252
+MD5sum: ccebe829e4c5ef74f6e6815913c8e499
+Description: adds a shutdown, reboot, Respring, and a safemode, killall, endless reboot, Lock option to your settings.app
+Name: Respring
+Author: BannerBomb <BannerBomb55@gmail.com>
+Depiction: http://BannerBomb.github.io/repo/Files/respring/index.html
+
+Package: com.bannerbomb.respring
 Version: 12.9-2
 Section: Preferences
 Maintainer: BannerBomb <BannerBomb55@gmail.com>
@@ -2364,6 +2379,25 @@ Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=betterpower
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=betterpowerdownDp
 Icon: file:///Library/PreferenceBundles/BetterPowerDownSettings.bundle/BetterPowerDownSettings@2x.png
 
+Package: org.coolstar.betterpowerdown
+Version: 1.3.0-1
+Section: Tweaks
+Maintainer: BannerBomb <BannerBomb55@gmail.com>
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), firmware(<< 8.0) | org.coolstar.libclassictelephonyui
+Provides: ws.hbang.repower
+Replaces: ws.hbang.repower
+Architecture: iphoneos-arm
+Filename: Files/betterpowerdown/org.coolstar.betterpowerdown_1.3.0-1_iphoneos-arm.deb
+Size: 74536
+Installed-Size: 333
+MD5sum: 11e2cd21b7c0dd84a3d2dce5e035f1e5
+Description: classic iOS 6 style power sliders
+Name: BetterPowerDown
+Author: CoolStar <coolstarorganization@gmail.com>
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=betterpowerdownDp
+Depiction: http://BannerBomb.github.io/repo/Files/betterpowerdown/index.html
+Icon: file:///Library/PreferenceBundles/BetterPowerDownSettings.bundle/BetterPowerDownSettings@2x.png
+
 Package: org.coolstar.libghost
 Version: 1.1-2
 Priority: optional
@@ -2534,4 +2568,21 @@ Author: Ryan Burke <ryanb-93@hotmail.co.uk>
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=certmanagerDp
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=certmanagerDp
 Icon: file:///Applications/CertManager.app/Icon-60.png
+
+Package: ws.hbang.repower
+Version: 2.0-4
+Section: Tweaks
+Maintainer: BannerBomb <BannerBomb55@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 6.0), preferenceloader (>= 2.2.2)
+Architecture: iphoneos-arm
+Filename: Files/repower/ws.hbang.repower_2.0-4_iphoneos-arm.deb
+Size: 78048
+Installed-Size: 298
+MD5sum: 285919bfa94ba8e53c3cdc4d00a09c95
+Description: useful information on the power down view
+Name: RePower
+Author: HASHBANG Productions <support@hbang.ws>
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=repowerDp
+Depiction: http://BannerBomb.github.io/repo/Files/repower/index.html
+Icon: file:///Library/PreferenceBundles/RePower.bundle/RePower@2x.png
 
