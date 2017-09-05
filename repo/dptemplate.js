@@ -16,7 +16,7 @@ var hr;
 /* [[ END DEFINITIONS ]] */
 
 if (getVars) {
-  addbreak = '<br>';
+  addbreak = '<br><br>';
   hr = ' \
   <br> \
   <br> \
@@ -40,6 +40,7 @@ if (personalLinks) {
 
 if (screenshotsBtn) {
   scrnshtsbtn = ' \
+  <a href="#" style="border-style: solid; border-width: 1px;"><button style="background-color: #FFF;">Screenshots</button></a> \
   ' + addbreak + '\
   ';
 } else {
