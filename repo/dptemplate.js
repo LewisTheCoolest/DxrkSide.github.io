@@ -261,7 +261,7 @@ var template = ' \
       <!--<meta http-equiv="cache-control" content="no-cache">--> \
       <title>BannerBomb\'s Cydia repo</title> \
     </head> \
-    <body class="depiction"> \
+    <body class="depiction" style="width: auto;"> \
       ' + apndtxt + '\
     </body> \
   </html> \
