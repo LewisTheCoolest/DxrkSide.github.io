@@ -18,6 +18,7 @@ html .depiction {
 body {
   font:16px -apple-system-font,".Helvetica NeueUI","Helvetica Neue",sans-serif;
   margin:80px 0 35px
+  width:414px;
 }
 
 .cydia body {
@@ -40,6 +41,12 @@ body {
 #content {
   width:964px
 }
+}
+
+@media (max-device-width: 767px) {
+  body {
+    width:100%
+  }
 }
 
 body>p,h2,header .date,p[class="footer"] {
