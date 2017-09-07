@@ -31,14 +31,14 @@ body {
 }
 
 @media (min-width:708px) {
-#content {
+#contentone {
   width:708px;
   margin:0 auto
 }
 }
 
 @media (min-width:964px) {
-#content {
+#contentone {
   width:964px
 }
 }
