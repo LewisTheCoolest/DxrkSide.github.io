@@ -25,7 +25,7 @@ As this website uses JavaScript to generate a semi-dynamically created page, you
 </html>
 */
 
-var content = document.getElementById('contentone').innerHTML;
+var content = document.getElementById('content').innerHTML;
 /* [[ BEGIN VARIABLES ]] */
 var useFooterItems = true; // Should you use footer items?
 var personalLinks = false; // My website links
