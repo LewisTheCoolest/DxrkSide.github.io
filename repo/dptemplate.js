@@ -221,6 +221,8 @@ if (useFooterItems) {
   apndtxt = ' \
   ' + headertitle + '\
   <main id="contentone" role="main"> \
+  <br> \
+  <br> \
   <ul> \
   ' + longdesc + '\
   ' + shortdesc + '\
