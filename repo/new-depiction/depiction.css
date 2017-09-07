@@ -21,6 +21,11 @@ body {
   width:414px;
 }
 
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
 .cydia body {
   margin-top:35px
 }
