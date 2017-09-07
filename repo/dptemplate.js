@@ -1,3 +1,30 @@
+/*
+<html>
+<head>
+<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+</head>
+  <body>
+<div id="contentone" style="display:none">
+  <div id='headerTitle'>test</div>
+  <div id='LongDesc'>This is a depiction of a cydia package. The URL of this page should be set as the "Depiction" element of the <code>DEBIAN/control</code> file, and it contains more information than the regular "Description" entry. There\'s info on package maintainence, settings, &amp;c.</div>
+  <div id='ShortDesc'>This is another bit of information, split by the line above. This may be trivial information or integral to the package\'s instructions.</div>
+  <div id='ThisVersionChange'>First release!</div>
+  <div id='OtherVersionChange'>More changes!</div>
+  <div id='KnownIssues'>No current issues.</div>
+</div>
+
+<!-- include this everywhere you want the standard design template from here... -->
+<script type="text/javascript" src="../../dptemplate.js"></script>
+<link rel="stylesheet" type="text/css" href="../../new-depiction/depiction.css" />
+<script type="text/javascript" src="../../new-depiction/depiction.css"></script>
+<noscript>
+As this website uses JavaScript to generate a semi-dynamically created page, you need to activate JavaScript!
+</noscript>
+<!-- ...until here! -->
+  </body>
+</html>
+*/
+
 var content = document.getElementById('contentone').innerHTML;
 /* [[ BEGIN VARIABLES ]] */
 var useFooterItems = true; // Should you use footer items?
