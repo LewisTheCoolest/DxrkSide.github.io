@@ -56,6 +56,7 @@ var inthisver;
 var changelogbtn;
 var knownissues;
 var footertext;
+var br;
 /* [[ END DEFINITIONS ]] */
 
 /* [[ BEGIN STRINGS ]] */
@@ -216,13 +217,21 @@ if (footerText) {
   footertext = '';
 }
 
+if (headerTitle) {
+  br = ' \
+  <br> \
+  <br> \
+  ';
+} else {
+  br = '';
+}
+
 if (useFooterItems) {
   /* [[ BEGIN GATHERING TEXT TO DISPLAY ]] */
   apndtxt = ' \
   ' + headertitle + '\
   <main id="contentone" role="main"> \
-  <br> \
-  <br> \
+  ' + br + ' \
   <ul> \
   ' + longdesc + '\
   ' + shortdesc + '\
