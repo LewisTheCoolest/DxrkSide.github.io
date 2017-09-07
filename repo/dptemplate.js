@@ -1,4 +1,4 @@
-var content = document.getElementById('content').innerHTML;
+var content = document.getElementById('contentone').innerHTML;
 /* [[ BEGIN VARIABLES ]] */
 var useFooterItems = true; // Should you use footer items?
 var personalLinks = false; // My website links
@@ -6,9 +6,9 @@ var screenshotsBtn = false; // Show screenshots button
 var headerTitle = true; // Adds a header to the top of the screen
 var longDesc = true; // Long Description of package
 var shortDesc = true; // Short Description of package
-var openInCydia = true; // Short open in cydia button?
+var openInCydia = false; // Short open in cydia button?
 var inThisVer = true; // Changes in the current version
-var changelogBtn = true; // Changes to the package
+var changelogBtn = false; // Changes to the package
 var knownIssues = true; // Display the packages known issues
 var footerText = true; // Footer Text Shows at Bottom of Screen
 
@@ -35,6 +35,7 @@ var footertext;
 var inthisvertitletext = 'In this version';
 var openincydiatext = 'View in Cydia';
 var changelogbtntext = 'Changelog';
+var changeloglink = '../../new-depiction/changelog.html';
 var knownissuestext = 'Known&nbsp;Issues';
 var reportknownissues = 'Report issues to /u/BannerBomb';
 /* [[ END STRINGS ]] */
@@ -60,35 +61,47 @@ if (screenshotsBtn) {
 
 if (headerTitle) {
   var getTitleText = document.getElementById('headerTitle').innerHTML;
-  headertitle = ' \
-  <header> \
-  <h1> \
-  ' + getTitleText + '\
-  </h1> \
-  </header> \
-  ';
+  if (getTitleText === '') {
+    headertitle = '';
+  } else if (getTitleText !== '') {
+    headertitle = ' \
+    <header> \
+    <h1> \
+    ' + getTitleText + '\
+    </h1> \
+    </header> \
+    ';
+  }
 } else {
   headertitle = '';
 }
 
 if (longDesc) {
   var getLongDesc = document.getElementById('LongDesc').innerHTML;
-  longdesc = ' \
-  <li> \
-  ' + getLongDesc + ' \
-  </li> \
-  ';
+  if (getLongDesc === '') {
+    longdesc = ''
+  } else if (getLongDesc !== '') {
+    longdesc = ' \
+    <li> \
+    ' + getLongDesc + ' \
+    </li> \
+    ';
+  }
 } else {
   longdesc = '';
 }
 
 if (shortDesc) {
   var getShortDesc = document.getElementById('ShortDesc').innerHTML;
-  shortdesc = ' \
-  <li> \
-  ' + getShortDesc + ' \
-  </li> \
-  ';
+  if (getShortDesc === '') {
+    shortdesc = ''
+  } else if (getShortDesc !== '') {
+    shortdesc = ' \
+    <li> \
+    ' + getShortDesc + ' \
+    </li> \
+    ';
+  }
 } else {
   shortdesc = '';
 }
@@ -98,7 +111,7 @@ if (openInCydia) {
   openincydia = ' \
   <ul id="cydia-open"> \
   <li> \
-  <a href="cydia://package/XXX" class="button"> \
+  <a href="cydia://url/https://cydia.saurik.com/api/share#?source=" + domain + "&package=" + pack.Package class="button"> \
   ' + openincydiatext + '\
   </a> \
   </li> \
@@ -111,19 +124,23 @@ if (openInCydia) {
 if (inThisVer) {
   var getInThisVer = document.getElementById('ThisVersionChange').innerHTML;
   var getOtherVer = document.getElementById('OtherVersionChange').innerHTML;
+  if (getInThisVer === '' || getOtherVer === '') {
+    inthisver = ''
+  } else if (getInThisVer !== '' || getOtherVer !== '') {
   inthisver = ' \
-  <h2 id="in-this-version"> \
-  ' + inthisvertitletext + ' \
-  </h2> \
-   <ul> \
-    <li> \
-     ' + getInThisVer + ' \
-    </li> \
-    <li> \
-     ' + getOtherVer + ' \
-    </li> \
-   </ul> \
-  ';
+    <h2 id="in-this-version"> \
+    ' + inthisvertitletext + ' \
+    </h2> \
+     <ul> \
+      <li> \
+       ' + getInThisVer + ' \
+      </li> \
+      <li> \
+       ' + getOtherVer + ' \
+      </li> \
+     </ul> \
+    ';
+  }
 } else {
   inthisver = '';
 }
@@ -132,7 +149,7 @@ if (changelogBtn) {
   changelogbtn = ' \
   <ul> \
   <li> \
-  <a href="" class="button"> \
+  <a href=" ' + changeloglink + ' " class="button"> \
   ' + changelogbtntext + ' \
   </a> \
   </li> \
@@ -144,22 +161,25 @@ if (changelogBtn) {
 
 if (knownIssues) {
   var getKnownIssues = document.getElementById('KnownIssues').innerHTML;
+  if (getKnownIssues === '') {
+    knownissues = '';
+  } else if (getKnownIssues !== '') {
   knownissues = ' \
-  <h2 id="known-issues"> \
-  ' + knownissuestext + ' \
+    <h2 id="known-issues"> \
+    ' + knownissuestext + ' \
     </h2> \
-    <ul> \
-      <li> \
-        ' + getKnownIssues + ' \
-      </li> \
-    </ul> \
-  ';
+      <ul> \
+        <li> \
+          ' + getKnownIssues + ' \
+        </li> \
+      </ul> \
+    ';
+  }
 } else {
   knownissues = '';
 }
 
 if (footerText) {
-  
   footertext = ' \
   <p class="footer"> \
   ' + reportknownissues + ' \
