@@ -82,6 +82,45 @@ Name: Minecraft PE
 Author: Mojang
 Depiction: http://bannerbomb.000webhostapp.com/repo/Files/minecraftpe/index.html
 
+Package: com.000webhostapp.bannerbomb.minecraftpe
+Version: 0.3.0-alpha
+Section: Games
+Maintainer: BannerBomb <BannerBomb55@gmail.com>
+Architecture: iphoneos-arm
+Filename: Files/minecraftpe/com.000webhostapp.bannerbomb.minecraftpe_0.3.0-alpha_iphoneos-arm.deb
+Size: 1648404
+MD5sum: 9047273b60c8625291f0069c80e5a941
+Description: Full Version of Minecraft PE Pirated by BannerBomb
+Name: Minecraft PE
+Author: Mojang
+Depiction: http://bannerbomb.000webhostapp.com/repo/Files/minecraftpe/index.html
+
+Package: com.000webhostapp.bannerbomb.minecraftpe
+Version: 0.3.2-alpha
+Section: Games
+Maintainer: BannerBomb <BannerBomb55@gmail.com>
+Architecture: iphoneos-arm
+Filename: Files/minecraftpe/com.000webhostapp.bannerbomb.minecraftpe_0.3.2-alpha_iphoneos-arm.deb
+Size: 1708178
+MD5sum: 1135802792f682acd7ae5f4f2153e1a3
+Description: Full Version of Minecraft PE Pirated by BannerBomb
+Name: Minecraft PE
+Author: Mojang
+Depiction: http://bannerbomb.000webhostapp.com/repo/Files/minecraftpe/index.html
+
+Package: com.000webhostapp.bannerbomb.minecraftpe
+Version: 0.3.3-alpha
+Section: Games
+Maintainer: BannerBomb <BannerBomb55@gmail.com>
+Architecture: iphoneos-arm
+Filename: Files/minecraftpe/com.000webhostapp.bannerbomb.minecraftpe_0.3.3-alpha_iphoneos-arm.deb
+Size: 1819644
+MD5sum: 845cfdfe18fd22c4a108665b736fe662
+Description: Full Version of Minecraft PE Pirated by BannerBomb
+Name: Minecraft PE
+Author: Mojang
+Depiction: http://bannerbomb.000webhostapp.com/repo/Files/minecraftpe/index.html
+
 Package: com.000webhostapp.bannerbomb.minios
 Version: 1.0
 Section: Emulators
@@ -542,6 +581,24 @@ Author: julioverne <julioverne@me.com>
 Homepage: http://twitter.com/ijulioverne
 Depiction: http://julio.xarold.com/files-deb/cydown.html
 Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
+
+Package: com.laughingquoll.controlcenterxi
+Version: 1.0.2-2
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, firmware (>= 8.0), com.laughingquoll.corexi (>= 1.2)
+Conflicts: com.atwiiks.horseshoe
+Architecture: iphoneos-arm
+Filename: Files/controlcenterxi/com.laughingquoll.controlcenterxi_1.0.2-2_iphoneos-arm.deb
+Size: 73930
+Installed-Size: 241
+MD5sum: f602af47ad6dba2f2ca8db0aeb61a7ec
+Description: iOS 11 Style Control Center
+Name: ControlCenterXI
+Author: LaughingQuoll <laughingquoll@gmail.com>
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=controlcenterxiDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=controlcenterxiDp
+Icon: file:///Library/PreferenceBundles/CoreXI.bundle/icon@2x.png
 
 Package: com.macciti.cydia6ios7
 Version: 1.0.1
