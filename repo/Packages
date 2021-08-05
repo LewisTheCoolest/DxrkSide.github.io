@@ -2721,3 +2721,20 @@ Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=repowerDp
 Depiction: http://BannerBomb.github.io/repo/Files/repower/index.html
 Icon: file:///Library/PreferenceBundles/RePower.bundle/RePower@2x.png
 
+Package: com.yourepo.artikushg.unitether_1.1
+Version: 1.1
+Priority: standard
+Section: [Tweaks]
+Essential: no
+Maintainer: Feng.com <support@office.feng.com>
+Depends: firmware (>= 9.0)
+Architecture: iphoneos-arm
+Filename: com.yourepo.artikushg.unitether_1.1
+Size: 6105622
+MD5sum: eaca9c092d2ee2e76bacbf0a3fd5dcf0
+Description: The jailbreaker for Half sn0wd iphones. iphoneos-arm. Untether for pwn.
+Name: UniBoot
+Author: ArtikusHG <artiomoleynic@gmail.com>
+Homepage: http://apt.so/index.php?r=read&id=551b525d0e1d15f3518b4a00
+Depiction: http://apt.so/index.php?r=cydia&id=551b525d0e1d15f3518b4a00
+Icon: file:///Applications/itools.app/Icon@2x.png
